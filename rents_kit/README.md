@@ -76,7 +76,26 @@ Settings you may change are all in `config.py` (top of each section). The `--ble
 
 Data © Microburbs (microburbs.com.au); estimates are automated and indicative only. Addresses use Open G-NAF, © Geoscape Australia, licensed by the Commonwealth
 with an attribution and mailing restriction. 2021 block counts use ABS Census data, © Commonwealth of Australia,
-CC BY 4.0. Add every other source you use.
+CC BY 4.0. Floors, building size and age use Geoscape G-NAF (August 2026); views and heights use NSW LiDAR 2013/2020,
+© State of New South Wales (Spatial Services) via ELVIS, CC BY, with building footprints, parks and water © OpenStreetMap
+contributors, ODbL; short-stay listing counts use Inside Airbnb (insideairbnb.com), CC BY 4.0 (`public/manifest.json` records the source commit). Add every other source you use.
+
+## Public features (G-NAF, LiDAR, Inside Airbnb)
+
+Per-flat features imported from the team repo `microburbs-hackathon-2026` (clone it beside this repo, or pass `--src`):
+
+```powershell
+python import_public.py --crosscheck ..\data\rents-input-flats-city-of-sydney.csv   # writes public\*.csv + manifest.json
+```
+
+Switches in `config.py`: `USE_GNAF` (floor position, building size, strata year), `USE_LIDAR` (per-floor water/park views,
+roofline margin, height, distances, airport path), `GNAF_FLOOR_FILL` (blank `floor_level` filled from G-NAF: ground floors),
+`USE_AIRBNB` (counts of short-stay listings that existed before the cutoff), `AIRBNB_SEPT_VALUES` (September-2026 prices,
+scores and "active" counts: after the cutoff, off by default). The import nulls strata years of 2026 and the per-flat fields of
+addresses edited after the cutoff, and drops OSM tag columns; `public/manifest.json: date_checks` records the counts.
+Tuning window, supplied adverts only (7 Nov 2026): typical miss $41.3 without the layers, $40.8 with G-NAF + LiDAR
+(flats without a prior advert $57.9 -> $55.2); Airbnb counts made no further difference. Run `eval` with each switch
+off and on before `final`.
 
 ## Rules the code enforces
 
