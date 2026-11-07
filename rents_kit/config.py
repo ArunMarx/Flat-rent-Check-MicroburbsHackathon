@@ -54,7 +54,8 @@ ROUND_TO = 0.5                             # 0.5 (whole or .50), or 5 for neares
 USE_GNAF = True                            # floor/position/building size/age from Geoscape G-NAF
 USE_LIDAR = True                           # per-floor views, heights, distances from LiDAR + OSM
 GNAF_FLOOR_FILL = True                     # fill a blank organiser floor_level from the G-NAF floor (needs USE_GNAF)
-USE_AIRBNB = True                          # Inside Airbnb counts of listings that existed before the cutoff (300 m, suburb)
+USE_AIRBNB = False                         # Inside Airbnb counts of listings that existed before the cutoff (300 m, suburb);
+                                           # tune window 7 Nov: MdAE $40.8 -> $40.7 but no-prior $55.2 -> $56.4, within $100 79.4% -> 79.2%
 AIRBNB_SEPT_VALUES = False                 # also use September-2026 values (prices, revenue, scores, licences): after the cutoff
 
 # ---- API (US11, sec. 10 of design.md) -----------------------------------------------------

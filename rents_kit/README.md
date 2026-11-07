@@ -94,8 +94,9 @@ roofline margin, height, distances, airport path), `GNAF_FLOOR_FILL` (blank `flo
 scores and "active" counts: after the cutoff, off by default). The import nulls strata years of 2026 and the per-flat fields of
 addresses edited after the cutoff, and drops OSM tag columns; `public/manifest.json: date_checks` records the counts.
 Tuning window, supplied adverts only (7 Nov 2026): typical miss $41.3 without the layers, $40.8 with G-NAF + LiDAR
-(flats without a prior advert $57.9 -> $55.2); Airbnb counts made no further difference. Run `eval` with each switch
-off and on before `final`.
+(flats without a prior advert $57.9 -> $55.2). Adding Airbnb counts: $40.7 overall but no-prior $56.4 and within $100
+79.4% -> 79.2%, so `USE_AIRBNB` defaults to off; with September values on: $40.7 / $56.9 / 79.3%. Run `eval` with each
+switch off and on before `final`.
 
 ## Rules the code enforces
 
