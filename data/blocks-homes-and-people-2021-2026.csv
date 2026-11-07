@@ -1,0 +1,2282 @@
+mb,suburb,mb_cat,homes_2021,homes_2026,people_2021,people_2026,new_homes
+10742891000,Sydney,Residential,226.0,450.0,608.0,763.0,224.0
+10741832000,Sydney,Commercial,0.0,6.0,0.0,4.0,6.0
+10741850000,Sydney,Residential,231.0,253.0,233.0,249.0,22.0
+10741860000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10741890000,Haymarket,Parkland,0.0,0.0,0.0,0.0,0.0
+10741900000,Haymarket,Transport,0.0,0.0,0.0,0.0,0.0
+10741910000,Haymarket,Transport,0.0,0.0,0.0,0.0,0.0
+10741920000,Sydney,Residential,46.0,48.0,60.0,75.0,2.0
+10741930000,Sydney,Residential,84.0,84.0,147.0,204.0,0.0
+10741940000,Sydney,Commercial,10.0,154.0,20.0,77.0,144.0
+10741950000,Sydney,Residential,238.0,686.0,321.0,628.0,448.0
+10741960000,Darlinghurst,Residential,126.0,128.0,165.0,183.0,2.0
+10741981000,Sydney,Commercial,0.0,6.0,3.0,10.0,6.0
+10741982000,Sydney,Residential,215.0,226.0,294.0,414.0,11.0
+10741983000,Sydney,Transport,0.0,0.0,0.0,0.0,0.0
+10742021000,Haymarket,Residential,211.0,214.0,492.0,585.0,3.0
+10742022000,Haymarket,Residential,302.0,304.0,548.0,680.0,2.0
+10742041000,Dawes Point,Commercial,0.0,11.0,0.0,4.0,11.0
+10742042000,Millers Point,Residential,54.0,55.0,79.0,89.0,1.0
+10742044000,Dawes Point,Residential,184.0,321.0,234.0,307.0,137.0
+10742070000,Sydney,Commercial,0.0,1.0,0.0,1.0,1.0
+10742081000,The Rocks (Sydney - NSW),Commercial,0.0,1.0,0.0,0.0,1.0
+10742083000,Dawes Point,Transport,0.0,0.0,0.0,0.0,0.0
+10742084000,The Rocks (Sydney - NSW),Commercial,0.0,1.0,0.0,0.0,1.0
+10742085000,The Rocks (Sydney - NSW),Commercial,0.0,1.0,0.0,0.0,1.0
+10742086000,The Rocks (Sydney - NSW),Commercial,8.0,12.0,13.0,8.0,4.0
+10742087000,The Rocks (Sydney - NSW),Commercial,0.0,1.0,0.0,0.0,1.0
+10742090000,Sydney,Parkland,0.0,0.0,0.0,0.0,0.0
+10742111000,Millers Point,Commercial,5.0,5.0,9.0,11.0,0.0
+10742112000,Millers Point,Residential,38.0,59.0,46.0,62.0,21.0
+10742121000,Sydney,Commercial,0.0,0.0,4.0,3.0,0.0
+10742122000,Sydney,Commercial,0.0,0.0,10.0,10.0,0.0
+10742130000,Sydney,Commercial,11.0,79.0,13.0,27.0,68.0
+10742140000,Sydney,Residential,131.0,136.0,202.0,268.0,5.0
+10742150000,Millers Point,Residential,20.0,20.0,26.0,27.0,0.0
+10742160000,Sydney,Residential,199.0,233.0,236.0,239.0,34.0
+10742170000,Sydney,Residential,143.0,194.0,184.0,186.0,51.0
+10742180000,Sydney,Commercial,3.0,18.0,9.0,17.0,15.0
+10742190000,Sydney,Commercial,0.0,185.0,0.0,62.0,185.0
+10742200000,Sydney,Commercial,0.0,9.0,0.0,4.0,9.0
+10742211000,The Rocks (Sydney - NSW),Residential,135.0,412.0,192.0,318.0,277.0
+10742212000,The Rocks (Sydney - NSW),Residential,54.0,111.0,115.0,128.0,57.0
+10742220000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10742230000,Dawes Point,Transport,0.0,0.0,0.0,0.0,0.0
+10742240000,Sydney,Commercial,0.0,6.0,0.0,4.0,6.0
+10742250000,Sydney,Commercial,0.0,88.0,8.0,50.0,88.0
+10742260000,Sydney,Commercial,0.0,116.0,4.0,36.0,116.0
+10742270000,Millers Point,Residential,204.0,552.0,261.0,279.0,348.0
+10742280000,Sydney,Commercial,19.0,21.0,33.0,27.0,2.0
+10742290000,Millers Point,Commercial,0.0,0.0,0.0,0.0,0.0
+10742300000,Haymarket,Commercial,0.0,8.0,8.0,13.0,8.0
+10742330000,Sydney,Commercial,0.0,0.0,6.0,5.0,0.0
+10742340000,The Rocks (Sydney - NSW),Commercial,0.0,186.0,6.0,52.0,186.0
+10742350000,The Rocks (Sydney - NSW),Commercial,0.0,2.0,0.0,1.0,2.0
+10742360000,Sydney,Residential,182.0,184.0,157.0,128.0,2.0
+10742370000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10742390000,Sydney,Commercial,0.0,2.0,0.0,1.0,2.0
+10742401000,Sydney,Commercial,0.0,15.0,0.0,3.0,15.0
+10742402000,Sydney,Commercial,0.0,4.0,0.0,2.0,4.0
+10742410000,Haymarket,Commercial,0.0,1.0,0.0,1.0,1.0
+10742421000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10742422000,Sydney,Residential,108.0,250.0,198.0,529.0,142.0
+10742423000,Sydney,Residential,533.0,552.0,1130.0,1426.0,19.0
+10742431000,Haymarket,Commercial,0.0,0.0,0.0,0.0,0.0
+10742432000,Haymarket,Commercial,3.0,3.0,18.0,32.0,0.0
+10742433000,Haymarket,Residential,89.0,221.0,236.0,492.0,132.0
+10742440000,Millers Point,Parkland,0.0,0.0,7.0,8.0,0.0
+10742450000,Dawes Point,Residential,24.0,25.0,40.0,44.0,1.0
+10742460000,Sydney,Commercial,0.0,12.0,0.0,6.0,12.0
+10742471000,Haymarket,Residential,290.0,290.0,799.0,930.0,0.0
+10742472000,Haymarket,Residential,74.0,75.0,149.0,174.0,1.0
+10742473000,Haymarket,Residential,118.0,118.0,225.0,279.0,0.0
+10742475000,Haymarket,Residential,115.0,122.0,219.0,352.0,7.0
+10742480000,Haymarket,Commercial,7.0,19.0,23.0,29.0,12.0
+10742493000,Sydney,Commercial,0.0,1.0,0.0,1.0,1.0
+10742502000,Haymarket,Residential,378.0,382.0,764.0,1029.0,4.0
+10742511000,Sydney,Commercial,0.0,4.0,0.0,2.0,4.0
+10742512000,Sydney,Commercial,82.0,134.0,111.0,94.0,52.0
+10742520000,Sydney,Residential,123.0,123.0,118.0,123.0,0.0
+10742540000,The Rocks (Sydney - NSW),Commercial,0.0,3.0,0.0,1.0,3.0
+10742550000,Sydney,Parkland,0.0,1.0,0.0,0.0,1.0
+10742560000,Millers Point,Transport,0.0,0.0,0.0,0.0,0.0
+10742580000,Sydney,Commercial,0.0,133.0,0.0,76.0,133.0
+10742590000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10742600000,Sydney,Parkland,0.0,1.0,4.0,5.0,1.0
+10742610000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10742620000,Sydney,Commercial,67.0,68.0,85.0,69.0,1.0
+10742630000,Sydney,Commercial,0.0,3.0,12.0,10.0,3.0
+10742640000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10742650000,Sydney,Transport,0.0,0.0,0.0,0.0,0.0
+10742660000,Sydney,Residential,273.0,276.0,366.0,458.0,3.0
+10742670000,Haymarket,Commercial,3.0,13.0,211.0,264.0,10.0
+10742680000,Sydney,Commercial,0.0,5.0,0.0,2.0,5.0
+10742690000,Sydney,Commercial,3.0,5.0,18.0,18.0,2.0
+10742700000,Sydney,Commercial,18.0,25.0,37.0,35.0,7.0
+10742710000,Sydney,Commercial,0.0,45.0,0.0,19.0,45.0
+10742720000,Sydney,Residential,81.0,81.0,87.0,91.0,0.0
+10742730000,Sydney,Commercial,0.0,1.0,0.0,1.0,1.0
+10742750000,Sydney,Commercial,127.0,284.0,57.0,109.0,157.0
+10742760000,Sydney,Commercial,0.0,2.0,4.0,4.0,2.0
+10742790000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10742800000,The Rocks (Sydney - NSW),Commercial,0.0,0.0,9.0,9.0,0.0
+10742810000,Sydney,Parkland,0.0,0.0,0.0,0.0,0.0
+10742820000,Sydney,Commercial,0.0,97.0,0.0,37.0,97.0
+10742830000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10742840000,Sydney,Commercial,30.0,36.0,35.0,33.0,6.0
+10742850000,Sydney,Parkland,0.0,4.0,0.0,2.0,4.0
+10742860000,Sydney,Commercial,3.0,43.0,33.0,43.0,40.0
+10742870000,Millers Point,Residential,74.0,77.0,135.0,163.0,3.0
+10742880000,Haymarket,Commercial,0.0,0.0,0.0,0.0,0.0
+10747740000,Surry Hills,Residential,190.0,190.0,290.0,319.0,0.0
+10747750000,Darlinghurst,Transport,0.0,0.0,0.0,0.0,0.0
+10747760000,Darlinghurst,Residential,25.0,26.0,34.0,35.0,1.0
+10747771000,Darlinghurst,Commercial,0.0,0.0,0.0,0.0,0.0
+10747772000,Darlinghurst,Commercial,5.0,6.0,4.0,5.0,1.0
+10747773000,Woolloomooloo,Commercial,6.0,11.0,6.0,9.0,5.0
+10747774000,Woolloomooloo,Residential,94.0,97.0,141.0,144.0,3.0
+10747775000,Darlinghurst,Commercial,0.0,0.0,0.0,0.0,0.0
+10747776000,Woolloomooloo,Commercial,0.0,5.0,0.0,3.0,5.0
+10747777000,Woolloomooloo,Hospital/Medical,25.0,48.0,33.0,38.0,23.0
+10747780000,Potts Point,Residential,50.0,50.0,52.0,51.0,0.0
+10747790000,Elizabeth Bay,Residential,17.0,18.0,18.0,19.0,1.0
+10747800000,Potts Point,Residential,71.0,138.0,80.0,139.0,67.0
+10747830000,Potts Point,Residential,16.0,16.0,35.0,36.0,0.0
+10747840000,Paddington (NSW),Residential,45.0,45.0,76.0,81.0,0.0
+10747850000,Surry Hills,Residential,26.0,26.0,29.0,32.0,0.0
+10747860000,Paddington (NSW),Residential,45.0,46.0,79.0,88.0,1.0
+10747870000,Surry Hills,Commercial,36.0,38.0,47.0,53.0,2.0
+10747900000,Surry Hills,Residential,18.0,18.0,26.0,28.0,0.0
+10747910000,Surry Hills,Residential,31.0,31.0,76.0,84.0,0.0
+10747940000,Paddington (NSW),Residential,29.0,32.0,63.0,72.0,3.0
+10747970000,Centennial Park (NSW),Residential,40.0,40.0,77.0,80.0,0.0
+10747980000,Paddington (NSW),Residential,23.0,23.0,39.0,42.0,0.0
+10747990000,Surry Hills,Residential,107.0,109.0,169.0,185.0,2.0
+10748000000,Darlinghurst,Residential,28.0,30.0,40.0,46.0,2.0
+10748010000,Surry Hills,Residential,70.0,70.0,107.0,129.0,0.0
+10748020000,Surry Hills,Residential,66.0,66.0,114.0,117.0,0.0
+10748030000,Surry Hills,Residential,49.0,49.0,107.0,112.0,0.0
+10748040000,Paddington (NSW),Residential,65.0,67.0,138.0,146.0,2.0
+10748050000,Centennial Park (NSW),Residential,19.0,40.0,52.0,60.0,21.0
+10748060000,Centennial Park (NSW),Residential,31.0,31.0,52.0,58.0,0.0
+10748070000,Centennial Park (NSW),Residential,29.0,33.0,29.0,34.0,4.0
+10748090000,Surry Hills,Residential,74.0,74.0,122.0,128.0,0.0
+10748100000,Surry Hills,Residential,18.0,18.0,51.0,53.0,0.0
+10748110000,Centennial Park (NSW),Residential,71.0,71.0,91.0,94.0,0.0
+10748130000,Surry Hills,Residential,7.0,7.0,22.0,26.0,0.0
+10742892000,Sydney,Residential,181.0,183.0,427.0,561.0,2.0
+10742900000,Sydney,Residential,134.0,144.0,284.0,364.0,10.0
+10742911000,Sydney,Residential,285.0,288.0,487.0,635.0,3.0
+10742912000,Sydney,Residential,575.0,577.0,930.0,1082.0,2.0
+10742920000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10742930000,Haymarket,Commercial,0.0,4.0,3.0,4.0,4.0
+10742940000,The Rocks (Sydney - NSW),Commercial,4.0,4.0,3.0,2.0,0.0
+10742950000,Dawes Point,Residential,14.0,15.0,29.0,32.0,1.0
+10742960000,Sydney,Commercial,92.0,94.0,78.0,72.0,2.0
+10742970000,Sydney,Commercial,0.0,4.0,0.0,1.0,4.0
+10742990000,Sydney,Commercial,23.0,29.0,24.0,30.0,6.0
+10743000000,Sydney,Commercial,3.0,4.0,5.0,5.0,1.0
+10743010000,Sydney,Commercial,3.0,3.0,4.0,3.0,0.0
+10743020000,Sydney,Commercial,0.0,9.0,4.0,9.0,9.0
+10743030000,Sydney,Residential,113.0,113.0,231.0,198.0,0.0
+10743051000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10743052000,Sydney,Commercial,0.0,1.0,0.0,0.0,1.0
+10743061000,Sydney,Commercial,39.0,125.0,27.0,48.0,86.0
+10743062000,Sydney,Commercial,43.0,94.0,17.0,30.0,51.0
+10743080000,Dawes Point,Parkland,0.0,0.0,0.0,0.0,0.0
+10743090000,Sydney,Parkland,0.0,0.0,0.0,0.0,0.0
+10743100000,Sydney,Commercial,0.0,4.0,0.0,2.0,4.0
+10743110000,Sydney,Commercial,64.0,80.0,46.0,40.0,16.0
+10743120000,Dawes Point,Parkland,0.0,0.0,0.0,0.0,0.0
+10743130000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10743140000,Haymarket,Commercial,0.0,0.0,0.0,0.0,0.0
+10743151000,Haymarket,Commercial,0.0,0.0,0.0,0.0,0.0
+10743152000,Haymarket,Commercial,48.0,54.0,74.0,75.0,6.0
+10743181000,Sydney,Commercial,0.0,69.0,0.0,24.0,69.0
+10743182000,Sydney,Commercial,0.0,31.0,0.0,11.0,31.0
+10743190000,Sydney,Commercial,63.0,67.0,89.0,66.0,4.0
+10743200000,Sydney,Commercial,7.0,175.0,40.0,92.0,168.0
+10743210000,Sydney,Commercial,10.0,26.0,3.0,10.0,16.0
+10743230000,Sydney,Commercial,0.0,67.0,0.0,16.0,67.0
+10743240000,Sydney,Residential,80.0,134.0,174.0,172.0,54.0
+10743250000,Sydney,Residential,271.0,523.0,419.0,482.0,252.0
+10743261000,Darlinghurst,Residential,88.0,88.0,125.0,138.0,0.0
+10743262000,Darlinghurst,Residential,45.0,89.0,54.0,96.0,44.0
+10743263000,Darlinghurst,Commercial,0.0,0.0,0.0,0.0,0.0
+10743270000,Sydney,Residential,126.0,254.0,149.0,160.0,128.0
+10743280000,Sydney,Residential,152.0,159.0,202.0,215.0,7.0
+10743300000,Sydney,Commercial,47.0,50.0,52.0,39.0,3.0
+10743310000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10743320000,Sydney,Commercial,50.0,56.0,41.0,36.0,6.0
+10743330000,Haymarket,Residential,233.0,234.0,611.0,746.0,1.0
+10743340000,Haymarket,Commercial,4.0,4.0,6.0,7.0,0.0
+10743350000,Haymarket,Commercial,0.0,45.0,0.0,13.0,45.0
+10748140000,Surry Hills,Residential,32.0,33.0,65.0,71.0,1.0
+10748150000,Surry Hills,Residential,94.0,94.0,110.0,118.0,0.0
+10748160000,Centennial Park (NSW),Residential,25.0,25.0,42.0,44.0,0.0
+10748170000,Paddington (NSW),Residential,30.0,31.0,82.0,84.0,1.0
+10748180000,Darlinghurst,Residential,33.0,33.0,87.0,88.0,0.0
+10748190000,Surry Hills,Commercial,26.0,26.0,20.0,21.0,0.0
+10748200000,Surry Hills,Residential,29.0,29.0,78.0,88.0,0.0
+10748210000,Surry Hills,Education,0.0,0.0,0.0,0.0,0.0
+10748220000,Surry Hills,Education,0.0,0.0,0.0,0.0,0.0
+10748230000,Paddington (NSW),Education,0.0,0.0,0.0,0.0,0.0
+10748270000,Centennial Park (NSW),Residential,49.0,49.0,77.0,78.0,0.0
+10748280000,Surry Hills,Residential,36.0,36.0,65.0,75.0,0.0
+10748290000,Surry Hills,Residential,61.0,61.0,70.0,81.0,0.0
+10748300000,Surry Hills,Residential,33.0,35.0,59.0,64.0,2.0
+10748310000,Surry Hills,Residential,66.0,75.0,79.0,96.0,9.0
+10748330000,Potts Point,Residential,39.0,42.0,61.0,63.0,3.0
+10748340000,Elizabeth Bay,Residential,39.0,52.0,62.0,77.0,13.0
+10748360000,Surry Hills,Residential,36.0,37.0,43.0,45.0,1.0
+10748370000,Surry Hills,Residential,29.0,30.0,42.0,48.0,1.0
+10748380000,Surry Hills,Residential,152.0,152.0,208.0,214.0,0.0
+10748390000,Surry Hills,Residential,25.0,27.0,61.0,72.0,2.0
+10748400000,Surry Hills,Residential,122.0,133.0,176.0,196.0,11.0
+10748410000,Surry Hills,Residential,55.0,57.0,101.0,113.0,2.0
+10748430000,Surry Hills,Residential,44.0,44.0,100.0,108.0,0.0
+10748450000,Surry Hills,Residential,31.0,33.0,74.0,80.0,2.0
+10748470000,Paddington (NSW),Residential,34.0,34.0,67.0,69.0,0.0
+10748480000,Paddington (NSW),Residential,25.0,26.0,53.0,56.0,1.0
+10748490000,Darlinghurst,Commercial,4.0,4.0,43.0,44.0,0.0
+10748510000,Darlinghurst,Residential,16.0,16.0,26.0,27.0,0.0
+10748520000,Potts Point,Commercial,26.0,26.0,27.0,29.0,0.0
+10748540000,Rushcutters Bay,Residential,20.0,20.0,20.0,20.0,0.0
+10748550000,Darlinghurst,Residential,52.0,54.0,103.0,138.0,2.0
+10748560000,Darlinghurst,Residential,39.0,44.0,61.0,62.0,5.0
+10748570000,Darlinghurst,Residential,21.0,22.0,40.0,41.0,1.0
+10748580000,Darlinghurst,Residential,17.0,20.0,27.0,31.0,3.0
+10748592000,Potts Point,Residential,94.0,97.0,106.0,131.0,3.0
+10748610000,Darlinghurst,Residential,27.0,27.0,48.0,50.0,0.0
+10748620000,Potts Point,Residential,26.0,27.0,20.0,19.0,1.0
+10748630000,Potts Point,Residential,30.0,32.0,33.0,35.0,2.0
+10748640000,Potts Point,Residential,57.0,57.0,63.0,64.0,0.0
+10748650000,Potts Point,Residential,55.0,64.0,65.0,75.0,9.0
+10748670000,Potts Point,Commercial,0.0,0.0,0.0,0.0,0.0
+10748680000,Rushcutters Bay,Residential,40.0,40.0,54.0,55.0,0.0
+10748700000,Rushcutters Bay,Residential,18.0,18.0,22.0,22.0,0.0
+10748710000,Rushcutters Bay,Residential,26.0,26.0,45.0,50.0,0.0
+10748720000,Rushcutters Bay,Residential,35.0,35.0,53.0,52.0,0.0
+10748740000,Darlinghurst,Residential,13.0,15.0,16.0,23.0,2.0
+10748750000,Darlinghurst,Residential,32.0,32.0,36.0,36.0,0.0
+10748760000,Darlinghurst,Residential,30.0,31.0,34.0,38.0,1.0
+10748770000,Darlinghurst,Residential,31.0,31.0,51.0,51.0,0.0
+10748780000,Darlinghurst,Residential,36.0,37.0,49.0,50.0,1.0
+10748790000,Darlinghurst,Residential,60.0,61.0,45.0,48.0,1.0
+10748800000,Darlinghurst,Residential,26.0,68.0,36.0,53.0,42.0
+10748820000,Potts Point,Residential,28.0,29.0,33.0,33.0,1.0
+10748830000,Potts Point,Residential,45.0,45.0,68.0,67.0,0.0
+10748840000,Woolloomooloo,Residential,28.0,29.0,47.0,47.0,1.0
+10748850000,Potts Point,Residential,37.0,66.0,45.0,53.0,29.0
+10748870000,Potts Point,Residential,47.0,47.0,81.0,81.0,0.0
+10748880000,Elizabeth Bay,Residential,68.0,130.0,77.0,124.0,62.0
+10748890000,Rushcutters Bay,Residential,21.0,21.0,20.0,20.0,0.0
+10748900000,Potts Point,Residential,30.0,30.0,33.0,30.0,0.0
+10748910000,Woolloomooloo,Residential,28.0,28.0,30.0,33.0,0.0
+10748920000,Woolloomooloo,Residential,31.0,31.0,41.0,38.0,0.0
+10748930000,Woolloomooloo,Residential,30.0,30.0,44.0,46.0,0.0
+10748940000,Woolloomooloo,Residential,22.0,23.0,30.0,33.0,1.0
+10748960000,Darlinghurst,Commercial,0.0,0.0,0.0,0.0,0.0
+10748970000,Darlinghurst,Residential,19.0,37.0,26.0,31.0,18.0
+10748980000,Rushcutters Bay,Residential,38.0,38.0,38.0,38.0,0.0
+10748990000,Rushcutters Bay,Residential,35.0,35.0,34.0,38.0,0.0
+10749000000,Potts Point,Residential,17.0,17.0,18.0,19.0,0.0
+10749010000,Woolloomooloo,Residential,24.0,26.0,35.0,36.0,2.0
+10749020000,Elizabeth Bay,Residential,82.0,82.0,71.0,68.0,0.0
+10749030000,Elizabeth Bay,Residential,32.0,32.0,47.0,47.0,0.0
+10749040000,Elizabeth Bay,Residential,41.0,41.0,48.0,52.0,0.0
+10749050000,Elizabeth Bay,Residential,60.0,60.0,67.0,66.0,0.0
+10749060000,Elizabeth Bay,Residential,55.0,84.0,77.0,85.0,29.0
+10749080000,Elizabeth Bay,Residential,39.0,39.0,37.0,36.0,0.0
+10749090000,Elizabeth Bay,Residential,31.0,34.0,21.0,25.0,3.0
+10749110000,Elizabeth Bay,Residential,28.0,28.0,45.0,56.0,0.0
+10749120000,Potts Point,Residential,141.0,290.0,186.0,268.0,149.0
+10749140000,Potts Point,Commercial,30.0,47.0,33.0,40.0,17.0
+10749170000,Woolloomooloo,Education,11.0,11.0,21.0,22.0,0.0
+10749180000,Potts Point,Residential,94.0,223.0,70.0,118.0,129.0
+10749190000,Potts Point,Residential,20.0,20.0,23.0,23.0,0.0
+10749200000,Potts Point,Residential,23.0,23.0,32.0,32.0,0.0
+10749220000,Elizabeth Bay,Residential,52.0,52.0,77.0,79.0,0.0
+10743370000,Sydney,Commercial,0.0,81.0,5.0,64.0,81.0
+10743380000,Sydney,Residential,200.0,231.0,413.0,564.0,31.0
+10743390000,Sydney,Commercial,0.0,4.0,0.0,2.0,4.0
+10743420000,Millers Point,Residential,19.0,19.0,36.0,37.0,0.0
+10743430000,Dawes Point,Residential,29.0,44.0,39.0,53.0,15.0
+10743450000,Millers Point,Commercial,0.0,1.0,3.0,4.0,1.0
+10743460000,Sydney,Education,0.0,0.0,0.0,0.0,0.0
+10743480000,Sydney,Commercial,41.0,48.0,29.0,30.0,7.0
+10743490000,The Rocks (Sydney - NSW),Residential,211.0,212.0,227.0,220.0,1.0
+10743520000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10743530000,Sydney,Residential,72.0,74.0,104.0,129.0,2.0
+10743540000,Haymarket,Commercial,0.0,1.0,0.0,0.0,1.0
+10743550000,Sydney,Residential,189.0,190.0,181.0,177.0,1.0
+10743560000,Sydney,Commercial,0.0,4.0,0.0,2.0,4.0
+10743570000,Sydney,Commercial,62.0,62.0,79.0,74.0,0.0
+10743590000,Sydney,Commercial,42.0,43.0,54.0,51.0,1.0
+10743600000,Sydney,Commercial,0.0,1.0,0.0,0.0,1.0
+10743610000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10743660000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10743690000,Sydney,Commercial,4.0,58.0,7.0,28.0,54.0
+10743730000,Millers Point,Residential,42.0,52.0,43.0,51.0,10.0
+10743740000,Sydney,Commercial,3.0,8.0,3.0,5.0,5.0
+10743750000,Sydney,Commercial,12.0,12.0,20.0,17.0,0.0
+10743760000,Sydney,Commercial,0.0,3.0,34.0,32.0,3.0
+10743770000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10743780000,Sydney,Commercial,0.0,1.0,0.0,1.0,1.0
+10743790000,Darlinghurst,Residential,22.0,73.0,67.0,120.0,51.0
+10743800000,Sydney,Commercial,52.0,143.0,29.0,60.0,91.0
+10743811000,Sydney,Commercial,0.0,28.0,0.0,14.0,28.0
+10743812000,Sydney,Commercial,0.0,107.0,0.0,38.0,107.0
+10743820000,Sydney,Residential,71.0,82.0,51.0,61.0,11.0
+10743830000,Sydney,Residential,271.0,284.0,372.0,394.0,13.0
+10743840000,Sydney,Residential,92.0,92.0,135.0,141.0,0.0
+10743860000,Haymarket,Commercial,0.0,2.0,0.0,2.0,2.0
+10743871000,Sydney,Residential,175.0,484.0,402.0,540.0,309.0
+10743872000,Sydney,Residential,361.0,745.0,661.0,864.0,384.0
+10743873000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10743880000,Sydney,Commercial,500.0,1036.0,526.0,700.0,536.0
+10743890000,Sydney,Commercial,51.0,58.0,60.0,63.0,7.0
+10743901000,Millers Point,Residential,64.0,142.0,95.0,143.0,78.0
+10743902000,Dawes Point,Residential,15.0,15.0,39.0,42.0,0.0
+10743904000,Millers Point,Commercial,34.0,78.0,44.0,68.0,44.0
+10743911000,Millers Point,Residential,50.0,50.0,63.0,61.0,0.0
+10743912000,Millers Point,Residential,294.0,294.0,341.0,372.0,0.0
+10743921000,Millers Point,Residential,14.0,14.0,38.0,39.0,0.0
+10743930000,The Rocks (Sydney - NSW),Commercial,37.0,141.0,63.0,52.0,104.0
+10743950000,Haymarket,Commercial,0.0,0.0,0.0,0.0,0.0
+10743960000,Haymarket,Residential,114.0,119.0,219.0,269.0,5.0
+10749230000,Potts Point,Residential,37.0,71.0,62.0,101.0,34.0
+10749240000,Potts Point,Residential,36.0,36.0,50.0,54.0,0.0
+10749270000,Elizabeth Bay,Residential,29.0,58.0,49.0,66.0,29.0
+10749280000,Potts Point,Residential,111.0,111.0,152.0,149.0,0.0
+10749290000,Potts Point,Residential,108.0,108.0,127.0,122.0,0.0
+10749300000,Potts Point,Residential,185.0,357.0,289.0,322.0,172.0
+10749310000,Potts Point,Residential,46.0,46.0,59.0,57.0,0.0
+10749320000,Surry Hills,Commercial,13.0,13.0,15.0,16.0,0.0
+10749330000,Darlinghurst,Residential,13.0,13.0,24.0,24.0,0.0
+10749340000,Darlinghurst,Residential,24.0,26.0,26.0,27.0,2.0
+10749350000,Darlinghurst,Residential,109.0,210.0,151.0,268.0,101.0
+10749360000,Darlinghurst,Residential,24.0,25.0,42.0,43.0,1.0
+10749371000,Darlinghurst,Residential,32.0,38.0,42.0,47.0,6.0
+10749372000,Darlinghurst,Commercial,24.0,24.0,39.0,39.0,0.0
+10749380000,Darlinghurst,Residential,28.0,28.0,34.0,36.0,0.0
+10749400000,Darlinghurst,Residential,28.0,29.0,40.0,45.0,1.0
+10749410000,Darlinghurst,Residential,35.0,36.0,90.0,94.0,1.0
+10749420000,Darlinghurst,Transport,0.0,0.0,0.0,0.0,0.0
+10749430000,Surry Hills,Commercial,51.0,57.0,86.0,105.0,6.0
+10749440000,Surry Hills,Commercial,10.0,11.0,8.0,10.0,1.0
+10749451000,Surry Hills,Commercial,0.0,0.0,0.0,0.0,0.0
+10749452000,Surry Hills,Residential,100.0,100.0,124.0,126.0,0.0
+10749453000,Surry Hills,Residential,87.0,87.0,81.0,82.0,0.0
+10749454000,Surry Hills,Residential,157.0,216.0,204.0,225.0,59.0
+10749460000,Darlinghurst,Commercial,5.0,7.0,8.0,9.0,2.0
+10749470000,Darlinghurst,Residential,75.0,76.0,96.0,100.0,1.0
+10749481000,Darlinghurst,Commercial,0.0,4.0,3.0,6.0,4.0
+10749482000,Darlinghurst,Commercial,3.0,6.0,10.0,12.0,3.0
+10749490000,Centennial Park (NSW),Residential,15.0,15.0,29.0,30.0,0.0
+10749500000,Centennial Park (NSW),Residential,72.0,72.0,98.0,109.0,0.0
+10749510000,Centennial Park (NSW),Residential,28.0,28.0,52.0,53.0,0.0
+10749520000,Paddington (NSW),Residential,42.0,43.0,99.0,102.0,1.0
+10749530000,Surry Hills,Residential,27.0,28.0,42.0,47.0,1.0
+10749540000,Centennial Park (NSW),Residential,59.0,59.0,89.0,92.0,0.0
+10749550000,Surry Hills,Residential,51.0,51.0,121.0,129.0,0.0
+10749560000,Paddington (NSW),Residential,36.0,36.0,62.0,65.0,0.0
+10749570000,Surry Hills,Residential,21.0,21.0,52.0,58.0,0.0
+10749580000,Centennial Park (NSW),Residential,39.0,39.0,58.0,60.0,0.0
+10749590000,Surry Hills,Residential,30.0,30.0,76.0,78.0,0.0
+10749600000,Centennial Park (NSW),Residential,10.0,10.0,30.0,31.0,0.0
+10749610000,Paddington (NSW),Residential,23.0,23.0,56.0,60.0,0.0
+10743980000,Sydney,Commercial,0.0,1.0,0.0,0.0,1.0
+10743991000,Haymarket,Commercial,0.0,32.0,0.0,16.0,32.0
+10743992000,Haymarket,Commercial,0.0,0.0,0.0,0.0,0.0
+10743993000,Haymarket,Commercial,0.0,0.0,0.0,0.0,0.0
+10744000000,Haymarket,Commercial,0.0,2.0,0.0,2.0,2.0
+10744011000,Sydney,Commercial,5.0,5.0,0.0,0.0,0.0
+10744012000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10744013000,Sydney,Hospital/Medical,0.0,0.0,5.0,5.0,0.0
+10744020000,Darlinghurst,Residential,34.0,35.0,56.0,56.0,1.0
+10744030000,Darlinghurst,Residential,19.0,19.0,12.0,12.0,0.0
+10744040000,Surry Hills,Residential,31.0,33.0,98.0,101.0,2.0
+10744050000,Surry Hills,Residential,27.0,39.0,46.0,53.0,12.0
+10744060000,Woolloomooloo,Residential,24.0,26.0,29.0,30.0,2.0
+10744070000,Potts Point,Residential,29.0,29.0,27.0,27.0,0.0
+10744090000,Surry Hills,Commercial,0.0,0.0,0.0,0.0,0.0
+10744110000,Surry Hills,Residential,104.0,104.0,227.0,255.0,0.0
+10744120000,Surry Hills,Residential,162.0,162.0,264.0,270.0,0.0
+10744140000,Potts Point,Other,3.0,3.0,7.0,7.0,0.0
+10749620000,Surry Hills,Residential,55.0,55.0,101.0,112.0,0.0
+10749640000,Moore Park,Parkland,0.0,0.0,0.0,0.0,0.0
+10749650000,Surry Hills,Commercial,49.0,49.0,63.0,64.0,0.0
+10749660000,Surry Hills,Residential,95.0,95.0,130.0,137.0,0.0
+10749710000,Surry Hills,Residential,29.0,29.0,28.0,30.0,0.0
+10749720000,Surry Hills,Residential,40.0,40.0,50.0,54.0,0.0
+10749730000,Paddington (NSW),Residential,47.0,47.0,51.0,55.0,0.0
+10749740000,Paddington (NSW),Residential,19.0,19.0,25.0,26.0,0.0
+10749750000,Centennial Park (NSW),Residential,96.0,96.0,173.0,173.0,0.0
+10749760000,Centennial Park (NSW),Residential,59.0,59.0,70.0,78.0,0.0
+10749770000,Centennial Park (NSW),Residential,72.0,72.0,92.0,95.0,0.0
+10749780000,Centennial Park (NSW),Residential,27.0,27.0,30.0,33.0,0.0
+10749790000,Paddington (NSW),Residential,45.0,100.0,77.0,100.0,55.0
+10749810000,Paddington (NSW),Residential,73.0,146.0,89.0,118.0,73.0
+10749820000,Surry Hills,Residential,113.0,113.0,192.0,199.0,0.0
+10749830000,Centennial Park (NSW),Residential,64.0,64.0,67.0,74.0,0.0
+10749850000,Paddington (NSW),Residential,41.0,41.0,104.0,107.0,0.0
+10749860000,Moore Park,Water,0.0,0.0,0.0,0.0,0.0
+10749870000,Paddington (NSW),Residential,32.0,34.0,71.0,77.0,2.0
+10749880000,Darlinghurst,Residential,22.0,22.0,64.0,65.0,0.0
+10749890000,Moore Park,Education,0.0,0.0,0.0,0.0,0.0
+10749900000,Surry Hills,Residential,44.0,45.0,98.0,107.0,1.0
+10749910000,Surry Hills,Education,0.0,0.0,0.0,0.0,0.0
+10749920000,Paddington (NSW),Residential,36.0,37.0,72.0,79.0,1.0
+10749930000,Paddington (NSW),Residential,40.0,40.0,22.0,24.0,0.0
+10749940000,Surry Hills,Residential,39.0,41.0,56.0,64.0,2.0
+10749980000,Centennial Park (NSW),Residential,17.0,17.0,34.0,35.0,0.0
+10750000000,Darlinghurst,Residential,18.0,19.0,53.0,54.0,1.0
+10750010000,Rushcutters Bay,Residential,36.0,38.0,49.0,50.0,2.0
+10750020000,Elizabeth Bay,Residential,62.0,149.0,61.0,108.0,87.0
+10750030000,Darlinghurst,Residential,47.0,49.0,102.0,104.0,2.0
+10750050000,Surry Hills,Residential,21.0,22.0,28.0,31.0,1.0
+10750061000,Surry Hills,Parkland,0.0,1.0,0.0,1.0,1.0
+10750062000,Surry Hills,Residential,596.0,643.0,698.0,790.0,47.0
+10750070000,Surry Hills,Residential,33.0,36.0,62.0,71.0,3.0
+10750080000,Surry Hills,Residential,137.0,141.0,169.0,179.0,4.0
+10750090000,Surry Hills,Residential,27.0,29.0,32.0,36.0,2.0
+10750100000,Surry Hills,Residential,18.0,19.0,29.0,31.0,1.0
+10750110000,Surry Hills,Residential,60.0,61.0,94.0,102.0,1.0
+10744160000,Surry Hills,Residential,50.0,54.0,51.0,63.0,4.0
+10744170000,Surry Hills,Residential,28.0,30.0,43.0,53.0,2.0
+10744180000,Surry Hills,Residential,86.0,90.0,153.0,157.0,4.0
+10744191000,Surry Hills,Commercial,63.0,66.0,105.0,108.0,3.0
+10744192000,Surry Hills,Commercial,7.0,7.0,22.0,22.0,0.0
+10744200000,Surry Hills,Commercial,6.0,8.0,4.0,6.0,2.0
+10744210000,Surry Hills,Residential,37.0,37.0,62.0,64.0,0.0
+10744220000,Surry Hills,Residential,47.0,47.0,111.0,114.0,0.0
+10744230000,Surry Hills,Residential,35.0,37.0,44.0,49.0,2.0
+10744250000,Surry Hills,Residential,75.0,80.0,107.0,119.0,5.0
+10744260000,Rushcutters Bay,Parkland,0.0,0.0,0.0,0.0,0.0
+10750120000,Surry Hills,Residential,51.0,62.0,86.0,92.0,11.0
+10750150000,Surry Hills,Residential,38.0,38.0,94.0,102.0,0.0
+10750160000,Surry Hills,Residential,33.0,33.0,76.0,81.0,0.0
+10750170000,Surry Hills,Residential,0.0,0.0,0.0,0.0,0.0
+10750180000,Surry Hills,Residential,28.0,29.0,90.0,95.0,1.0
+10750190000,Darlinghurst,Residential,93.0,185.0,115.0,186.0,92.0
+10750220000,Darlinghurst,Residential,54.0,54.0,95.0,96.0,0.0
+10750230000,Darlinghurst,Residential,42.0,42.0,34.0,36.0,0.0
+10750240000,Darlinghurst,Residential,74.0,74.0,59.0,62.0,0.0
+10750250000,Darlinghurst,Residential,23.0,23.0,22.0,22.0,0.0
+10750260000,Surry Hills,Residential,66.0,66.0,125.0,129.0,0.0
+10750270000,Potts Point,Residential,26.0,26.0,28.0,28.0,0.0
+10750280000,Darlinghurst,Residential,51.0,52.0,103.0,106.0,1.0
+10750290000,Darlinghurst,Residential,22.0,22.0,66.0,68.0,0.0
+10750310000,Potts Point,Residential,39.0,40.0,36.0,36.0,1.0
+10750320000,Woolloomooloo,Residential,0.0,0.0,5.0,5.0,0.0
+10750330000,Darlinghurst,Residential,36.0,38.0,107.0,113.0,2.0
+10750340000,Darlinghurst,Residential,54.0,54.0,71.0,72.0,0.0
+10750350000,Potts Point,Commercial,26.0,39.0,47.0,54.0,13.0
+10750360000,Rushcutters Bay,Residential,29.0,29.0,24.0,27.0,0.0
+10750370000,Darlinghurst,Residential,11.0,11.0,71.0,70.0,0.0
+10750380000,Darlinghurst,Residential,27.0,29.0,39.0,40.0,2.0
+10750390000,Rushcutters Bay,Residential,42.0,42.0,37.0,38.0,0.0
+10750400000,Rushcutters Bay,Residential,28.0,28.0,46.0,52.0,0.0
+10750410000,Rushcutters Bay,Residential,29.0,29.0,41.0,46.0,0.0
+10750420000,Darlinghurst,Residential,276.0,276.0,367.0,399.0,0.0
+10750430000,Rushcutters Bay,Residential,65.0,65.0,64.0,63.0,0.0
+10750440000,Rushcutters Bay,Residential,18.0,18.0,25.0,25.0,0.0
+10750450000,Rushcutters Bay,Residential,34.0,34.0,52.0,57.0,0.0
+10750460000,Darlinghurst,Residential,14.0,15.0,41.0,42.0,1.0
+10750490000,Darlinghurst,Residential,18.0,19.0,16.0,22.0,1.0
+10750500000,Darlinghurst,Residential,127.0,151.0,189.0,214.0,24.0
+10750510000,Darlinghurst,Residential,36.0,36.0,48.0,48.0,0.0
+10750520000,Darlinghurst,Residential,59.0,59.0,61.0,60.0,0.0
+10750530000,Woolloomooloo,Residential,67.0,68.0,83.0,83.0,1.0
+10750540000,Potts Point,Residential,24.0,30.0,18.0,20.0,6.0
+10750550000,Potts Point,Residential,51.0,101.0,45.0,57.0,50.0
+10750560000,Woolloomooloo,Residential,13.0,13.0,19.0,19.0,0.0
+10750570000,Potts Point,Residential,30.0,66.0,38.0,49.0,36.0
+10750590000,Potts Point,Residential,37.0,79.0,72.0,85.0,42.0
+10750610000,Elizabeth Bay,Residential,72.0,72.0,67.0,66.0,0.0
+10750620000,Elizabeth Bay,Commercial,47.0,97.0,41.0,72.0,50.0
+10750630000,Rushcutters Bay,Residential,32.0,32.0,59.0,58.0,0.0
+10750650000,Elizabeth Bay,Residential,51.0,53.0,74.0,73.0,2.0
+10744270000,Darlinghurst,Residential,42.0,43.0,47.0,63.0,1.0
+10744281000,Surry Hills,Residential,63.0,64.0,107.0,118.0,1.0
+10744282000,Surry Hills,Residential,45.0,46.0,58.0,64.0,1.0
+10744291000,Surry Hills,Commercial,9.0,10.0,17.0,19.0,1.0
+10744292000,Surry Hills,Commercial,0.0,0.0,0.0,0.0,0.0
+10744300000,Elizabeth Bay,Parkland,0.0,0.0,0.0,0.0,0.0
+10744310000,Woolloomooloo,Residential,35.0,90.0,62.0,87.0,55.0
+10744320000,Moore Park,Parkland,0.0,0.0,0.0,0.0,0.0
+10744330000,Paddington (NSW),Residential,35.0,35.0,63.0,68.0,0.0
+10744340000,Darlinghurst,Hospital/Medical,3.0,84.0,21.0,60.0,81.0
+10744350000,Darlinghurst,Residential,136.0,143.0,180.0,186.0,7.0
+10744360000,Elizabeth Bay,Residential,65.0,65.0,73.0,72.0,0.0
+10744370000,Darlinghurst,Commercial,60.0,79.0,66.0,74.0,19.0
+10744380000,Darlinghurst,Residential,109.0,109.0,169.0,167.0,0.0
+10744390000,Darlinghurst,Residential,16.0,16.0,35.0,36.0,0.0
+10744400000,Darlinghurst,Residential,81.0,81.0,89.0,88.0,0.0
+10744410000,Darlinghurst,Residential,66.0,70.0,114.0,114.0,4.0
+10750670000,Potts Point,Residential,35.0,37.0,37.0,35.0,2.0
+10750680000,Potts Point,Residential,26.0,26.0,36.0,33.0,0.0
+10750690000,Rushcutters Bay,Residential,43.0,44.0,40.0,46.0,1.0
+10750700000,Rushcutters Bay,Residential,32.0,32.0,34.0,38.0,0.0
+10750710000,Woolloomooloo,Residential,63.0,63.0,133.0,130.0,0.0
+10750730000,Elizabeth Bay,Residential,49.0,49.0,43.0,42.0,0.0
+10750740000,Elizabeth Bay,Residential,43.0,43.0,41.0,40.0,0.0
+10750750000,Elizabeth Bay,Commercial,3.0,3.0,4.0,6.0,0.0
+10750760000,Woolloomooloo,Residential,109.0,109.0,106.0,106.0,0.0
+10750790000,Elizabeth Bay,Residential,48.0,48.0,54.0,67.0,0.0
+10750810000,Elizabeth Bay,Residential,89.0,178.0,82.0,118.0,89.0
+10750820000,Potts Point,Residential,39.0,39.0,56.0,56.0,0.0
+10750830000,Potts Point,Residential,3.0,3.0,45.0,44.0,0.0
+10750850000,Woolloomooloo,Residential,142.0,148.0,180.0,184.0,6.0
+10750860000,Potts Point,Residential,42.0,110.0,39.0,82.0,68.0
+10750880000,Woolloomooloo,Residential,16.0,16.0,23.0,24.0,0.0
+10750900000,Elizabeth Bay,Residential,58.0,58.0,55.0,56.0,0.0
+10750910000,Potts Point,Residential,8.0,8.0,17.0,18.0,0.0
+10750920000,Potts Point,Residential,185.0,185.0,261.0,256.0,0.0
+10750940000,Potts Point,Residential,36.0,47.0,39.0,47.0,11.0
+10750950000,Potts Point,Residential,104.0,105.0,105.0,109.0,1.0
+10750960000,Elizabeth Bay,Residential,37.0,37.0,35.0,34.0,0.0
+10750970000,Elizabeth Bay,Residential,29.0,29.0,26.0,26.0,0.0
+10750980000,Elizabeth Bay,Residential,52.0,52.0,70.0,69.0,0.0
+10751000000,Elizabeth Bay,Residential,27.0,27.0,36.0,36.0,0.0
+10751010000,Elizabeth Bay,Residential,32.0,66.0,54.0,64.0,34.0
+10751020000,Elizabeth Bay,Residential,36.0,36.0,44.0,44.0,0.0
+10751030000,Woolloomooloo,Residential,109.0,109.0,122.0,119.0,0.0
+10751040000,Darlinghurst,Residential,32.0,32.0,26.0,29.0,0.0
+10751050000,Darlinghurst,Residential,37.0,40.0,65.0,67.0,3.0
+10751060000,Woolloomooloo,Commercial,21.0,25.0,33.0,38.0,4.0
+10751070000,Woolloomooloo,Residential,56.0,56.0,58.0,57.0,0.0
+10751080000,Darlinghurst,Residential,20.0,20.0,46.0,47.0,0.0
+10751090000,Elizabeth Bay,Parkland,0.0,0.0,0.0,0.0,0.0
+10751100000,Woolloomooloo,Commercial,0.0,0.0,0.0,0.0,0.0
+10751110000,Surry Hills,Residential,81.0,81.0,55.0,59.0,0.0
+10751120000,Surry Hills,Parkland,0.0,11.0,0.0,8.0,11.0
+10751130000,Darlinghurst,Education,0.0,0.0,0.0,0.0,0.0
+10751140000,Potts Point,Education,0.0,0.0,0.0,0.0,0.0
+10751150000,Potts Point,Residential,34.0,34.0,25.0,27.0,0.0
+10751160000,Potts Point,Residential,52.0,52.0,54.0,58.0,0.0
+10744420000,Woolloomooloo,Residential,46.0,49.0,62.0,62.0,3.0
+10744430000,Darlinghurst,Residential,259.0,261.0,350.0,400.0,2.0
+10744440000,Paddington (NSW),Residential,47.0,47.0,88.0,90.0,0.0
+10744450000,Potts Point,Residential,38.0,38.0,48.0,47.0,0.0
+10744460000,Woolloomooloo,Residential,305.0,315.0,275.0,313.0,10.0
+10744480000,Rushcutters Bay,Residential,72.0,72.0,121.0,117.0,0.0
+10744500000,Moore Park,Commercial,4.0,89.0,10.0,14.0,85.0
+10744510000,Darlinghurst,Residential,32.0,45.0,56.0,66.0,13.0
+10744520000,Woolloomooloo,Residential,25.0,25.0,47.0,51.0,0.0
+10744531000,Woolloomooloo,Residential,18.0,18.0,29.0,32.0,0.0
+10744532000,Woolloomooloo,Residential,34.0,38.0,40.0,46.0,4.0
+10751170000,Potts Point,Residential,56.0,114.0,45.0,68.0,58.0
+10751180000,Potts Point,Residential,44.0,44.0,67.0,66.0,0.0
+10751210000,Elizabeth Bay,Residential,33.0,33.0,50.0,51.0,0.0
+10751220000,Rushcutters Bay,Residential,60.0,88.0,81.0,89.0,28.0
+10751230000,Surry Hills,Residential,98.0,100.0,156.0,184.0,2.0
+10751240000,Surry Hills,Commercial,39.0,39.0,49.0,53.0,0.0
+10751260000,Darlinghurst,Residential,102.0,107.0,103.0,105.0,5.0
+10751270000,Darlinghurst,Residential,24.0,26.0,26.0,29.0,2.0
+10751280000,Darlinghurst,Residential,26.0,39.0,51.0,57.0,13.0
+10751290000,Darlinghurst,Residential,22.0,23.0,29.0,31.0,1.0
+10751300000,Woolloomooloo,Residential,146.0,148.0,231.0,217.0,2.0
+10751310000,Darlinghurst,Residential,36.0,36.0,57.0,59.0,0.0
+10751320000,Darlinghurst,Residential,22.0,24.0,44.0,45.0,2.0
+10751330000,Darlinghurst,Residential,40.0,41.0,55.0,55.0,1.0
+10751340000,Darlinghurst,Commercial,3.0,3.0,0.0,0.0,0.0
+10751350000,Woolloomooloo,Residential,69.0,148.0,110.0,145.0,79.0
+10751370000,Darlinghurst,Residential,31.0,31.0,57.0,63.0,0.0
+10751380000,Darlington (Sydney - NSW),Residential,30.0,31.0,79.0,88.0,1.0
+10751391000,Redfern,Commercial,0.0,163.0,0.0,110.0,163.0
+10751392000,Redfern,Commercial,8.0,8.0,9.0,10.0,0.0
+10751400000,Redfern,Residential,23.0,25.0,35.0,42.0,2.0
+10751420000,Newtown (NSW),Education,27.0,41.0,20.0,31.0,14.0
+10751431000,Newtown (NSW),Residential,27.0,27.0,86.0,91.0,0.0
+10751432000,Newtown (NSW),Residential,7.0,7.0,70.0,74.0,0.0
+10751440000,Waterloo (NSW),Commercial,0.0,0.0,0.0,0.0,0.0
+10751450000,Erskineville,Residential,45.0,51.0,96.0,107.0,6.0
+10751470000,Redfern,Residential,16.0,16.0,93.0,108.0,0.0
+10751500000,Redfern,Residential,46.0,47.0,106.0,120.0,1.0
+10751510000,Redfern,Residential,46.0,58.0,72.0,87.0,12.0
+10751520000,Redfern,Residential,79.0,79.0,186.0,207.0,0.0
+10751530000,Redfern,Residential,44.0,45.0,103.0,116.0,1.0
+10751540000,Redfern,Residential,39.0,39.0,86.0,97.0,0.0
+10751550000,Redfern,Residential,27.0,27.0,76.0,85.0,0.0
+10751590000,Waterloo (NSW),Residential,37.0,40.0,96.0,108.0,3.0
+10751600000,Zetland,Residential,27.0,28.0,56.0,64.0,1.0
+10751610000,Zetland,Residential,75.0,76.0,188.0,206.0,1.0
+10751621000,Alexandria,Industrial,0.0,3.0,0.0,2.0,3.0
+10751622000,Alexandria,Industrial,0.0,51.0,0.0,35.0,51.0
+10751634000,Zetland,Residential,84.0,89.0,145.0,169.0,5.0
+10751670000,Newtown (NSW),Residential,36.0,39.0,90.0,94.0,3.0
+10744540000,Potts Point,Residential,36.0,40.0,54.0,56.0,4.0
+10744560000,Potts Point,Residential,59.0,117.0,59.0,76.0,58.0
+10744580000,Surry Hills,Residential,36.0,39.0,70.0,74.0,3.0
+10744590000,Darlinghurst,Residential,32.0,32.0,56.0,56.0,0.0
+10744600000,Elizabeth Bay,Parkland,4.0,4.0,3.0,3.0,0.0
+10744610000,Potts Point,Residential,34.0,58.0,46.0,74.0,24.0
+10751680000,Erskineville,Residential,53.0,57.0,94.0,104.0,4.0
+10751700000,Darlington (Sydney - NSW),Residential,32.0,34.0,69.0,78.0,2.0
+10751710000,Redfern,Residential,56.0,56.0,108.0,124.0,0.0
+10751730000,Alexandria,Residential,52.0,53.0,99.0,107.0,1.0
+10751741000,Newtown (NSW),Commercial,21.0,28.0,20.0,25.0,7.0
+10751742000,Newtown (NSW),Commercial,0.0,0.0,0.0,0.0,0.0
+10751750000,Newtown (NSW),Residential,31.0,31.0,42.0,44.0,0.0
+10751760000,St Peters (NSW),Industrial,0.0,1.0,8.0,8.0,1.0
+10751770000,Redfern,Commercial,0.0,0.0,0.0,0.0,0.0
+10751800000,Redfern,Residential,60.0,60.0,104.0,121.0,0.0
+10751810000,Newtown (NSW),Residential,31.0,31.0,65.0,68.0,0.0
+10751820000,Erskineville,Residential,25.0,28.0,61.0,68.0,3.0
+10751830000,Rosebery (NSW),Residential,42.0,43.0,116.0,126.0,1.0
+10751840000,Newtown (NSW),Residential,51.0,113.0,57.0,73.0,62.0
+10751850000,Newtown (NSW),Residential,106.0,224.0,158.0,186.0,118.0
+10751860000,Newtown (NSW),Residential,122.0,252.0,146.0,213.0,130.0
+10751870000,Newtown (NSW),Residential,38.0,52.0,108.0,109.0,14.0
+10751882000,Alexandria,Industrial,0.0,0.0,0.0,0.0,0.0
+10751890000,Redfern,Residential,30.0,30.0,103.0,115.0,0.0
+10751900000,Redfern,Residential,153.0,153.0,237.0,248.0,0.0
+10751910000,Rosebery (NSW),Commercial,3.0,3.0,11.0,12.0,0.0
+10751930000,Newtown (NSW),Residential,38.0,44.0,75.0,83.0,6.0
+10751941000,Newtown (NSW),Commercial,4.0,4.0,11.0,11.0,0.0
+10751943000,Newtown (NSW),Residential,23.0,32.0,50.0,55.0,9.0
+10751944000,Newtown (NSW),Commercial,7.0,7.0,8.0,8.0,0.0
+10751945000,Newtown (NSW),Commercial,10.0,10.0,15.0,16.0,0.0
+10751950000,Redfern,Residential,54.0,56.0,83.0,100.0,2.0
+10751970000,Redfern,Residential,25.0,26.0,45.0,51.0,1.0
+10751990000,Erskineville,Residential,50.0,50.0,91.0,94.0,0.0
+10752000000,Alexandria,Residential,48.0,49.0,93.0,189.0,1.0
+10752010000,Redfern,Residential,42.0,42.0,135.0,149.0,0.0
+10752030000,Alexandria,Residential,50.0,55.0,125.0,138.0,5.0
+10752040000,Redfern,Residential,16.0,19.0,31.0,38.0,3.0
+10752060000,Beaconsfield (NSW),Residential,23.0,23.0,79.0,90.0,0.0
+10752073000,Rosebery (NSW),Education,0.0,5.0,0.0,4.0,5.0
+10752090000,Alexandria,Residential,57.0,58.0,141.0,151.0,1.0
+10752100000,Alexandria,Residential,51.0,51.0,127.0,140.0,0.0
+10752110000,Newtown (NSW),Residential,33.0,34.0,75.0,78.0,1.0
+10752130000,Erskineville,Residential,38.0,38.0,64.0,66.0,0.0
+10744620000,Rushcutters Bay,Residential,30.0,30.0,43.0,47.0,0.0
+10744631000,Surry Hills,Residential,106.0,114.0,154.0,183.0,8.0
+10744632000,Surry Hills,Commercial,0.0,0.0,6.0,7.0,0.0
+10744640000,Darlinghurst,Residential,111.0,111.0,150.0,153.0,0.0
+10744650000,Woolloomooloo,Residential,19.0,20.0,38.0,40.0,1.0
+10744661000,Woolloomooloo,Residential,54.0,54.0,76.0,79.0,0.0
+10744662000,Woolloomooloo,Residential,20.0,21.0,39.0,39.0,1.0
+10744670000,Darlinghurst,Residential,8.0,10.0,52.0,70.0,2.0
+10744680000,Potts Point,Residential,13.0,27.0,18.0,36.0,14.0
+10744690000,Elizabeth Bay,Residential,61.0,73.0,64.0,76.0,12.0
+10744700000,Centennial Park (NSW),Residential,42.0,42.0,108.0,110.0,0.0
+10744730000,Rushcutters Bay,Residential,23.0,23.0,39.0,44.0,0.0
+10744751000,Paddington (NSW),Residential,27.0,29.0,30.0,35.0,2.0
+10744752000,Paddington (NSW),Commercial,0.0,0.0,0.0,0.0,0.0
+10744760000,Elizabeth Bay,Residential,29.0,30.0,47.0,55.0,1.0
+10744770000,Sydney,Parkland,0.0,0.0,0.0,0.0,0.0
+10752140000,Waterloo (NSW),Residential,216.0,216.0,261.0,289.0,0.0
+10752150000,Beaconsfield (NSW),Residential,45.0,45.0,94.0,107.0,0.0
+10752160000,Redfern,Residential,34.0,34.0,74.0,83.0,0.0
+10752170000,Erskineville,Residential,45.0,47.0,98.0,106.0,2.0
+10752182000,Redfern,Commercial,0.0,0.0,0.0,0.0,0.0
+10752183000,Eveleigh,Residential,90.0,90.0,146.0,181.0,0.0
+10752184000,Eveleigh,Transport,0.0,0.0,0.0,0.0,0.0
+10752190000,Redfern,Residential,51.0,52.0,129.0,151.0,1.0
+10752210000,Redfern,Residential,51.0,86.0,139.0,167.0,35.0
+10752220000,Alexandria,Industrial,192.0,397.0,336.0,432.0,205.0
+10752230000,Alexandria,Residential,71.0,72.0,159.0,174.0,1.0
+10752241000,Alexandria,Commercial,0.0,2.0,0.0,2.0,2.0
+10752242000,Alexandria,Commercial,0.0,7.0,0.0,3.0,7.0
+10752243000,Alexandria,Commercial,0.0,22.0,0.0,18.0,22.0
+10752252000,Rosebery (NSW),Commercial,5.0,5.0,9.0,10.0,0.0
+10752253000,Rosebery (NSW),Commercial,0.0,4.0,0.0,1.0,4.0
+10752260000,Erskineville,Residential,40.0,40.0,103.0,113.0,0.0
+10752270000,Newtown (NSW),Residential,51.0,53.0,104.0,108.0,2.0
+10752280000,Alexandria,Residential,31.0,32.0,74.0,84.0,1.0
+10752291000,Erskineville,Residential,739.0,747.0,1169.0,1255.0,8.0
+10752292000,Erskineville,Residential,152.0,154.0,244.0,251.0,2.0
+10752293000,Erskineville,Residential,123.0,125.0,227.0,242.0,2.0
+10752300000,Alexandria,Residential,30.0,30.0,56.0,60.0,0.0
+10752311000,Alexandria,Residential,29.0,29.0,70.0,142.0,0.0
+10752312000,Alexandria,Residential,37.0,37.0,77.0,82.0,0.0
+10752320000,Beaconsfield (NSW),Residential,32.0,120.0,90.0,133.0,88.0
+10752330000,Beaconsfield (NSW),Residential,37.0,38.0,75.0,81.0,1.0
+10752340000,Newtown (NSW),Residential,25.0,25.0,49.0,49.0,0.0
+10752350000,Redfern,Residential,29.0,29.0,69.0,78.0,0.0
+10752360000,Alexandria,Residential,34.0,50.0,59.0,79.0,16.0
+10752372000,Redfern,Residential,46.0,46.0,76.0,88.0,0.0
+10752380000,Redfern,Residential,22.0,22.0,55.0,62.0,0.0
+10752390000,Darlington (Sydney - NSW),Residential,46.0,47.0,79.0,88.0,1.0
+10752400000,Newtown (NSW),Residential,30.0,30.0,69.0,71.0,0.0
+10752410000,Erskineville,Residential,50.0,52.0,117.0,129.0,2.0
+10752430000,Redfern,Education,0.0,0.0,0.0,0.0,0.0
+10752441000,Alexandria,Residential,0.0,25.0,4.0,8.0,25.0
+10744780000,Surry Hills,Residential,35.0,42.0,77.0,89.0,7.0
+10744790000,Darlinghurst,Residential,63.0,63.0,73.0,77.0,0.0
+10744800000,Surry Hills,Residential,37.0,46.0,48.0,59.0,9.0
+10744811000,Paddington (NSW),Commercial,0.0,35.0,36.0,32.0,35.0
+10744812000,Paddington (NSW),Commercial,0.0,0.0,0.0,0.0,0.0
+10744820000,Elizabeth Bay,Residential,78.0,84.0,93.0,94.0,6.0
+10744830000,Potts Point,Residential,33.0,63.0,570.0,610.0,30.0
+10744840000,Rushcutters Bay,Residential,36.0,114.0,66.0,102.0,78.0
+10744850000,Potts Point,Residential,21.0,25.0,30.0,32.0,4.0
+10744860000,Potts Point,Residential,24.0,44.0,24.0,44.0,20.0
+10752442000,Alexandria,Industrial,0.0,0.0,0.0,0.0,0.0
+10752460000,Alexandria,Residential,38.0,39.0,69.0,76.0,1.0
+10752470000,Alexandria,Industrial,0.0,0.0,0.0,0.0,0.0
+10752481000,Zetland,Parkland,0.0,0.0,0.0,0.0,0.0
+10752482000,Zetland,Residential,117.0,118.0,223.0,246.0,1.0
+10752492000,Rosebery (NSW),Residential,57.0,57.0,124.0,139.0,0.0
+10752500000,Zetland,Residential,37.0,41.0,85.0,100.0,4.0
+10752530000,Newtown (NSW),Residential,30.0,31.0,70.0,73.0,1.0
+10752541000,Newtown (NSW),Residential,115.0,115.0,120.0,121.0,0.0
+10752550000,Alexandria,Residential,40.0,41.0,98.0,105.0,1.0
+10752560000,Rosebery (NSW),Residential,55.0,60.0,169.0,188.0,5.0
+10752570000,Redfern,Residential,48.0,49.0,125.0,140.0,1.0
+10752580000,Redfern,Residential,71.0,71.0,136.0,152.0,0.0
+10752590000,Newtown (NSW),Residential,65.0,65.0,107.0,112.0,0.0
+10752600000,Redfern,Residential,42.0,52.0,51.0,63.0,10.0
+10752610000,Newtown (NSW),Residential,34.0,35.0,71.0,76.0,1.0
+10752620000,Redfern,Residential,44.0,44.0,94.0,107.0,0.0
+10752630000,Redfern,Residential,26.0,29.0,61.0,71.0,3.0
+10752640000,Erskineville,Residential,33.0,35.0,43.0,47.0,2.0
+10752650000,Erskineville,Residential,46.0,46.0,93.0,102.0,0.0
+10752680000,Newtown (NSW),Residential,27.0,27.0,48.0,54.0,0.0
+10752691000,Alexandria,Residential,45.0,46.0,102.0,109.0,1.0
+10752692000,Alexandria,Residential,40.0,40.0,105.0,111.0,0.0
+10752700000,Erskineville,Residential,29.0,29.0,40.0,43.0,0.0
+10752730000,Redfern,Residential,80.0,80.0,145.0,175.0,0.0
+10752740000,Redfern,Residential,36.0,36.0,55.0,64.0,0.0
+10752750000,Waterloo (NSW),Residential,0.0,0.0,0.0,0.0,0.0
+10752770000,Newtown (NSW),Residential,42.0,42.0,85.0,85.0,0.0
+10752780000,Newtown (NSW),Residential,36.0,36.0,92.0,94.0,0.0
+10752800000,Redfern,Residential,38.0,38.0,125.0,140.0,0.0
+10752820000,Waterloo (NSW),Residential,32.0,32.0,72.0,81.0,0.0
+10752830000,Redfern,Residential,39.0,40.0,73.0,84.0,1.0
+10752850000,Newtown (NSW),Residential,41.0,41.0,95.0,98.0,0.0
+10752860000,Redfern,Residential,41.0,41.0,93.0,105.0,0.0
+10752870000,Erskineville,Residential,58.0,59.0,118.0,130.0,1.0
+10752880000,Redfern,Residential,41.0,41.0,87.0,99.0,0.0
+10752890000,Alexandria,Residential,43.0,43.0,99.0,109.0,0.0
+10752900000,Newtown (NSW),Residential,40.0,40.0,40.0,41.0,0.0
+10752920000,Darlington (Sydney - NSW),Residential,54.0,54.0,115.0,128.0,0.0
+10752930000,Redfern,Residential,31.0,31.0,66.0,71.0,0.0
+10752940000,Alexandria,Commercial,0.0,5.0,0.0,3.0,5.0
+10752951000,Rosebery (NSW),Industrial,0.0,0.0,0.0,0.0,0.0
+10744871000,Potts Point,Residential,3.0,3.0,8.0,9.0,0.0
+10744872000,Potts Point,Residential,27.0,27.0,37.0,40.0,0.0
+10744890000,Darlinghurst,Residential,42.0,44.0,62.0,64.0,2.0
+10744900000,Elizabeth Bay,Residential,10.0,10.0,16.0,16.0,0.0
+10744910000,Centennial Park (NSW),Residential,24.0,24.0,56.0,58.0,0.0
+10744921000,Paddington (NSW),Transport,0.0,0.0,0.0,0.0,0.0
+10744940000,Surry Hills,Residential,20.0,23.0,43.0,52.0,3.0
+10744970000,Surry Hills,Residential,38.0,38.0,67.0,74.0,0.0
+10745001000,Surry Hills,Residential,0.0,0.0,156.0,160.0,0.0
+10745003000,Surry Hills,Residential,221.0,231.0,310.0,324.0,10.0
+10745004000,Surry Hills,Residential,13.0,14.0,40.0,42.0,1.0
+10745010000,Surry Hills,Residential,32.0,32.0,59.0,64.0,0.0
+10745020000,Darlinghurst,Residential,35.0,37.0,62.0,64.0,2.0
+10745030000,Surry Hills,Residential,26.0,30.0,53.0,64.0,4.0
+10745040000,Darlinghurst,Residential,25.0,26.0,55.0,57.0,1.0
+10745070000,Potts Point,Residential,17.0,18.0,37.0,35.0,1.0
+10745082000,Elizabeth Bay,Residential,87.0,87.0,92.0,94.0,0.0
+10745083000,Elizabeth Bay,Residential,20.0,20.0,38.0,39.0,0.0
+10745090000,Potts Point,Residential,48.0,48.0,41.0,45.0,0.0
+10745100000,Potts Point,Residential,46.0,46.0,33.0,36.0,0.0
+10745110000,Potts Point,Residential,27.0,30.0,53.0,52.0,3.0
+10752952000,Rosebery (NSW),Industrial,3.0,4.0,3.0,4.0,1.0
+10752953000,Rosebery (NSW),Industrial,0.0,0.0,0.0,0.0,0.0
+10752954000,Rosebery (NSW),Industrial,0.0,0.0,0.0,0.0,0.0
+10752955000,Rosebery (NSW),Industrial,0.0,0.0,0.0,0.0,0.0
+10752956000,Rosebery (NSW),Industrial,0.0,0.0,0.0,0.0,0.0
+10752957000,Rosebery (NSW),Industrial,0.0,2.0,0.0,1.0,2.0
+10752958000,Rosebery (NSW),Industrial,0.0,0.0,0.0,0.0,0.0
+10752960000,Beaconsfield (NSW),Residential,36.0,36.0,74.0,80.0,0.0
+10752970000,Redfern,Residential,37.0,43.0,88.0,97.0,6.0
+10752980000,Newtown (NSW),Residential,57.0,57.0,121.0,122.0,0.0
+10752991000,Waterloo (NSW),Residential,199.0,249.0,392.0,516.0,50.0
+10752992000,Waterloo (NSW),Residential,307.0,310.0,672.0,735.0,3.0
+10752993000,Waterloo (NSW),Residential,477.0,480.0,866.0,947.0,3.0
+10752996000,Waterloo (NSW),Residential,131.0,319.0,269.0,411.0,188.0
+10753000000,Rosebery (NSW),Residential,64.0,65.0,170.0,187.0,1.0
+10753010000,Newtown (NSW),Residential,30.0,33.0,66.0,66.0,3.0
+10753020000,Redfern,Residential,37.0,37.0,78.0,89.0,0.0
+10753030000,Erskineville,Residential,60.0,60.0,145.0,156.0,0.0
+10753050000,Alexandria,Residential,31.0,32.0,68.0,74.0,1.0
+10753060000,Darlington (Sydney - NSW),Residential,35.0,35.0,93.0,103.0,0.0
+10753070000,Newtown (NSW),Residential,35.0,35.0,60.0,64.0,0.0
+10753160000,Alexandria,Residential,32.0,35.0,51.0,58.0,3.0
+10753170000,Redfern,Residential,76.0,77.0,109.0,123.0,1.0
+10753180000,Alexandria,Residential,66.0,120.0,109.0,140.0,54.0
+10753190000,Rosebery (NSW),Residential,57.0,57.0,164.0,176.0,0.0
+10753200000,Newtown (NSW),Residential,37.0,39.0,85.0,90.0,2.0
+10753210000,Waterloo (NSW),Residential,47.0,48.0,71.0,83.0,1.0
+10753220000,Redfern,Residential,50.0,50.0,110.0,123.0,0.0
+10753230000,Redfern,Residential,24.0,24.0,71.0,78.0,0.0
+10753250000,Alexandria,Education,0.0,0.0,0.0,0.0,0.0
+10753260000,Redfern,Transport,0.0,0.0,0.0,0.0,0.0
+10753270000,Redfern,Commercial,25.0,26.0,30.0,34.0,1.0
+10753280000,Alexandria,Industrial,0.0,52.0,0.0,0.0,52.0
+10753291000,Redfern,Residential,68.0,68.0,84.0,95.0,0.0
+10753292000,Redfern,Residential,119.0,120.0,180.0,210.0,1.0
+10753293000,Redfern,Residential,288.0,290.0,322.0,381.0,2.0
+10753302000,Erskineville,Residential,41.0,41.0,95.0,108.0,0.0
+10753303000,Erskineville,Residential,4.0,4.0,5.0,6.0,0.0
+10753320000,Redfern,Residential,39.0,45.0,75.0,92.0,6.0
+10753350000,Redfern,Residential,41.0,41.0,103.0,117.0,0.0
+10753390000,Newtown (NSW),Residential,34.0,35.0,80.0,84.0,1.0
+10745120000,Darlinghurst,Residential,30.0,30.0,54.0,55.0,0.0
+10745130000,Elizabeth Bay,Residential,66.0,80.0,138.0,143.0,14.0
+10745150000,Darlinghurst,Residential,50.0,50.0,70.0,91.0,0.0
+10745160000,Darlinghurst,Residential,156.0,157.0,166.0,175.0,1.0
+10745170000,Rushcutters Bay,Parkland,0.0,0.0,0.0,0.0,0.0
+10745181000,Rushcutters Bay,Commercial,14.0,14.0,14.0,14.0,0.0
+10745182000,Elizabeth Bay,Residential,88.0,89.0,226.0,224.0,1.0
+10745190000,Potts Point,Commercial,67.0,147.0,80.0,115.0,80.0
+10745200000,Darlinghurst,Residential,24.0,28.0,29.0,33.0,4.0
+10745220000,Darlinghurst,Residential,33.0,35.0,57.0,58.0,2.0
+10745230000,Darlinghurst,Residential,48.0,50.0,67.0,69.0,2.0
+10745240000,Potts Point,Commercial,24.0,25.0,4.0,5.0,1.0
+10745250000,Darlinghurst,Residential,25.0,28.0,44.0,51.0,3.0
+10753400000,Alexandria,Residential,40.0,54.0,109.0,121.0,14.0
+10753410000,Erskineville,Parkland,0.0,0.0,0.0,0.0,0.0
+10753420000,Zetland,Residential,96.0,96.0,196.0,201.0,0.0
+10753431000,Waterloo (NSW),Residential,423.0,424.0,463.0,506.0,1.0
+10753432000,Waterloo (NSW),Residential,224.0,459.0,195.0,363.0,235.0
+10753450000,Darlington (Sydney - NSW),Residential,34.0,34.0,67.0,74.0,0.0
+10753460000,Darlington (Sydney - NSW),Residential,45.0,47.0,114.0,131.0,2.0
+10753470000,Rosebery (NSW),Residential,278.0,280.0,468.0,506.0,2.0
+10753481000,Newtown (NSW),Commercial,7.0,9.0,10.0,12.0,2.0
+10753482000,Newtown (NSW),Commercial,10.0,17.0,12.0,16.0,7.0
+10753483000,Newtown (NSW),Commercial,12.0,12.0,15.0,15.0,0.0
+10753484000,Newtown (NSW),Commercial,3.0,7.0,19.0,23.0,4.0
+10753485000,Newtown (NSW),Commercial,15.0,18.0,19.0,21.0,3.0
+10753486000,Newtown (NSW),Commercial,3.0,7.0,12.0,17.0,4.0
+10753490000,Erskineville,Residential,24.0,24.0,46.0,50.0,0.0
+10753500000,Rosebery (NSW),Parkland,0.0,0.0,0.0,0.0,0.0
+10753510000,Newtown (NSW),Residential,51.0,53.0,101.0,108.0,2.0
+10753520000,Erskineville,Residential,44.0,44.0,77.0,84.0,0.0
+10753530000,Alexandria,Residential,27.0,29.0,52.0,60.0,2.0
+10753540000,Darlington (Sydney - NSW),Residential,24.0,25.0,60.0,69.0,1.0
+10753550000,Redfern,Residential,62.0,63.0,96.0,116.0,1.0
+10753580000,Redfern,Residential,42.0,42.0,83.0,93.0,0.0
+10753590000,Redfern,Residential,81.0,81.0,85.0,96.0,0.0
+10753600000,Erskineville,Parkland,5.0,6.0,4.0,5.0,1.0
+10753610000,Darlington (Sydney - NSW),Residential,39.0,39.0,89.0,99.0,0.0
+10753620000,Rosebery (NSW),Residential,36.0,36.0,92.0,99.0,0.0
+10753630000,Darlington (Sydney - NSW),Commercial,10.0,10.0,27.0,30.0,0.0
+10753640000,Redfern,Residential,40.0,46.0,83.0,96.0,6.0
+10753650000,Newtown (NSW),Residential,40.0,40.0,88.0,89.0,0.0
+10753660000,Redfern,Residential,41.0,41.0,111.0,126.0,0.0
+10753670000,Newtown (NSW),Residential,38.0,38.0,57.0,60.0,0.0
+10753680000,Alexandria,Residential,15.0,191.0,35.0,308.0,176.0
+10753700000,Erskineville,Residential,51.0,51.0,117.0,125.0,0.0
+10753710000,Redfern,Residential,49.0,49.0,90.0,100.0,0.0
+10753730000,Newtown (NSW),Residential,59.0,59.0,113.0,120.0,0.0
+10753750000,Erskineville,Residential,53.0,55.0,138.0,153.0,2.0
+10753760000,Erskineville,Residential,24.0,25.0,49.0,54.0,1.0
+10753770000,Erskineville,Residential,24.0,24.0,50.0,54.0,0.0
+10753780000,Darlington (Sydney - NSW),Residential,26.0,26.0,74.0,82.0,0.0
+10753800000,Beaconsfield (NSW),Residential,78.0,83.0,140.0,164.0,5.0
+10753810000,Newtown (NSW),Residential,29.0,30.0,88.0,93.0,1.0
+10753822000,Rosebery (NSW),Residential,26.0,26.0,60.0,62.0,0.0
+10755530000,Redfern,Residential,29.0,29.0,52.0,61.0,0.0
+10755540000,Beaconsfield (NSW),Residential,41.0,42.0,69.0,75.0,1.0
+10755550000,Redfern,Residential,20.0,20.0,73.0,80.0,0.0
+10755570000,Erskineville,Residential,39.0,41.0,95.0,104.0,2.0
+10755580000,Alexandria,Residential,36.0,36.0,63.0,68.0,0.0
+10755590000,Erskineville,Residential,35.0,35.0,76.0,78.0,0.0
+10755600000,Redfern,Residential,48.0,95.0,51.0,73.0,47.0
+10755610000,Redfern,Residential,34.0,34.0,42.0,46.0,0.0
+10755620000,Alexandria,Commercial,0.0,0.0,0.0,0.0,0.0
+10755630000,Alexandria,Residential,44.0,44.0,75.0,80.0,0.0
+10755640000,Erskineville,Residential,38.0,38.0,66.0,68.0,0.0
+10755650000,Newtown (NSW),Residential,64.0,64.0,83.0,85.0,0.0
+10755660000,Zetland,Residential,96.0,170.0,217.0,244.0,74.0
+10755690000,Alexandria,Residential,99.0,99.0,192.0,208.0,0.0
+10755700000,Rosebery (NSW),Residential,790.0,792.0,1706.0,1712.0,2.0
+10755710000,Alexandria,Residential,203.0,216.0,330.0,357.0,13.0
+10755720000,Redfern,Residential,51.0,51.0,85.0,94.0,0.0
+10755730000,Darlington (Sydney - NSW),Residential,59.0,59.0,113.0,125.0,0.0
+10755740000,Darlington (Sydney - NSW),Residential,36.0,36.0,57.0,63.0,0.0
+10755760000,Erskineville,Residential,35.0,37.0,78.0,87.0,2.0
+10755770000,Alexandria,Parkland,0.0,1.0,0.0,1.0,1.0
+10755780000,Redfern,Residential,141.0,141.0,225.0,257.0,0.0
+10755790000,Redfern,Residential,118.0,118.0,269.0,304.0,0.0
+10755800000,Waterloo (NSW),Residential,39.0,40.0,53.0,66.0,1.0
+10755820000,Waterloo (NSW),Residential,359.0,359.0,694.0,775.0,0.0
+10755840000,Waterloo (NSW),Residential,61.0,116.0,76.0,108.0,55.0
+10755850000,Waterloo (NSW),Residential,58.0,58.0,94.0,106.0,0.0
+10755900000,Redfern,Residential,83.0,83.0,175.0,208.0,0.0
+10755910000,Alexandria,Residential,18.0,18.0,30.0,34.0,0.0
+10755920000,Alexandria,Residential,51.0,51.0,74.0,81.0,0.0
+10755930000,Erskineville,Parkland,0.0,0.0,0.0,0.0,0.0
+10755940000,Erskineville,Residential,51.0,51.0,98.0,102.0,0.0
+10755950000,Erskineville,Education,0.0,0.0,0.0,0.0,0.0
+10755960000,Rosebery (NSW),Commercial,0.0,5.0,0.0,2.0,5.0
+10755970000,Redfern,Residential,29.0,31.0,25.0,31.0,2.0
+10755980000,Redfern,Residential,0.0,3.0,0.0,2.0,3.0
+10755990000,Newtown (NSW),Residential,20.0,20.0,18.0,18.0,0.0
+10756010000,Newtown (NSW),Residential,71.0,71.0,80.0,80.0,0.0
+10756020000,Newtown (NSW),Residential,23.0,23.0,15.0,16.0,0.0
+10756030000,Redfern,Residential,45.0,45.0,96.0,106.0,0.0
+10756040000,Redfern,Residential,22.0,22.0,39.0,43.0,0.0
+10756050000,Redfern,Commercial,0.0,3.0,0.0,2.0,3.0
+10756070000,Redfern,Residential,84.0,84.0,91.0,104.0,0.0
+10756080000,Redfern,Residential,44.0,44.0,95.0,106.0,0.0
+10756090000,Redfern,Residential,63.0,63.0,123.0,137.0,0.0
+10753830000,Alexandria,Residential,37.0,37.0,63.0,68.0,0.0
+10753840000,Darlington (Sydney - NSW),Residential,26.0,28.0,34.0,39.0,2.0
+10753850000,Alexandria,Industrial,3.0,4.0,9.0,10.0,1.0
+10753860000,Redfern,Residential,122.0,122.0,230.0,254.0,0.0
+10753880000,Alexandria,Residential,25.0,25.0,66.0,72.0,0.0
+10753890000,Newtown (NSW),Residential,50.0,50.0,107.0,110.0,0.0
+10753900000,Alexandria,Residential,49.0,51.0,104.0,114.0,2.0
+10753910000,Newtown (NSW),Residential,35.0,35.0,137.0,142.0,0.0
+10753920000,Zetland,Residential,58.0,63.0,139.0,162.0,5.0
+10753930000,Alexandria,Residential,52.0,55.0,76.0,89.0,3.0
+10753950000,Alexandria,Residential,121.0,121.0,202.0,214.0,0.0
+10753960000,Zetland,Residential,50.0,52.0,99.0,110.0,2.0
+10753970000,Redfern,Residential,32.0,32.0,47.0,54.0,0.0
+10754010000,Redfern,Residential,29.0,29.0,73.0,82.0,0.0
+10754020000,Erskineville,Residential,40.0,40.0,77.0,87.0,0.0
+10754040000,Redfern,Residential,22.0,27.0,79.0,89.0,5.0
+10754061000,Redfern,Commercial,23.0,29.0,39.0,47.0,6.0
+10754062000,Redfern,Commercial,19.0,22.0,42.0,49.0,3.0
+10754081000,Waterloo (NSW),Residential,67.0,70.0,84.0,97.0,3.0
+10754082000,Waterloo (NSW),Residential,127.0,127.0,175.0,196.0,0.0
+10754100000,Newtown (NSW),Residential,66.0,130.0,93.0,108.0,64.0
+10754120000,Newtown (NSW),Residential,52.0,52.0,134.0,138.0,0.0
+10754131000,Redfern,Residential,190.0,190.0,203.0,230.0,0.0
+10754132000,Redfern,Residential,195.0,195.0,229.0,259.0,0.0
+10754133000,Redfern,Residential,190.0,191.0,194.0,220.0,1.0
+10754140000,Redfern,Residential,32.0,32.0,28.0,32.0,0.0
+10754150000,Redfern,Education,0.0,214.0,0.0,161.0,214.0
+10754170000,Redfern,Residential,96.0,193.0,139.0,175.0,97.0
+10754190000,Alexandria,Residential,36.0,38.0,102.0,117.0,2.0
+10754200000,Newtown (NSW),Residential,78.0,78.0,84.0,85.0,0.0
+10754210000,Alexandria,Residential,42.0,88.0,83.0,103.0,46.0
+10754220000,Erskineville,Residential,120.0,121.0,195.0,201.0,1.0
+10754230000,Erskineville,Residential,162.0,163.0,287.0,295.0,1.0
+10754260000,Zetland,Residential,130.0,133.0,218.0,244.0,3.0
+10754270000,Redfern,Residential,32.0,32.0,66.0,76.0,0.0
+10754280000,Darlington (Sydney - NSW),Residential,36.0,40.0,59.0,68.0,4.0
+10754290000,Waterloo (NSW),Residential,68.0,68.0,115.0,129.0,0.0
+10754301000,Waterloo (NSW),Residential,430.0,430.0,573.0,626.0,0.0
+10754310000,Rosebery (NSW),Residential,44.0,44.0,129.0,139.0,0.0
+10754320000,Redfern,Parkland,0.0,0.0,0.0,0.0,0.0
+10754330000,Rosebery (NSW),Residential,32.0,33.0,86.0,95.0,1.0
+10754350000,Alexandria,Residential,29.0,29.0,61.0,65.0,0.0
+10754380000,Darlington (Sydney - NSW),Residential,40.0,40.0,42.0,47.0,0.0
+10756100000,Redfern,Residential,23.0,23.0,39.0,44.0,0.0
+10756110000,Redfern,Residential,0.0,0.0,0.0,0.0,0.0
+10756120000,Newtown (NSW),Residential,45.0,45.0,87.0,92.0,0.0
+10756130000,Alexandria,Industrial,0.0,41.0,0.0,19.0,41.0
+10756140000,Alexandria,Commercial,0.0,7.0,0.0,3.0,7.0
+10756150000,Darlington (Sydney - NSW),Residential,54.0,55.0,121.0,139.0,1.0
+10756160000,Beaconsfield (NSW),Residential,34.0,36.0,59.0,65.0,2.0
+10756170000,Waterloo (NSW),Residential,0.0,12.0,0.0,10.0,12.0
+10754400000,Darlington (Sydney - NSW),Residential,21.0,25.0,53.0,61.0,4.0
+10754420000,Erskineville,Residential,48.0,49.0,74.0,81.0,1.0
+10754440000,Redfern,Residential,47.0,47.0,112.0,125.0,0.0
+10754450000,Redfern,Residential,10.0,10.0,30.0,33.0,0.0
+10754460000,Newtown (NSW),Residential,39.0,39.0,54.0,61.0,0.0
+10754470000,Redfern,Residential,32.0,33.0,54.0,62.0,1.0
+10754481000,Waterloo (NSW),Residential,76.0,78.0,114.0,133.0,2.0
+10754490000,Redfern,Residential,29.0,29.0,111.0,122.0,0.0
+10754500000,Newtown (NSW),Residential,36.0,37.0,83.0,87.0,1.0
+10754510000,Alexandria,Residential,48.0,48.0,104.0,114.0,0.0
+10754520000,Darlington (Sydney - NSW),Residential,48.0,56.0,102.0,117.0,8.0
+10754540000,Zetland,Residential,18.0,18.0,31.0,44.0,0.0
+10754550000,Newtown (NSW),Residential,37.0,39.0,103.0,107.0,2.0
+10754561000,Waterloo (NSW),Commercial,0.0,0.0,0.0,0.0,0.0
+10754562000,Waterloo (NSW),Residential,87.0,87.0,160.0,178.0,0.0
+10754580000,Alexandria,Residential,26.0,26.0,59.0,64.0,0.0
+10754590000,Alexandria,Residential,29.0,29.0,67.0,73.0,0.0
+10754600000,Newtown (NSW),Residential,22.0,22.0,39.0,40.0,0.0
+10754610000,Newtown (NSW),Residential,56.0,56.0,138.0,143.0,0.0
+10754620000,Darlington (Sydney - NSW),Residential,24.0,25.0,45.0,51.0,1.0
+10754630000,Redfern,Residential,41.0,41.0,102.0,116.0,0.0
+10754642000,Waterloo (NSW),Commercial,50.0,52.0,91.0,102.0,2.0
+10754643000,Waterloo (NSW),Residential,100.0,101.0,146.0,162.0,1.0
+10754650000,Alexandria,Industrial,0.0,0.0,0.0,0.0,0.0
+10754660000,Alexandria,Residential,50.0,50.0,99.0,111.0,0.0
+10754670000,Redfern,Residential,43.0,43.0,101.0,114.0,0.0
+10754680000,Redfern,Residential,37.0,39.0,51.0,61.0,2.0
+10754690000,Beaconsfield (NSW),Residential,40.0,40.0,78.0,89.0,0.0
+10754700000,Newtown (NSW),Residential,47.0,48.0,64.0,69.0,1.0
+10754720000,Zetland,Residential,125.0,290.0,244.0,297.0,165.0
+10754730000,Waterloo (NSW),Education,0.0,0.0,0.0,0.0,0.0
+10754742000,Alexandria,Residential,113.0,113.0,178.0,203.0,0.0
+10754750000,Beaconsfield (NSW),Residential,37.0,37.0,79.0,90.0,0.0
+10754760000,Zetland,Residential,65.0,132.0,137.0,161.0,67.0
+10754770000,Beaconsfield (NSW),Residential,20.0,20.0,48.0,52.0,0.0
+10754790000,Redfern,Residential,38.0,38.0,69.0,80.0,0.0
+10754800000,Alexandria,Residential,47.0,47.0,80.0,88.0,0.0
+10754812000,Newtown (NSW),Residential,20.0,20.0,51.0,58.0,0.0
+10754830000,Erskineville,Residential,48.0,50.0,117.0,130.0,2.0
+10754840000,Alexandria,Industrial,0.0,0.0,0.0,0.0,0.0
+10754850000,Redfern,Residential,105.0,105.0,173.0,202.0,0.0
+10754860000,Redfern,Residential,15.0,15.0,21.0,23.0,0.0
+10756180000,Alexandria,Commercial,39.0,71.0,43.0,58.0,32.0
+10756190000,Waterloo (NSW),Residential,71.0,71.0,79.0,98.0,0.0
+10756210000,Rosebery (NSW),Residential,32.0,32.0,76.0,82.0,0.0
+10756220000,Rosebery (NSW),Residential,53.0,53.0,149.0,160.0,0.0
+10756240000,Newtown (NSW),Residential,30.0,32.0,64.0,68.0,2.0
+10756260000,Redfern,Residential,37.0,41.0,53.0,62.0,4.0
+10756270000,Rosebery (NSW),Residential,51.0,51.0,138.0,149.0,0.0
+10756280000,Waterloo (NSW),Residential,107.0,107.0,106.0,136.0,0.0
+10756290000,Rosebery (NSW),Residential,41.0,45.0,107.0,121.0,4.0
+10756300000,Redfern,Residential,37.0,37.0,86.0,96.0,0.0
+10756310000,Zetland,Residential,25.0,25.0,61.0,87.0,0.0
+10756320000,Redfern,Residential,29.0,29.0,64.0,70.0,0.0
+10756330000,Waterloo (NSW),Parkland,6.0,6.0,26.0,30.0,0.0
+10756340000,Rosebery (NSW),Residential,29.0,29.0,90.0,98.0,0.0
+10756350000,Waterloo (NSW),Residential,58.0,60.0,94.0,107.0,2.0
+10756360000,Waterloo (NSW),Residential,73.0,73.0,136.0,152.0,0.0
+10756370000,Redfern,Residential,138.0,138.0,148.0,168.0,0.0
+10756380000,Zetland,Residential,73.0,73.0,141.0,157.0,0.0
+10756390000,Zetland,Residential,64.0,65.0,134.0,145.0,1.0
+10756400000,Redfern,Residential,72.0,72.0,63.0,72.0,0.0
+10756410000,Redfern,Residential,29.0,30.0,58.0,66.0,1.0
+10756420000,Redfern,Residential,51.0,51.0,95.0,107.0,0.0
+10756430000,Newtown (NSW),Residential,48.0,48.0,87.0,93.0,0.0
+10756440000,Erskineville,Residential,46.0,46.0,108.0,116.0,0.0
+10756450000,Newtown (NSW),Residential,23.0,25.0,37.0,38.0,2.0
+10756460000,Newtown (NSW),Residential,41.0,42.0,72.0,75.0,1.0
+10756470000,Newtown (NSW),Residential,23.0,23.0,75.0,78.0,0.0
+10756480000,Newtown (NSW),Residential,26.0,30.0,78.0,84.0,4.0
+10756491000,Newtown (NSW),Commercial,14.0,14.0,22.0,23.0,0.0
+10756492000,Newtown (NSW),Residential,92.0,92.0,131.0,134.0,0.0
+10756500000,Erskineville,Residential,38.0,38.0,76.0,83.0,0.0
+10756520000,Erskineville,Residential,44.0,44.0,106.0,120.0,0.0
+10756530000,Alexandria,Residential,47.0,79.0,72.0,91.0,32.0
+10756540000,Alexandria,Residential,34.0,34.0,59.0,65.0,0.0
+10756560000,Alexandria,Residential,32.0,32.0,69.0,75.0,0.0
+10756570000,Alexandria,Residential,37.0,38.0,73.0,80.0,1.0
+10756580000,Darlington (Sydney - NSW),Residential,41.0,49.0,75.0,86.0,8.0
+10756590000,Darlington (Sydney - NSW),Residential,46.0,48.0,92.0,104.0,2.0
+10756600000,Redfern,Residential,37.0,37.0,98.0,111.0,0.0
+10756610000,Alexandria,Residential,154.0,268.0,248.0,329.0,114.0
+10756630000,Redfern,Residential,0.0,0.0,0.0,0.0,0.0
+10756640000,Redfern,Residential,21.0,21.0,45.0,72.0,0.0
+10756650000,Newtown (NSW),Education,0.0,0.0,0.0,0.0,0.0
+10756660000,Newtown (NSW),Residential,27.0,56.0,46.0,62.0,29.0
+10756670000,Newtown (NSW),Residential,37.0,37.0,86.0,91.0,0.0
+10756680000,Darlington (Sydney - NSW),Residential,33.0,34.0,82.0,92.0,1.0
+10756701000,Glebe (NSW),Residential,86.0,173.0,125.0,163.0,87.0
+10756702000,Glebe (NSW),Commercial,10.0,12.0,21.0,24.0,2.0
+10754870000,Redfern,Residential,68.0,68.0,167.0,186.0,0.0
+10754880000,Redfern,Residential,57.0,57.0,97.0,109.0,0.0
+10754900000,Redfern,Residential,169.0,170.0,298.0,312.0,1.0
+10754910000,Newtown (NSW),Residential,21.0,21.0,39.0,40.0,0.0
+10754930000,Redfern,Residential,113.0,115.0,146.0,172.0,2.0
+10754940000,Alexandria,Residential,40.0,40.0,62.0,70.0,0.0
+10754950000,Erskineville,Residential,51.0,107.0,103.0,133.0,56.0
+10754960000,Newtown (NSW),Residential,53.0,53.0,107.0,108.0,0.0
+10754980000,Erskineville,Residential,64.0,64.0,121.0,130.0,0.0
+10755000000,Erskineville,Residential,35.0,53.0,85.0,109.0,18.0
+10755010000,Redfern,Residential,26.0,26.0,55.0,59.0,0.0
+10755020000,Beaconsfield (NSW),Residential,46.0,46.0,96.0,110.0,0.0
+10755030000,Waterloo (NSW),Residential,46.0,49.0,124.0,142.0,3.0
+10755040000,Erskineville,Education,0.0,0.0,0.0,0.0,0.0
+10755050000,Alexandria,Education,0.0,0.0,0.0,0.0,0.0
+10755060000,Rosebery (NSW),Education,0.0,0.0,3.0,3.0,0.0
+10755070000,Newtown (NSW),Residential,47.0,47.0,99.0,106.0,0.0
+10755080000,Erskineville,Residential,34.0,34.0,70.0,75.0,0.0
+10755100000,Newtown (NSW),Residential,32.0,32.0,33.0,34.0,0.0
+10755120000,Redfern,Residential,44.0,44.0,75.0,83.0,0.0
+10755130000,Redfern,Residential,36.0,36.0,82.0,92.0,0.0
+10755140000,Rosebery (NSW),Residential,43.0,43.0,158.0,171.0,0.0
+10755160000,Waterloo (NSW),Residential,37.0,37.0,81.0,91.0,0.0
+10755170000,Zetland,Residential,68.0,68.0,119.0,132.0,0.0
+10755180000,Redfern,Residential,28.0,28.0,69.0,79.0,0.0
+10755190000,Redfern,Residential,28.0,28.0,61.0,69.0,0.0
+10755200000,Alexandria,Residential,45.0,46.0,106.0,113.0,1.0
+10755210000,Alexandria,Residential,31.0,31.0,62.0,67.0,0.0
+10755220000,Waterloo (NSW),Residential,96.0,96.0,104.0,133.0,0.0
+10755230000,Rosebery (NSW),Residential,37.0,37.0,108.0,117.0,0.0
+10755240000,Redfern,Residential,37.0,37.0,60.0,67.0,0.0
+10755250000,Redfern,Residential,71.0,71.0,201.0,219.0,0.0
+10755260000,Rosebery (NSW),Parkland,0.0,0.0,0.0,0.0,0.0
+10755280000,Rosebery (NSW),Residential,47.0,47.0,129.0,138.0,0.0
+10755290000,Redfern,Residential,19.0,19.0,43.0,47.0,0.0
+10755300000,Alexandria,Residential,52.0,54.0,78.0,85.0,2.0
+10755330000,Redfern,Residential,49.0,49.0,85.0,99.0,0.0
+10755341000,Erskineville,Residential,73.0,88.0,142.0,164.0,15.0
+10755342000,Erskineville,Residential,38.0,39.0,57.0,62.0,1.0
+10755351000,Newtown (NSW),Residential,3.0,3.0,114.0,134.0,0.0
+10755352000,Newtown (NSW),Hospital/Medical,0.0,1.0,0.0,1.0,1.0
+10756710000,Camperdown (NSW),Residential,28.0,30.0,55.0,62.0,2.0
+10756720000,Glebe (NSW),Residential,50.0,50.0,56.0,58.0,0.0
+10756740000,Ultimo,Commercial,0.0,0.0,28.0,48.0,0.0
+10756750000,Glebe (NSW),Residential,60.0,60.0,94.0,99.0,0.0
+10756770000,Camperdown (NSW),Residential,41.0,50.0,79.0,94.0,9.0
+10756780000,Glebe (NSW),Residential,35.0,35.0,69.0,70.0,0.0
+10756790000,Glebe (NSW),Residential,52.0,52.0,115.0,119.0,0.0
+10756800000,Glebe (NSW),Residential,28.0,28.0,66.0,73.0,0.0
+10756810000,Chippendale,Residential,46.0,46.0,97.0,116.0,0.0
+10756820000,Glebe (NSW),Residential,44.0,45.0,60.0,64.0,1.0
+10756830000,Chippendale,Residential,35.0,36.0,84.0,100.0,1.0
+10756840000,Chippendale,Residential,58.0,58.0,102.0,129.0,0.0
+10756850000,Forest Lodge,Residential,36.0,37.0,87.0,93.0,1.0
+10756861000,Glebe (NSW),Residential,19.0,19.0,42.0,44.0,0.0
+10756862000,Glebe (NSW),Residential,14.0,14.0,41.0,43.0,0.0
+10756870000,Forest Lodge,Residential,84.0,84.0,99.0,113.0,0.0
+10756880000,Forest Lodge,Residential,39.0,40.0,107.0,113.0,1.0
+10756891000,Glebe (NSW),Residential,21.0,21.0,47.0,50.0,0.0
+10756892000,Glebe (NSW),Residential,22.0,22.0,56.0,60.0,0.0
+10756901000,Glebe (NSW),Residential,24.0,25.0,40.0,43.0,1.0
+10756902000,Glebe (NSW),Residential,24.0,24.0,39.0,41.0,0.0
+10756911000,Glebe (NSW),Residential,18.0,19.0,28.0,31.0,1.0
+10756912000,Glebe (NSW),Residential,28.0,28.0,53.0,57.0,0.0
+10756920000,Glebe (NSW),Residential,45.0,46.0,86.0,91.0,1.0
+10756930000,Glebe (NSW),Residential,40.0,40.0,58.0,61.0,0.0
+10756940000,Ultimo,Residential,181.0,378.0,390.0,660.0,197.0
+10756950000,Glebe (NSW),Residential,61.0,61.0,83.0,85.0,0.0
+10756970000,Glebe (NSW),Residential,91.0,110.0,186.0,214.0,19.0
+10756990000,Camperdown (NSW),Residential,30.0,30.0,34.0,37.0,0.0
+10757000000,Chippendale,Residential,34.0,34.0,42.0,49.0,0.0
+10757011000,Ultimo,Residential,57.0,186.0,105.0,249.0,129.0
+10757012000,Ultimo,Residential,346.0,677.0,352.0,770.0,331.0
+10757031000,Chippendale,Residential,88.0,112.0,185.0,232.0,24.0
+10757032000,Chippendale,Commercial,0.0,2.0,7.0,10.0,2.0
+10757040000,Glebe (NSW),Residential,36.0,39.0,71.0,74.0,3.0
+10757050000,Glebe (NSW),Residential,34.0,35.0,49.0,54.0,1.0
+10757060000,Glebe (NSW),Residential,38.0,42.0,55.0,61.0,4.0
+10757070000,Chippendale,Residential,23.0,29.0,51.0,64.0,6.0
+10757080000,Camperdown (NSW),Residential,70.0,72.0,100.0,109.0,2.0
+10757090000,Glebe (NSW),Residential,42.0,43.0,82.0,88.0,1.0
+10757100000,Glebe (NSW),Residential,21.0,21.0,38.0,40.0,0.0
+10757110000,Glebe (NSW),Residential,50.0,50.0,72.0,75.0,0.0
+10757120000,Glebe (NSW),Residential,47.0,47.0,81.0,89.0,0.0
+10757130000,Pyrmont,Commercial,29.0,33.0,54.0,64.0,4.0
+10757140000,Pyrmont,Residential,72.0,72.0,118.0,124.0,0.0
+10757151000,Pyrmont,Residential,81.0,86.0,139.0,157.0,5.0
+10757152000,Pyrmont,Residential,47.0,48.0,95.0,106.0,1.0
+10757160000,Chippendale,Residential,122.0,122.0,214.0,248.0,0.0
+10757171000,Ultimo,Residential,138.0,140.0,276.0,375.0,2.0
+10757172000,Ultimo,Residential,32.0,32.0,49.0,80.0,0.0
+10757200000,Ultimo,Commercial,0.0,0.0,0.0,0.0,0.0
+10757211000,Pyrmont,Commercial,0.0,7.0,0.0,5.0,7.0
+10757212000,Pyrmont,Residential,78.0,78.0,151.0,170.0,0.0
+10757230000,Haymarket,Transport,0.0,1.0,0.0,1.0,1.0
+10757240000,Camperdown (NSW),Residential,53.0,53.0,91.0,101.0,0.0
+10757260000,Glebe (NSW),Residential,31.0,31.0,49.0,50.0,0.0
+10757290000,Haymarket,Commercial,14.0,46.0,45.0,74.0,32.0
+10757310000,Forest Lodge,Parkland,0.0,0.0,0.0,0.0,0.0
+10757340000,Glebe (NSW),Residential,48.0,48.0,102.0,109.0,0.0
+10757350000,Annandale (NSW),Parkland,0.0,0.0,0.0,0.0,0.0
+10757360000,Glebe (NSW),Residential,44.0,44.0,72.0,76.0,0.0
+10757370000,Glebe (NSW),Residential,31.0,31.0,169.0,182.0,0.0
+10757380000,Glebe (NSW),Residential,26.0,26.0,39.0,41.0,0.0
+10757390000,Glebe (NSW),Residential,78.0,78.0,95.0,97.0,0.0
+10757420000,Chippendale,Residential,51.0,51.0,68.0,79.0,0.0
+10757430000,Chippendale,Residential,25.0,25.0,23.0,27.0,0.0
+10755360000,Newtown (NSW),Residential,34.0,34.0,82.0,85.0,0.0
+10755370000,Erskineville,Residential,46.0,56.0,97.0,110.0,10.0
+10755380000,Erskineville,Residential,26.0,26.0,57.0,61.0,0.0
+10755390000,Alexandria,Residential,54.0,55.0,81.0,89.0,1.0
+10755400000,Darlington (Sydney - NSW),Residential,42.0,43.0,95.0,106.0,1.0
+10755410000,Redfern,Residential,44.0,46.0,75.0,86.0,2.0
+10755420000,Redfern,Residential,31.0,31.0,60.0,65.0,0.0
+10755430000,Redfern,Residential,50.0,53.0,76.0,124.0,3.0
+10755440000,Waterloo (NSW),Residential,59.0,59.0,65.0,73.0,0.0
+10755450000,Rosebery (NSW),Residential,38.0,42.0,104.0,119.0,4.0
+10755461000,Erskineville,Residential,24.0,25.0,58.0,64.0,1.0
+10755462000,Erskineville,Residential,24.0,24.0,54.0,59.0,0.0
+10755470000,Waterloo (NSW),Residential,33.0,33.0,114.0,122.0,0.0
+10755480000,Waterloo (NSW),Residential,35.0,35.0,62.0,72.0,0.0
+10755490000,Zetland,Residential,23.0,23.0,31.0,44.0,0.0
+10755500000,Alexandria,Residential,39.0,41.0,81.0,89.0,2.0
+10755510000,Alexandria,Residential,36.0,36.0,77.0,84.0,0.0
+10755520000,Newtown (NSW),Parkland,0.0,0.0,0.0,0.0,0.0
+10758010000,Glebe (NSW),Residential,36.0,36.0,82.0,86.0,0.0
+10758020000,Glebe (NSW),Residential,38.0,39.0,93.0,103.0,1.0
+10758030000,Glebe (NSW),Residential,37.0,37.0,92.0,100.0,0.0
+10758040000,Glebe (NSW),Residential,35.0,35.0,69.0,74.0,0.0
+10758050000,Glebe (NSW),Residential,56.0,56.0,67.0,70.0,0.0
+10758060000,Glebe (NSW),Residential,19.0,19.0,38.0,39.0,0.0
+10758080000,Glebe (NSW),Residential,47.0,47.0,88.0,90.0,0.0
+10758090000,Glebe (NSW),Residential,29.0,29.0,33.0,34.0,0.0
+10758100000,Glebe (NSW),Residential,53.0,53.0,75.0,79.0,0.0
+10758110000,Haymarket,Commercial,0.0,0.0,0.0,0.0,0.0
+10758130000,Camperdown (NSW),Residential,45.0,49.0,58.0,65.0,4.0
+10758140000,Glebe (NSW),Education,0.0,0.0,23.0,25.0,0.0
+10758170000,Forest Lodge,Parkland,0.0,0.0,0.0,0.0,0.0
+10758180000,Camperdown (NSW),Residential,42.0,42.0,57.0,58.0,0.0
+10758200000,Chippendale,Residential,39.0,39.0,57.0,72.0,0.0
+10758210000,Chippendale,Residential,33.0,33.0,32.0,40.0,0.0
+10758220000,Chippendale,Residential,103.0,103.0,141.0,168.0,0.0
+10758230000,Ultimo,Commercial,0.0,12.0,3.0,19.0,12.0
+10758240000,Ultimo,Residential,8.0,12.0,382.0,659.0,4.0
+10758250000,Glebe (NSW),Residential,42.0,42.0,37.0,39.0,0.0
+10758270000,Chippendale,Residential,59.0,63.0,153.0,179.0,4.0
+10758280000,Forest Lodge,Parkland,0.0,0.0,0.0,0.0,0.0
+10758290000,Camperdown (NSW),Residential,17.0,37.0,60.0,67.0,20.0
+10757440000,Camperdown (NSW),Residential,27.0,31.0,43.0,50.0,4.0
+10757461000,Glebe (NSW),Commercial,45.0,48.0,51.0,55.0,3.0
+10758300000,Glebe (NSW),Residential,39.0,46.0,78.0,91.0,7.0
+10758311000,Camperdown (NSW),Residential,18.0,18.0,63.0,69.0,0.0
+10758312000,Camperdown (NSW),Residential,14.0,14.0,17.0,19.0,0.0
+10758320000,Glebe (NSW),Residential,43.0,43.0,59.0,60.0,0.0
+10758330000,Glebe (NSW),Residential,48.0,92.0,87.0,105.0,44.0
+10758340000,Glebe (NSW),Residential,92.0,182.0,69.0,124.0,90.0
+10758350000,Glebe (NSW),Residential,3.0,3.0,14.0,15.0,0.0
+10758370000,Forest Lodge,Residential,41.0,41.0,45.0,46.0,0.0
+10758380000,Forest Lodge,Commercial,0.0,2.0,0.0,2.0,2.0
+10758400000,Glebe (NSW),Residential,57.0,57.0,126.0,132.0,0.0
+10758410000,Forest Lodge,Residential,32.0,32.0,18.0,20.0,0.0
+10758430000,Forest Lodge,Residential,20.0,20.0,26.0,27.0,0.0
+10758441000,Camperdown (NSW),Commercial,17.0,17.0,28.0,31.0,0.0
+10758450000,Forest Lodge,Residential,55.0,106.0,107.0,122.0,51.0
+10758460000,Camperdown (NSW),Residential,52.0,52.0,98.0,107.0,0.0
+10758490000,Chippendale,Residential,8.0,9.0,14.0,17.0,1.0
+10758500000,Ultimo,Commercial,15.0,18.0,18.0,31.0,3.0
+10758510000,Chippendale,Residential,11.0,11.0,25.0,31.0,0.0
+10758520000,Chippendale,Residential,107.0,134.0,163.0,225.0,27.0
+10758530000,Camperdown (NSW),Residential,52.0,52.0,73.0,77.0,0.0
+10758540000,Glebe (NSW),Residential,43.0,43.0,72.0,77.0,0.0
+10758550000,Glebe (NSW),Residential,35.0,35.0,41.0,44.0,0.0
+10758570000,Camperdown (NSW),Parkland,0.0,0.0,0.0,0.0,0.0
+10758580000,Pyrmont,Residential,134.0,146.0,265.0,317.0,12.0
+10758600000,Glebe (NSW),Residential,109.0,110.0,178.0,171.0,1.0
+10758610000,Ultimo,Education,0.0,0.0,0.0,0.0,0.0
+10758620000,Glebe (NSW),Education,4.0,4.0,0.0,0.0,0.0
+10758630000,Forest Lodge,Education,0.0,0.0,3.0,3.0,0.0
+10758640000,Glebe (NSW),Parkland,0.0,0.0,0.0,0.0,0.0
+10758650000,Glebe (NSW),Residential,31.0,37.0,63.0,74.0,6.0
+10758660000,Pyrmont,Residential,33.0,33.0,83.0,90.0,0.0
+10758670000,Glebe (NSW),Residential,120.0,120.0,142.0,151.0,0.0
+10758690000,Glebe (NSW),Residential,72.0,81.0,101.0,109.0,9.0
+10758700000,Pyrmont,Commercial,0.0,0.0,0.0,0.0,0.0
+10758710000,Pyrmont,Residential,209.0,209.0,486.0,500.0,0.0
+10758720000,Pyrmont,Residential,22.0,23.0,27.0,31.0,1.0
+10758751000,Pyrmont,Residential,166.0,166.0,279.0,336.0,0.0
+10758752000,Pyrmont,Residential,297.0,298.0,534.0,643.0,1.0
+10758760000,Chippendale,Residential,59.0,59.0,125.0,146.0,0.0
+10758770000,Pyrmont,Residential,97.0,97.0,155.0,171.0,0.0
+10757462000,Glebe (NSW),Commercial,14.0,21.0,17.0,20.0,7.0
+10757480000,Glebe (NSW),Residential,66.0,68.0,77.0,82.0,2.0
+10757490000,Glebe (NSW),Residential,30.0,30.0,77.0,81.0,0.0
+10757500000,Glebe (NSW),Commercial,0.0,0.0,0.0,0.0,0.0
+10757510000,Camperdown (NSW),Residential,30.0,35.0,34.0,41.0,5.0
+10757520000,Camperdown (NSW),Residential,48.0,51.0,88.0,96.0,3.0
+10757530000,Camperdown (NSW),Residential,115.0,115.0,160.0,164.0,0.0
+10757540000,Chippendale,Residential,20.0,20.0,26.0,31.0,0.0
+10757570000,Glebe (NSW),Residential,46.0,47.0,83.0,91.0,1.0
+10757580000,Glebe (NSW),Residential,58.0,61.0,99.0,111.0,3.0
+10757590000,Glebe (NSW),Residential,40.0,40.0,117.0,125.0,0.0
+10757601000,Forest Lodge,Commercial,0.0,0.0,0.0,0.0,0.0
+10757602000,Forest Lodge,Residential,41.0,71.0,11.0,28.0,30.0
+10757610000,Chippendale,Residential,31.0,31.0,72.0,84.0,0.0
+10757620000,Chippendale,Residential,19.0,19.0,50.0,63.0,0.0
+10757630000,Forest Lodge,Residential,33.0,33.0,77.0,80.0,0.0
+10757641000,Glebe (NSW),Residential,20.0,20.0,60.0,63.0,0.0
+10757642000,Glebe (NSW),Residential,22.0,23.0,51.0,54.0,1.0
+10757650000,Ultimo,Education,55.0,55.0,91.0,130.0,0.0
+10757660000,Pyrmont,Commercial,0.0,1.0,3.0,4.0,1.0
+10757670000,Sydney,Transport,0.0,0.0,0.0,0.0,0.0
+10757682000,Glebe (NSW),Commercial,0.0,0.0,0.0,0.0,0.0
+10757683000,Glebe (NSW),Commercial,18.0,28.0,22.0,26.0,10.0
+10757684000,Glebe (NSW),Commercial,0.0,42.0,0.0,27.0,42.0
+10757690000,Glebe (NSW),Education,0.0,0.0,3.0,3.0,0.0
+10757700000,Ultimo,Residential,384.0,387.0,636.0,954.0,3.0
+10758780000,Chippendale,Residential,50.0,51.0,86.0,103.0,1.0
+10758790000,Chippendale,Residential,44.0,44.0,77.0,92.0,0.0
+10758800000,Ultimo,Residential,68.0,68.0,142.0,208.0,0.0
+10758830000,Glebe (NSW),Residential,28.0,28.0,51.0,55.0,0.0
+10758840000,Glebe (NSW),Residential,65.0,65.0,118.0,132.0,0.0
+10758850000,Glebe (NSW),Residential,32.0,32.0,67.0,72.0,0.0
+10758860000,Glebe (NSW),Parkland,0.0,0.0,0.0,0.0,0.0
+10758870000,Glebe (NSW),Residential,37.0,39.0,67.0,75.0,2.0
+10758880000,Glebe (NSW),Residential,27.0,31.0,90.0,97.0,4.0
+10758890000,Glebe (NSW),Residential,37.0,38.0,89.0,97.0,1.0
+10758900000,Glebe (NSW),Commercial,0.0,0.0,0.0,0.0,0.0
+10758910000,Glebe (NSW),Residential,33.0,34.0,78.0,84.0,1.0
+10758920000,Pyrmont,Residential,63.0,63.0,131.0,128.0,0.0
+10758930000,Forest Lodge,Residential,47.0,48.0,100.0,102.0,1.0
+10758940000,Glebe (NSW),Residential,31.0,31.0,45.0,48.0,0.0
+10758950000,Chippendale,Residential,71.0,72.0,145.0,162.0,1.0
+10758972000,Camperdown (NSW),Residential,61.0,130.0,92.0,121.0,69.0
+10758980000,Surry Hills,Parkland,0.0,0.0,4.0,4.0,0.0
+10758990000,Ultimo,Commercial,21.0,24.0,67.0,101.0,3.0
+10759000000,Pyrmont,Transport,0.0,0.0,0.0,0.0,0.0
+10759010000,Glebe (NSW),Residential,35.0,35.0,62.0,66.0,0.0
+10759021000,Pyrmont,Residential,56.0,56.0,83.0,86.0,0.0
+10759030000,Glebe (NSW),Residential,41.0,56.0,73.0,87.0,15.0
+10759040000,Glebe (NSW),Residential,34.0,34.0,59.0,62.0,0.0
+10759061000,Glebe (NSW),Commercial,6.0,6.0,18.0,18.0,0.0
+10759062000,Glebe (NSW),Commercial,9.0,10.0,9.0,10.0,1.0
+10759063000,Glebe (NSW),Commercial,5.0,5.0,7.0,8.0,0.0
+10759064000,Glebe (NSW),Commercial,0.0,0.0,0.0,0.0,0.0
+10759065000,Glebe (NSW),Commercial,0.0,0.0,0.0,0.0,0.0
+10759066000,Glebe (NSW),Commercial,26.0,64.0,44.0,57.0,38.0
+10759070000,Forest Lodge,Residential,28.0,28.0,57.0,63.0,0.0
+10759082000,Chippendale,Commercial,20.0,21.0,40.0,53.0,1.0
+10759091000,Glebe (NSW),Commercial,17.0,21.0,33.0,37.0,4.0
+10759092000,Glebe (NSW),Commercial,17.0,37.0,36.0,50.0,20.0
+10759100000,Forest Lodge,Residential,29.0,29.0,82.0,82.0,0.0
+10759111000,Ultimo,Residential,82.0,82.0,154.0,221.0,0.0
+10759120000,Glebe (NSW),Residential,27.0,28.0,57.0,63.0,1.0
+10759140000,Chippendale,Residential,40.0,43.0,78.0,91.0,3.0
+10759150000,Glebe (NSW),Residential,45.0,45.0,102.0,108.0,0.0
+10759160000,Glebe (NSW),Residential,30.0,33.0,56.0,60.0,3.0
+10759190000,Forest Lodge,Residential,43.0,45.0,94.0,100.0,2.0
+10757710000,Glebe (NSW),Residential,49.0,49.0,81.0,90.0,0.0
+10757722000,Forest Lodge,Commercial,36.0,36.0,60.0,64.0,0.0
+10757730000,Glebe (NSW),Residential,22.0,22.0,31.0,33.0,0.0
+10757740000,Glebe (NSW),Parkland,0.0,0.0,0.0,0.0,0.0
+10757750000,Camperdown (NSW),Residential,44.0,98.0,75.0,94.0,54.0
+10757761000,Camperdown (NSW),Residential,62.0,62.0,107.0,118.0,0.0
+10757762000,Camperdown (NSW),Commercial,0.0,0.0,4.0,4.0,0.0
+10757771000,Pyrmont,Residential,178.0,178.0,314.0,313.0,0.0
+10757772000,Pyrmont,Residential,93.0,93.0,141.0,157.0,0.0
+10757773000,Pyrmont,Residential,399.0,402.0,687.0,806.0,3.0
+10757790000,Pyrmont,Commercial,0.0,0.0,0.0,0.0,0.0
+10757801000,Pyrmont,Residential,82.0,82.0,141.0,157.0,0.0
+10757802000,Pyrmont,Residential,137.0,137.0,197.0,220.0,0.0
+10757810000,Ultimo,Commercial,0.0,1.0,0.0,1.0,1.0
+10757820000,Chippendale,Residential,39.0,39.0,66.0,76.0,0.0
+10757830000,Ultimo,Residential,49.0,50.0,86.0,129.0,1.0
+10759200000,Chippendale,Residential,16.0,17.0,23.0,30.0,1.0
+10759211000,Glebe (NSW),Residential,20.0,22.0,39.0,42.0,2.0
+10759212000,Glebe (NSW),Residential,26.0,26.0,55.0,59.0,0.0
+10759220000,Glebe (NSW),Residential,25.0,27.0,63.0,70.0,2.0
+10759230000,Glebe (NSW),Parkland,0.0,0.0,0.0,0.0,0.0
+10759241000,Glebe (NSW),Residential,34.0,63.0,56.0,84.0,29.0
+10759242000,Glebe (NSW),Residential,23.0,23.0,47.0,61.0,0.0
+10759271000,Ultimo,Residential,58.0,63.0,107.0,154.0,5.0
+10759272000,Ultimo,Commercial,0.0,0.0,0.0,0.0,0.0
+10759280000,Glebe (NSW),Residential,26.0,56.0,28.0,43.0,30.0
+10759290000,Chippendale,Residential,39.0,39.0,62.0,74.0,0.0
+10759300000,Forest Lodge,Residential,48.0,48.0,79.0,84.0,0.0
+10759310000,Pyrmont,Transport,0.0,0.0,0.0,0.0,0.0
+10759330000,Camperdown (NSW),Residential,47.0,49.0,89.0,98.0,2.0
+10759350000,Glebe (NSW),Residential,37.0,37.0,63.0,66.0,0.0
+10759360000,Darlington (Sydney - NSW),Education,3.0,12.0,101.0,114.0,9.0
+10759370000,Glebe (NSW),Parkland,0.0,0.0,0.0,0.0,0.0
+10759381000,Camperdown (NSW),Residential,138.0,138.0,217.0,233.0,0.0
+10759382000,Camperdown (NSW),Residential,405.0,621.0,587.0,600.0,216.0
+10759411000,Camperdown (NSW),Residential,101.0,102.0,183.0,172.0,1.0
+10759420000,Glebe (NSW),Residential,28.0,28.0,56.0,54.0,0.0
+10759430000,Glebe (NSW),Residential,24.0,24.0,84.0,88.0,0.0
+10759440000,Camperdown (NSW),Commercial,0.0,0.0,6.0,7.0,0.0
+10759450000,Glebe (NSW),Parkland,0.0,0.0,0.0,0.0,0.0
+10759470000,Chippendale,Residential,42.0,42.0,67.0,80.0,0.0
+10759481000,Pyrmont,Residential,251.0,259.0,501.0,588.0,8.0
+10759482000,Pyrmont,Residential,195.0,195.0,302.0,326.0,0.0
+10759490000,Glebe (NSW),Parkland,4.0,5.0,0.0,0.0,1.0
+10759501000,Forest Lodge,Commercial,27.0,33.0,39.0,46.0,6.0
+10759502000,Glebe (NSW),Commercial,6.0,6.0,20.0,21.0,0.0
+10759503000,Glebe (NSW),Commercial,31.0,48.0,31.0,40.0,17.0
+10759511000,Glebe (NSW),Commercial,15.0,20.0,37.0,43.0,5.0
+10759512000,Glebe (NSW),Commercial,14.0,15.0,16.0,18.0,1.0
+10759521000,Glebe (NSW),Residential,58.0,58.0,95.0,105.0,0.0
+10759522000,Glebe (NSW),Residential,47.0,48.0,57.0,64.0,1.0
+10759540000,Glebe (NSW),Residential,39.0,39.0,99.0,108.0,0.0
+10759550000,Chippendale,Residential,73.0,75.0,144.0,168.0,2.0
+10759561000,Chippendale,Residential,27.0,27.0,62.0,71.0,0.0
+10759562000,Chippendale,Residential,27.0,29.0,77.0,94.0,2.0
+10759570000,Glebe (NSW),Residential,31.0,31.0,74.0,79.0,0.0
+10759580000,Forest Lodge,Residential,24.0,24.0,50.0,50.0,0.0
+10759590000,Chippendale,Residential,33.0,52.0,54.0,84.0,19.0
+10759600000,Chippendale,Residential,33.0,34.0,46.0,55.0,1.0
+10759610000,Glebe (NSW),Residential,36.0,38.0,65.0,73.0,2.0
+10759620000,Glebe (NSW),Residential,16.0,16.0,43.0,56.0,0.0
+10759651000,Ultimo,Commercial,0.0,0.0,0.0,0.0,0.0
+10759652000,Ultimo,Commercial,15.0,15.0,39.0,57.0,0.0
+10759690000,Glebe (NSW),Residential,33.0,33.0,65.0,68.0,0.0
+10759720000,Forest Lodge,Residential,36.0,37.0,103.0,109.0,1.0
+10759731000,Pyrmont,Commercial,0.0,1.0,0.0,0.0,1.0
+10759732000,Pyrmont,Commercial,0.0,0.0,0.0,0.0,0.0
+10759740000,Ultimo,Education,0.0,0.0,0.0,0.0,0.0
+10759751000,Glebe (NSW),Residential,14.0,14.0,38.0,41.0,0.0
+10759752000,Glebe (NSW),Residential,18.0,18.0,37.0,40.0,0.0
+10759753000,Glebe (NSW),Residential,14.0,15.0,43.0,47.0,1.0
+10759754000,Glebe (NSW),Residential,8.0,8.0,35.0,38.0,0.0
+10759761000,Camperdown (NSW),Commercial,0.0,0.0,0.0,0.0,0.0
+10759762000,Camperdown (NSW),Commercial,18.0,18.0,31.0,34.0,0.0
+10759771000,Glebe (NSW),Residential,25.0,25.0,47.0,48.0,0.0
+10759772000,Glebe (NSW),Residential,32.0,32.0,56.0,57.0,0.0
+10759782000,Camperdown (NSW),Commercial,4.0,8.0,4.0,7.0,4.0
+10759792000,Camperdown (NSW),Commercial,81.0,104.0,91.0,100.0,23.0
+10759793000,Camperdown (NSW),Residential,61.0,115.0,98.0,120.0,54.0
+10759800000,Camperdown (NSW),Residential,144.0,144.0,210.0,215.0,0.0
+10759810000,Chippendale,Transport,0.0,0.0,0.0,0.0,0.0
+10759821000,Pyrmont,Residential,225.0,225.0,489.0,514.0,0.0
+10759822000,Pyrmont,Residential,131.0,131.0,202.0,212.0,0.0
+10759830000,Pyrmont,Transport,0.0,0.0,0.0,0.0,0.0
+10759841000,Glebe (NSW),Commercial,10.0,11.0,45.0,49.0,1.0
+10759842000,Glebe (NSW),Commercial,12.0,15.0,15.0,16.0,3.0
+10759843000,Glebe (NSW),Commercial,22.0,23.0,42.0,46.0,1.0
+10757840000,Chippendale,Residential,71.0,71.0,125.0,149.0,0.0
+10757850000,Ultimo,Residential,121.0,121.0,212.0,310.0,0.0
+10757880000,Forest Lodge,Commercial,33.0,33.0,50.0,50.0,0.0
+10757890000,Glebe (NSW),Residential,12.0,13.0,52.0,56.0,1.0
+10757900000,Glebe (NSW),Transport,0.0,0.0,0.0,0.0,0.0
+10757910000,Pyrmont,Transport,0.0,1.0,0.0,1.0,1.0
+10757920000,Chippendale,Education,24.0,24.0,30.0,36.0,0.0
+10757930000,Glebe (NSW),Education,0.0,2.0,0.0,2.0,2.0
+10757940000,Chippendale,Residential,44.0,44.0,91.0,109.0,0.0
+10757950000,Glebe (NSW),Commercial,205.0,208.0,293.0,300.0,3.0
+10757960000,Glebe (NSW),Parkland,0.0,0.0,0.0,0.0,0.0
+10757970000,Glebe (NSW),Residential,27.0,28.0,28.0,29.0,1.0
+10757980000,Glebe (NSW),Residential,46.0,46.0,81.0,84.0,0.0
+10757990000,Chippendale,Residential,46.0,53.0,74.0,94.0,7.0
+10758000000,Glebe (NSW),Education,0.0,0.0,0.0,0.0,0.0
+10760180000,Forest Lodge,Residential,42.0,46.0,91.0,104.0,4.0
+10759850000,Glebe (NSW),Residential,43.0,43.0,46.0,49.0,0.0
+10759860000,Glebe (NSW),Residential,38.0,40.0,106.0,119.0,2.0
+10759870000,Glebe (NSW),Residential,29.0,29.0,102.0,108.0,0.0
+10759880000,Glebe (NSW),Residential,54.0,54.0,133.0,139.0,0.0
+10759891000,Glebe (NSW),Residential,42.0,42.0,108.0,119.0,0.0
+10759892000,Glebe (NSW),Residential,44.0,44.0,59.0,65.0,0.0
+10759893000,Glebe (NSW),Residential,54.0,55.0,99.0,110.0,1.0
+10759900000,Glebe (NSW),Residential,35.0,35.0,73.0,74.0,0.0
+10759911000,Glebe (NSW),Residential,19.0,19.0,41.0,43.0,0.0
+10759912000,Glebe (NSW),Residential,16.0,16.0,35.0,37.0,0.0
+10759930000,Forest Lodge,Residential,35.0,36.0,77.0,86.0,1.0
+10759941000,Glebe (NSW),Commercial,0.0,1.0,5.0,6.0,1.0
+10759942000,Glebe (NSW),Commercial,18.0,22.0,33.0,38.0,4.0
+10759961000,Ultimo,Commercial,0.0,0.0,0.0,0.0,0.0
+10759963000,Ultimo,Commercial,0.0,0.0,0.0,0.0,0.0
+10759971000,Pyrmont,Residential,20.0,21.0,24.0,28.0,1.0
+10759972000,Pyrmont,Residential,31.0,35.0,62.0,73.0,4.0
+10759980000,Glebe (NSW),Residential,7.0,7.0,89.0,93.0,0.0
+10760001000,Pyrmont,Residential,175.0,175.0,300.0,316.0,0.0
+10760002000,Pyrmont,Commercial,0.0,0.0,0.0,0.0,0.0
+10760010000,Forest Lodge,Residential,44.0,48.0,106.0,108.0,4.0
+10760020000,Forest Lodge,Commercial,0.0,0.0,0.0,0.0,0.0
+10760032000,Pyrmont,Residential,43.0,43.0,76.0,86.0,0.0
+10760033000,Pyrmont,Residential,210.0,211.0,395.0,454.0,1.0
+10760034000,Pyrmont,Residential,392.0,394.0,765.0,872.0,2.0
+10760036000,Pyrmont,Commercial,0.0,1.0,0.0,1.0,1.0
+10760040000,Forest Lodge,Residential,66.0,70.0,136.0,159.0,4.0
+10760051000,Chippendale,Residential,26.0,28.0,37.0,45.0,2.0
+10760052000,Chippendale,Residential,43.0,43.0,51.0,60.0,0.0
+10760061000,Glebe (NSW),Residential,23.0,23.0,54.0,58.0,0.0
+10760062000,Glebe (NSW),Residential,21.0,21.0,37.0,39.0,0.0
+10760070000,Glebe (NSW),Residential,41.0,41.0,80.0,86.0,0.0
+10760080000,Glebe (NSW),Residential,59.0,61.0,130.0,138.0,2.0
+10760091000,Ultimo,Commercial,0.0,3.0,0.0,3.0,3.0
+10760092000,Ultimo,Commercial,11.0,11.0,22.0,31.0,0.0
+10760093000,Pyrmont,Commercial,0.0,0.0,0.0,0.0,0.0
+10760094000,Ultimo,Residential,38.0,38.0,87.0,121.0,0.0
+10760095000,Ultimo,Residential,66.0,66.0,103.0,167.0,0.0
+10760190000,Forest Lodge,Residential,45.0,45.0,80.0,84.0,0.0
+10760200000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10760211000,Pyrmont,Residential,51.0,51.0,109.0,120.0,0.0
+10760212000,Pyrmont,Commercial,8.0,10.0,3.0,5.0,2.0
+10760213000,Pyrmont,Commercial,0.0,0.0,0.0,0.0,0.0
+10760221000,Pyrmont,Residential,88.0,89.0,210.0,232.0,1.0
+10760222000,Pyrmont,Commercial,0.0,1.0,0.0,1.0,1.0
+10760231000,Pyrmont,Residential,102.0,104.0,204.0,222.0,2.0
+10760232000,Pyrmont,Commercial,6.0,152.0,4.0,52.0,146.0
+10760241000,Camperdown (NSW),Education,13.0,16.0,1042.0,1976.0,3.0
+10760242000,Camperdown (NSW),Hospital/Medical,0.0,0.0,102.0,124.0,0.0
+10760250000,Darlington (Sydney - NSW),Education,0.0,0.0,284.0,301.0,0.0
+10917550000,Sydney,Residential,530.0,552.0,680.0,962.0,22.0
+10917560000,Sydney,Commercial,25.0,44.0,93.0,142.0,19.0
+10917572000,Sydney,Residential,78.0,101.0,125.0,120.0,23.0
+10917581000,Sydney,Commercial,0.0,1.0,0.0,1.0,1.0
+10917600000,Sydney,Commercial,0.0,104.0,0.0,25.0,104.0
+10917610000,Sydney,Commercial,102.0,202.0,47.0,57.0,100.0
+10917621000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10917622000,Sydney,Commercial,3.0,4.0,0.0,0.0,1.0
+10917630000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10917640000,Sydney,Commercial,3.0,5.0,11.0,10.0,2.0
+10917650000,Sydney,Commercial,0.0,11.0,0.0,5.0,11.0
+10917661000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10917662000,Sydney,Residential,47.0,56.0,40.0,31.0,9.0
+10917671000,Sydney,Commercial,0.0,1.0,3.0,3.0,1.0
+10917672000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10917673000,Sydney,Commercial,0.0,50.0,0.0,14.0,50.0
+10917674000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10917680000,Sydney,Residential,158.0,200.0,174.0,158.0,42.0
+10917690000,Sydney,Commercial,0.0,3.0,0.0,2.0,3.0
+10917700000,Sydney,Commercial,6.0,6.0,0.0,0.0,0.0
+10917710000,Sydney,Commercial,0.0,8.0,3.0,7.0,8.0
+10997050000,Alexandria,Parkland,0.0,4.0,0.0,2.0,4.0
+10760096000,Ultimo,Residential,18.0,18.0,45.0,73.0,0.0
+10760101000,Ultimo,Commercial,0.0,0.0,0.0,0.0,0.0
+10760102000,Ultimo,Commercial,0.0,0.0,0.0,0.0,0.0
+10760103000,Ultimo,Residential,109.0,113.0,173.0,281.0,4.0
+10760130000,Glebe (NSW),Residential,16.0,16.0,27.0,28.0,0.0
+10760142000,Forest Lodge,Residential,27.0,28.0,71.0,73.0,1.0
+10760151000,Glebe (NSW),Residential,45.0,45.0,74.0,81.0,0.0
+10760152000,Glebe (NSW),Residential,73.0,73.0,110.0,112.0,0.0
+10760153000,Glebe (NSW),Residential,12.0,12.0,25.0,26.0,0.0
+10760161000,Glebe (NSW),Residential,49.0,50.0,111.0,113.0,1.0
+10760162000,Glebe (NSW),Residential,12.0,27.0,27.0,37.0,15.0
+10760171000,Glebe (NSW),Residential,60.0,60.0,89.0,98.0,0.0
+10760172000,Glebe (NSW),Residential,43.0,43.0,65.0,72.0,0.0
+10944440000,Darlinghurst,Transport,0.0,0.0,0.0,0.0,0.0
+10944620000,Woolloomooloo,Parkland,0.0,0.0,0.0,0.0,0.0
+10944630000,Potts Point,Parkland,0.0,0.0,0.0,0.0,0.0
+10944640000,Elizabeth Bay,Parkland,0.0,0.0,0.0,0.0,0.0
+10944660000,Elizabeth Bay,Parkland,0.0,0.0,0.0,0.0,0.0
+10944670000,Darlinghurst,Transport,0.0,0.0,0.0,0.0,0.0
+10944680000,Darlinghurst,Transport,0.0,0.0,0.0,0.0,0.0
+10944710000,Moore Park,Parkland,0.0,0.0,0.0,0.0,0.0
+10944720000,Moore Park,Parkland,0.0,0.0,0.0,0.0,0.0
+10944730000,Moore Park,Parkland,0.0,0.0,0.0,0.0,0.0
+10944740000,Sydney,Parkland,0.0,0.0,0.0,0.0,0.0
+10944780000,Potts Point,Parkland,0.0,0.0,0.0,0.0,0.0
+10944790000,Millers Point,Transport,0.0,0.0,0.0,0.0,0.0
+10944800000,Sydney,Transport,0.0,2.0,0.0,2.0,2.0
+10944812000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10944890000,Ultimo,Transport,0.0,2.0,0.0,2.0,2.0
+10944900000,Pyrmont,Transport,0.0,0.0,0.0,0.0,0.0
+10944910000,Sydney,Transport,0.0,0.0,0.0,0.0,0.0
+10944920000,Sydney,Transport,0.0,1.0,0.0,0.0,1.0
+10944940000,Sydney,Transport,0.0,0.0,0.0,0.0,0.0
+10945000000,Forest Lodge,Parkland,0.0,0.0,0.0,0.0,0.0
+10945010000,Forest Lodge,Parkland,0.0,0.0,0.0,0.0,0.0
+10997070000,Alexandria,Residential,24.0,24.0,35.0,40.0,0.0
+10997080000,Waterloo (NSW),Parkland,0.0,0.0,0.0,0.0,0.0
+11204405400,Glebe (NSW),Residential,19.0,38.0,48.0,74.0,19.0
+11204407900,Woolloomooloo,Residential,81.0,81.0,164.0,154.0,0.0
+11204412300,Glebe (NSW),Residential,25.0,27.0,30.0,33.0,2.0
+11204412400,Glebe (NSW),Residential,12.0,12.0,27.0,29.0,0.0
+11204421900,Camperdown (NSW),Commercial,11.0,20.0,24.0,32.0,9.0
+11204423700,Darlinghurst,Residential,38.0,38.0,59.0,60.0,0.0
+11204423800,Darlinghurst,Residential,22.0,22.0,49.0,50.0,0.0
+11204544300,Barangaroo,Residential,157.0,161.0,182.0,116.0,4.0
+11204546300,Sydney,Residential,117.0,117.0,251.0,323.0,0.0
+11204548500,Barangaroo,Commercial,81.0,988.0,39.0,396.0,907.0
+11204549400,Sydney,Transport,0.0,0.0,0.0,0.0,0.0
+11204550500,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+11204551600,Sydney,Residential,321.0,323.0,893.0,1073.0,2.0
+11204559100,Millers Point,Residential,52.0,58.0,65.0,42.0,6.0
+11204633000,Ultimo,Residential,65.0,71.0,125.0,185.0,6.0
+11204633100,Ultimo,Commercial,0.0,0.0,3.0,4.0,0.0
+11204668100,Waterloo (NSW),Residential,23.0,25.0,43.0,49.0,2.0
+11204668200,Waterloo (NSW),Residential,31.0,32.0,56.0,63.0,1.0
+11204668400,Rosebery (NSW),Residential,133.0,136.0,217.0,247.0,3.0
+11204668500,Rosebery (NSW),Residential,73.0,79.0,109.0,127.0,6.0
+11204669100,Zetland,Residential,114.0,114.0,214.0,237.0,0.0
+11204670800,Alexandria,Residential,128.0,128.0,223.0,237.0,0.0
+11204671400,Zetland,Residential,193.0,193.0,322.0,338.0,0.0
+11204675400,Zetland,Commercial,0.0,0.0,0.0,0.0,0.0
+11204679700,Zetland,Residential,225.0,243.0,354.0,344.0,18.0
+11204680900,Beaconsfield (NSW),Residential,66.0,68.0,138.0,158.0,2.0
+11204683100,Alexandria,Residential,69.0,83.0,139.0,154.0,14.0
+11204683400,Sydney,Commercial,0.0,40.0,0.0,21.0,40.0
+11204683500,Sydney,Residential,107.0,110.0,147.0,118.0,3.0
+11204685500,Pyrmont,Education,0.0,0.0,0.0,0.0,0.0
+11204686000,Sydney,Commercial,5.0,6.0,0.0,0.0,1.0
+11204686100,Sydney,Commercial,23.0,23.0,23.0,26.0,0.0
+11204686700,Waterloo (NSW),Residential,62.0,67.0,84.0,98.0,5.0
+11204686800,Waterloo (NSW),Residential,21.0,21.0,49.0,55.0,0.0
+11204687100,Camperdown (NSW),Residential,129.0,260.0,162.0,215.0,131.0
+11204689700,Waterloo (NSW),Residential,72.0,72.0,157.0,174.0,0.0
+11204691300,Zetland,Residential,125.0,130.0,182.0,205.0,5.0
+11204691900,Rosebery (NSW),Industrial,0.0,1.0,0.0,1.0,1.0
+11204692000,Rosebery (NSW),Residential,279.0,306.0,584.0,572.0,27.0
+11204692100,Zetland,Residential,99.0,100.0,169.0,188.0,1.0
+11204692800,Sydney,Residential,190.0,190.0,309.0,346.0,0.0
+11204692900,Sydney,Commercial,0.0,10.0,0.0,7.0,10.0
+11204693000,Sydney,Commercial,0.0,1.0,0.0,1.0,1.0
+11204695500,Sydney,Commercial,0.0,2.0,44.0,36.0,2.0
+11204696600,Rosebery (NSW),Industrial,0.0,0.0,0.0,0.0,0.0
+10945050000,Pyrmont,Transport,0.0,0.0,0.0,0.0,0.0
+10945070000,Glebe (NSW),Transport,0.0,0.0,0.0,0.0,0.0
+10945080000,Glebe (NSW),Parkland,0.0,0.0,0.0,0.0,0.0
+10945100000,Glebe (NSW),Parkland,0.0,0.0,0.0,0.0,0.0
+10945110000,Annandale (NSW),Parkland,0.0,0.0,0.0,0.0,0.0
+10945120000,Annandale (NSW),Parkland,0.0,0.0,0.0,0.0,0.0
+10945310000,Annandale (NSW),Parkland,0.0,0.0,0.0,0.0,0.0
+10945410000,Annandale (NSW),Commercial,0.0,0.0,0.0,0.0,0.0
+11204391900,Alexandria,Parkland,0.0,0.0,0.0,0.0,0.0
+11204395500,Forest Lodge,Residential,23.0,25.0,67.0,73.0,2.0
+11204395600,Forest Lodge,Residential,19.0,19.0,54.0,58.0,0.0
+11204403400,Glebe (NSW),Residential,16.0,16.0,20.0,21.0,0.0
+11204403500,Glebe (NSW),Residential,16.0,16.0,15.0,16.0,0.0
+11204403800,Potts Point,Residential,60.0,61.0,64.0,63.0,1.0
+11204403900,Potts Point,Residential,63.0,65.0,64.0,64.0,2.0
+11204404400,Glebe (NSW),Residential,31.0,31.0,80.0,104.0,0.0
+11204433800,Pyrmont,Residential,41.0,41.0,101.0,110.0,0.0
+11204433900,Pyrmont,Residential,78.0,117.0,109.0,142.0,39.0
+11204434000,Pyrmont,Residential,0.0,3.0,0.0,2.0,3.0
+11204469500,Newtown (NSW),Residential,49.0,52.0,75.0,77.0,3.0
+11204527300,Alexandria,Residential,31.0,31.0,62.0,68.0,0.0
+11204527400,Alexandria,Commercial,0.0,0.0,0.0,0.0,0.0
+11204576400,Alexandria,Residential,48.0,49.0,104.0,114.0,1.0
+11204576500,Alexandria,Residential,28.0,29.0,18.0,20.0,1.0
+11204577100,Dawes Point,Parkland,0.0,0.0,0.0,0.0,0.0
+11204578800,Erskineville,Residential,37.0,38.0,69.0,72.0,1.0
+11204584000,Alexandria,Residential,37.0,37.0,75.0,78.0,0.0
+11204589000,Camperdown (NSW),Residential,214.0,245.0,358.0,352.0,31.0
+11204590300,Forest Lodge,Residential,41.0,43.0,103.0,112.0,2.0
+11204592200,Forest Lodge,Residential,156.0,160.0,236.0,249.0,4.0
+11204592300,Forest Lodge,Residential,290.0,290.0,513.0,541.0,0.0
+11204592400,Camperdown (NSW),Residential,136.0,279.0,217.0,264.0,143.0
+11204592900,Camperdown (NSW),Residential,61.0,68.0,122.0,127.0,7.0
+11204599000,Erskineville,Residential,27.0,27.0,40.0,45.0,0.0
+11204599100,Erskineville,Residential,35.0,37.0,88.0,98.0,2.0
+11204607000,Erskineville,Residential,29.0,29.0,72.0,79.0,0.0
+11204608400,Erskineville,Residential,64.0,66.0,110.0,121.0,2.0
+11204640300,Pyrmont,Residential,65.0,109.0,105.0,139.0,44.0
+11204704300,Annandale (NSW),Residential,17.0,18.0,23.0,25.0,1.0
+11204696700,Surry Hills,Residential,10.0,10.0,30.0,33.0,0.0
+11204700800,Surry Hills,Residential,80.0,111.0,154.0,182.0,31.0
+11204702900,Sydney,Commercial,3.0,3.0,24.0,24.0,0.0
+11204748900,Alexandria,Industrial,0.0,1.0,0.0,0.0,1.0
+11204750600,Alexandria,Residential,52.0,56.0,70.0,77.0,4.0
+11204750700,Alexandria,Residential,44.0,47.0,77.0,84.0,3.0
+11204773000,Zetland,Parkland,0.0,0.0,0.0,0.0,0.0
+11204777800,Chippendale,Residential,96.0,165.0,160.0,218.0,69.0
+11204778900,Redfern,Residential,190.0,352.0,356.0,504.0,162.0
+11204783600,Forest Lodge,Residential,31.0,34.0,79.0,81.0,3.0
+11204789900,Waterloo (NSW),Residential,151.0,151.0,250.0,276.0,0.0
+11204790700,Ultimo,Residential,104.0,107.0,79.0,119.0,3.0
+11204816500,Surry Hills,Residential,37.0,45.0,48.0,54.0,8.0
+11204706400,Surry Hills,Residential,7.0,7.0,12.0,13.0,0.0
+11204711200,Zetland,Residential,108.0,123.0,167.0,248.0,15.0
+11204714900,Woolloomooloo,Residential,25.0,28.0,29.0,29.0,3.0
+11204716100,Surry Hills,Residential,37.0,37.0,65.0,74.0,0.0
+11204719400,Alexandria,Residential,84.0,86.0,140.0,150.0,2.0
+11204719500,Alexandria,Residential,99.0,216.0,147.0,236.0,117.0
+11204719600,Surry Hills,Residential,85.0,87.0,111.0,135.0,2.0
+11204719700,Surry Hills,Residential,54.0,62.0,96.0,115.0,8.0
+11204727700,Surry Hills,Residential,52.0,69.0,73.0,86.0,17.0
+11204727800,Surry Hills,Residential,195.0,197.0,208.0,232.0,2.0
+11204728500,Surry Hills,Residential,111.0,112.0,157.0,175.0,1.0
+11204729000,Waterloo (NSW),Residential,229.0,233.0,378.0,437.0,4.0
+11204734400,Alexandria,Residential,62.0,66.0,121.0,146.0,4.0
+11204739200,Waterloo (NSW),Residential,64.0,64.0,132.0,152.0,0.0
+11204796800,Newtown (NSW),Residential,40.0,40.0,88.0,92.0,0.0
+11204806700,Surry Hills,Residential,30.0,30.0,58.0,66.0,0.0
+11204808900,Zetland,Residential,207.0,209.0,360.0,388.0,2.0
+11204809100,Zetland,Residential,319.0,333.0,543.0,624.0,14.0
+11204811600,Waterloo (NSW),Residential,69.0,78.0,104.0,129.0,9.0
+11204811700,Waterloo (NSW),Commercial,61.0,70.0,85.0,97.0,9.0
+11204844200,Potts Point,Commercial,0.0,0.0,0.0,0.0,0.0
+11204844900,Forest Lodge,Residential,22.0,22.0,58.0,62.0,0.0
+11204847600,Waterloo (NSW),Residential,44.0,44.0,61.0,68.0,0.0
+11204849900,Darlinghurst,Residential,56.0,59.0,91.0,97.0,3.0
+11204854100,Elizabeth Bay,Residential,40.0,40.0,46.0,46.0,0.0
+11204858700,Sydney,Residential,295.0,297.0,579.0,578.0,2.0
+11204858800,Dawes Point,Commercial,0.0,0.0,0.0,0.0,0.0
+11204860700,Ultimo,Commercial,211.0,246.0,318.0,469.0,35.0
+11204862500,Waterloo (NSW),Residential,113.0,116.0,137.0,156.0,3.0
+11204869100,Alexandria,Residential,71.0,75.0,104.0,126.0,4.0
+11204871800,Woolloomooloo,Residential,23.0,24.0,44.0,47.0,1.0
+11204871900,Woolloomooloo,Residential,15.0,20.0,21.0,25.0,5.0
+11204876200,Paddington (NSW),Residential,39.0,43.0,125.0,131.0,4.0
+11204877600,Waterloo (NSW),Residential,99.0,101.0,129.0,146.0,2.0
+11204877700,Ultimo,Residential,23.0,24.0,52.0,73.0,1.0
+11204877800,Ultimo,Commercial,0.0,0.0,0.0,0.0,0.0
+11204882100,Darlington (Sydney - NSW),Residential,31.0,31.0,56.0,62.0,0.0
+11204898000,Zetland,Commercial,102.0,451.0,44.0,210.0,349.0
+11204904100,Potts Point,Residential,37.0,37.0,42.0,41.0,0.0
+11204817400,Surry Hills,Commercial,24.0,58.0,38.0,56.0,34.0
+11204822000,Surry Hills,Residential,48.0,48.0,90.0,102.0,0.0
+11204822100,Surry Hills,Residential,47.0,56.0,63.0,73.0,9.0
+11204822400,Darlington (Sydney - NSW),Residential,130.0,131.0,131.0,149.0,1.0
+11204828500,Zetland,Residential,296.0,297.0,509.0,585.0,1.0
+11204831200,Alexandria,Residential,59.0,60.0,95.0,102.0,1.0
+11204831600,Sydney,Transport,0.0,0.0,0.0,0.0,0.0
+11204974100,Erskineville,Residential,139.0,154.0,155.0,184.0,15.0
+11204977100,Chippendale,Residential,57.0,57.0,67.0,80.0,0.0
+11204980500,Newtown (NSW),Residential,13.0,13.0,20.0,20.0,0.0
+11204980600,Newtown (NSW),Residential,73.0,73.0,99.0,100.0,0.0
+11204991200,Ultimo,Residential,97.0,99.0,164.0,269.0,2.0
+11205030500,Surry Hills,Residential,24.0,25.0,41.0,45.0,1.0
+11205040100,Woolloomooloo,Residential,52.0,52.0,116.0,119.0,0.0
+11204904800,Rosebery (NSW),Residential,26.0,26.0,67.0,72.0,0.0
+11204906500,Redfern,Residential,50.0,50.0,80.0,95.0,0.0
+11204906600,Chippendale,Residential,19.0,29.0,43.0,59.0,10.0
+11204908000,Waterloo (NSW),Commercial,0.0,94.0,0.0,0.0,94.0
+11204911000,Chippendale,Commercial,0.0,0.0,0.0,0.0,0.0
+11204914400,Camperdown (NSW),Residential,38.0,40.0,74.0,82.0,2.0
+11204915000,Waterloo (NSW),Residential,18.0,18.0,55.0,62.0,0.0
+11204915900,Redfern,Residential,52.0,56.0,63.0,74.0,4.0
+11204916000,Redfern,Residential,59.0,61.0,75.0,86.0,2.0
+11204919400,Ultimo,Residential,46.0,46.0,82.0,117.0,0.0
+11204919500,Ultimo,Residential,106.0,137.0,176.0,265.0,31.0
+11204919700,Darlington (Sydney - NSW),Education,0.0,1.0,3.0,4.0,1.0
+11204920900,Alexandria,Residential,123.0,125.0,220.0,252.0,2.0
+11204921000,Alexandria,Residential,9.0,9.0,10.0,11.0,0.0
+11204924700,Rushcutters Bay,Residential,85.0,85.0,104.0,103.0,0.0
+11204924800,Rushcutters Bay,Residential,49.0,49.0,59.0,65.0,0.0
+11204936300,Chippendale,Residential,315.0,620.0,425.0,604.0,305.0
+11204938500,Redfern,Residential,88.0,155.0,136.0,287.0,67.0
+11204939800,Chippendale,Residential,469.0,882.0,637.0,903.0,413.0
+11204939900,Chippendale,Residential,177.0,332.0,239.0,342.0,155.0
+11204942500,Chippendale,Residential,0.0,0.0,86.0,112.0,0.0
+11204942600,Chippendale,Residential,693.0,740.0,904.0,1024.0,47.0
+11204942700,Chippendale,Residential,35.0,36.0,103.0,124.0,1.0
+11204951300,Surry Hills,Education,0.0,0.0,0.0,0.0,0.0
+11204954000,Alexandria,Residential,43.0,52.0,75.0,94.0,9.0
+11204954100,Alexandria,Residential,23.0,23.0,42.0,49.0,0.0
+11204954200,Elizabeth Bay,Residential,58.0,58.0,71.0,68.0,0.0
+11204954900,Surry Hills,Residential,54.0,57.0,112.0,116.0,3.0
+11204962500,Surry Hills,Residential,42.0,49.0,82.0,89.0,7.0
+11204964400,Camperdown (NSW),Residential,14.0,14.0,18.0,20.0,0.0
+11204966900,Surry Hills,Residential,31.0,32.0,52.0,55.0,1.0
+11204973900,Darlinghurst,Residential,53.0,58.0,87.0,91.0,5.0
+11204998200,Newtown (NSW),Residential,28.0,28.0,44.0,47.0,0.0
+11204998400,Newtown (NSW),Residential,37.0,37.0,56.0,60.0,0.0
+11205001300,Surry Hills,Residential,57.0,73.0,98.0,110.0,16.0
+11205001700,Rosebery (NSW),Residential,85.0,89.0,154.0,177.0,4.0
+11205001800,Rosebery (NSW),Residential,31.0,34.0,62.0,72.0,3.0
+11205001900,Rosebery (NSW),Residential,36.0,40.0,92.0,102.0,4.0
+11205004600,Sydney,Residential,172.0,217.0,469.0,570.0,45.0
+11205007400,Surry Hills,Residential,13.0,14.0,31.0,32.0,1.0
+11205011900,Redfern,Residential,59.0,62.0,144.0,174.0,3.0
+11205043300,Pyrmont,Residential,254.0,254.0,495.0,525.0,0.0
+11205046600,Surry Hills,Residential,44.0,44.0,58.0,64.0,0.0
+11205047400,Surry Hills,Commercial,0.0,0.0,0.0,0.0,0.0
+11205047500,Surry Hills,Commercial,0.0,9.0,0.0,5.0,9.0
+11205050900,Darlinghurst,Education,0.0,0.0,3.0,3.0,0.0
+11205056200,Rushcutters Bay,Residential,41.0,42.0,60.0,60.0,1.0
+11205111000,Waterloo (NSW),Residential,351.0,357.0,512.0,554.0,6.0
+11205111700,Potts Point,Residential,47.0,47.0,72.0,74.0,0.0
+11205111800,Elizabeth Bay,Residential,84.0,86.0,114.0,111.0,2.0
+11205115600,Darlington (Sydney - NSW),Residential,16.0,16.0,39.0,43.0,0.0
+11205119600,Ultimo,Residential,51.0,56.0,91.0,143.0,5.0
+11205119700,Elizabeth Bay,Residential,25.0,61.0,27.0,49.0,36.0
+11205127100,Elizabeth Bay,Commercial,48.0,51.0,50.0,59.0,3.0
+11205129000,Surry Hills,Residential,27.0,27.0,61.0,65.0,0.0
+11205178000,Potts Point,Commercial,4.0,5.0,5.0,5.0,1.0
+11205180100,Zetland,Residential,84.0,164.0,136.0,258.0,80.0
+11205183500,Waterloo (NSW),Residential,358.0,358.0,637.0,748.0,0.0
+11205183600,Waterloo (NSW),Residential,350.0,382.0,444.0,535.0,32.0
+11205188900,Darlinghurst,Residential,18.0,20.0,48.0,50.0,2.0
+11205189000,Darlinghurst,Residential,22.0,22.0,32.0,32.0,0.0
+11205189900,Woolloomooloo,Residential,27.0,27.0,51.0,53.0,0.0
+11205198000,Erskineville,Residential,222.0,223.0,416.0,446.0,1.0
+11205198400,Alexandria,Residential,34.0,34.0,55.0,66.0,0.0
+11205224600,Ultimo,Residential,48.0,48.0,81.0,121.0,0.0
+11205012200,Waterloo (NSW),Residential,173.0,175.0,254.0,283.0,2.0
+11205013200,Darlinghurst,Residential,22.0,22.0,30.0,30.0,0.0
+11205017800,Newtown (NSW),Commercial,0.0,3.0,0.0,2.0,3.0
+11205017900,Newtown (NSW),Residential,94.0,94.0,134.0,138.0,0.0
+11205018000,Newtown (NSW),Residential,60.0,63.0,121.0,129.0,3.0
+11205018700,Surry Hills,Residential,24.0,24.0,39.0,42.0,0.0
+11205070800,Waterloo (NSW),Residential,38.0,38.0,77.0,86.0,0.0
+11205078400,Waterloo (NSW),Residential,141.0,150.0,234.0,272.0,9.0
+11205079500,Rosebery (NSW),Residential,139.0,283.0,246.0,302.0,144.0
+11205079600,Rosebery (NSW),Residential,166.0,327.0,286.0,339.0,161.0
+11205079900,Rosebery (NSW),Residential,55.0,275.0,117.0,299.0,220.0
+11205084100,Chippendale,Residential,0.0,0.0,0.0,0.0,0.0
+11205084300,Glebe (NSW),Residential,54.0,69.0,78.0,90.0,15.0
+11205097800,Rosebery (NSW),Residential,73.0,89.0,121.0,148.0,16.0
+11205104300,Newtown (NSW),Residential,49.0,51.0,90.0,93.0,2.0
+11205105900,Redfern,Residential,90.0,91.0,162.0,193.0,1.0
+11205106800,Newtown (NSW),Residential,37.0,37.0,65.0,66.0,0.0
+11205131000,Camperdown (NSW),Residential,18.0,18.0,29.0,32.0,0.0
+11205135000,Waterloo (NSW),Residential,159.0,159.0,265.0,303.0,0.0
+11205138200,Alexandria,Residential,33.0,38.0,58.0,66.0,5.0
+11205139100,Newtown (NSW),Residential,42.0,42.0,57.0,57.0,0.0
+11205140300,Dawes Point,Commercial,0.0,8.0,0.0,4.0,8.0
+11205150500,Elizabeth Bay,Residential,41.0,41.0,57.0,56.0,0.0
+11205157700,Alexandria,Residential,34.0,34.0,61.0,65.0,0.0
+11205171200,Potts Point,Residential,31.0,31.0,35.0,32.0,0.0
+11205171300,Surry Hills,Residential,68.0,72.0,101.0,114.0,4.0
+11205173500,Surry Hills,Residential,59.0,59.0,45.0,48.0,0.0
+11205198900,Alexandria,Residential,137.0,143.0,229.0,256.0,6.0
+11205202100,Waterloo (NSW),Residential,45.0,45.0,91.0,102.0,0.0
+11205202200,Waterloo (NSW),Residential,58.0,58.0,106.0,117.0,0.0
+11205202600,Erskineville,Residential,65.0,69.0,129.0,148.0,4.0
+11205209700,Ultimo,Residential,32.0,33.0,80.0,116.0,1.0
+11205209800,Ultimo,Residential,0.0,1.0,196.0,304.0,1.0
+11205209900,Sydney,Residential,172.0,174.0,440.0,546.0,2.0
+11205210000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+11205210300,Chippendale,Residential,99.0,101.0,163.0,213.0,2.0
+11205210400,Eveleigh,Residential,47.0,47.0,116.0,135.0,0.0
+11205210800,Surry Hills,Residential,35.0,36.0,74.0,78.0,1.0
+11205212900,Waterloo (NSW),Residential,47.0,48.0,104.0,122.0,1.0
+11205214300,Glebe (NSW),Residential,23.0,23.0,43.0,46.0,0.0
+11205214400,Glebe (NSW),Residential,22.0,22.0,50.0,53.0,0.0
+11205216300,Forest Lodge,Residential,18.0,18.0,45.0,47.0,0.0
+11205224700,Ultimo,Residential,34.0,35.0,37.0,58.0,1.0
+11205224800,Ultimo,Residential,314.0,314.0,508.0,746.0,0.0
+11205226300,Elizabeth Bay,Residential,71.0,71.0,57.0,56.0,0.0
+11205226400,Woolloomooloo,Residential,71.0,71.0,91.0,90.0,0.0
+11205226500,Woolloomooloo,Residential,62.0,63.0,68.0,68.0,1.0
+11205226700,Rushcutters Bay,Residential,27.0,27.0,31.0,30.0,0.0
+11205227600,Pyrmont,Commercial,39.0,42.0,51.0,57.0,3.0
+11205227700,Pyrmont,Residential,74.0,74.0,91.0,98.0,0.0
+11205227800,Pyrmont,Residential,85.0,85.0,126.0,136.0,0.0
+11205227900,Pyrmont,Residential,101.0,101.0,170.0,182.0,0.0
+11205228000,Pyrmont,Residential,111.0,111.0,230.0,246.0,0.0
+11205228100,Ultimo,Commercial,0.0,0.0,0.0,0.0,0.0
+11205228600,Waterloo (NSW),Residential,42.0,123.0,74.0,111.0,81.0
+11205228700,Waterloo (NSW),Parkland,0.0,0.0,3.0,3.0,0.0
+11205229900,Ultimo,Residential,114.0,122.0,296.0,445.0,8.0
+11205230100,Ultimo,Education,3.0,39.0,147.0,211.0,36.0
+11205230700,Waterloo (NSW),Residential,133.0,232.0,276.0,348.0,99.0
+11205233200,Elizabeth Bay,Parkland,0.0,0.0,0.0,0.0,0.0
+11205273100,Waterloo (NSW),Residential,63.0,64.0,124.0,143.0,1.0
+11205273200,Rosebery (NSW),Residential,19.0,19.0,64.0,67.0,0.0
+11205273300,Rosebery (NSW),Residential,87.0,188.0,175.0,214.0,101.0
+11205276000,Glebe (NSW),Residential,33.0,33.0,67.0,72.0,0.0
+11205278200,Forest Lodge,Commercial,0.0,0.0,0.0,0.0,0.0
+11205278300,Forest Lodge,Residential,25.0,26.0,48.0,52.0,1.0
+11205278400,Forest Lodge,Residential,19.0,19.0,59.0,60.0,0.0
+11205278500,Glebe (NSW),Residential,48.0,48.0,83.0,85.0,0.0
+11205278600,Glebe (NSW),Residential,43.0,43.0,88.0,90.0,0.0
+11205283500,Zetland,Residential,157.0,316.0,261.0,306.0,159.0
+11205343900,Sydney,Transport,0.0,0.0,0.0,0.0,0.0
+11205344000,Millers Point,Residential,52.0,52.0,75.0,78.0,0.0
+11205357100,Erskineville,Residential,35.0,35.0,80.0,82.0,0.0
+11205357200,Erskineville,Residential,197.0,307.0,359.0,501.0,110.0
+11205359300,Darlington (Sydney - NSW),Residential,29.0,29.0,66.0,73.0,0.0
+11205472000,Rosebery (NSW),Residential,236.0,468.0,395.0,495.0,232.0
+11205480800,Rosebery (NSW),Residential,54.0,116.0,93.0,128.0,62.0
+11205481200,Rosebery (NSW),Residential,73.0,91.0,114.0,140.0,18.0
+11205483500,Rosebery (NSW),Residential,30.0,30.0,81.0,87.0,0.0
+11205483600,Alexandria,Commercial,56.0,56.0,151.0,162.0,0.0
+11205483700,Beaconsfield (NSW),Residential,15.0,15.0,45.0,48.0,0.0
+11205486300,Zetland,Residential,88.0,158.0,115.0,219.0,70.0
+11205486600,Waterloo (NSW),Residential,235.0,237.0,330.0,378.0,2.0
+11205486700,Zetland,Residential,331.0,548.0,470.0,605.0,217.0
+11205486800,Waterloo (NSW),Residential,111.0,122.0,195.0,230.0,11.0
+11205491400,Erskineville,Residential,103.0,103.0,172.0,184.0,0.0
+11205491500,Alexandria,Residential,38.0,40.0,98.0,106.0,2.0
+11205493500,Alexandria,Industrial,0.0,0.0,0.0,0.0,0.0
+11205510300,Moore Park,Parkland,11.0,11.0,12.0,12.0,0.0
+11205510400,Moore Park,Commercial,0.0,0.0,0.0,0.0,0.0
+11205526000,Zetland,Industrial,0.0,834.0,0.0,487.0,834.0
+11205546900,Darlinghurst,Residential,38.0,44.0,52.0,56.0,6.0
+11205552000,Darlington (Sydney - NSW),Commercial,9.0,9.0,8.0,9.0,0.0
+11205587600,Forest Lodge,Parkland,0.0,0.0,0.0,0.0,0.0
+11205216400,Forest Lodge,Residential,18.0,18.0,29.0,31.0,0.0
+11205216900,Forest Lodge,Education,0.0,0.0,0.0,0.0,0.0
+11205221000,Forest Lodge,Residential,40.0,67.0,85.0,94.0,27.0
+11205246600,Chippendale,Residential,107.0,107.0,151.0,177.0,0.0
+11205248000,Redfern,Residential,35.0,36.0,83.0,91.0,1.0
+11205248100,Redfern,Residential,119.0,120.0,187.0,204.0,1.0
+11205248200,Eveleigh,Commercial,4.0,5.0,7.0,9.0,1.0
+11205248300,Eveleigh,Residential,116.0,116.0,250.0,291.0,0.0
+11205248400,Eveleigh,Residential,50.0,50.0,81.0,94.0,0.0
+11205255300,Woolloomooloo,Residential,131.0,149.0,190.0,200.0,18.0
+11205255700,Zetland,Parkland,0.0,0.0,0.0,0.0,0.0
+11205255800,Zetland,Residential,327.0,466.0,529.0,665.0,139.0
+11205255900,Zetland,Residential,222.0,485.0,466.0,564.0,263.0
+11205256000,Zetland,Parkland,0.0,0.0,0.0,0.0,0.0
+11205256100,Waterloo (NSW),Commercial,39.0,80.0,63.0,88.0,41.0
+11205256700,Zetland,Residential,25.0,26.0,71.0,102.0,1.0
+11205256800,Zetland,Residential,14.0,17.0,34.0,50.0,3.0
+11205432600,Alexandria,Residential,14.0,14.0,31.0,22.0,0.0
+11205460300,St Peters (NSW),Residential,0.0,0.0,7.0,7.0,0.0
+11205460400,Alexandria,Parkland,0.0,0.0,0.0,0.0,0.0
+11205464000,Alexandria,Residential,40.0,40.0,68.0,72.0,0.0
+11205465400,Waterloo (NSW),Residential,129.0,130.0,242.0,275.0,1.0
+11205465600,Waterloo (NSW),Residential,43.0,43.0,81.0,90.0,0.0
+11205468100,Darlinghurst,Commercial,3.0,3.0,12.0,12.0,0.0
+11205468200,Darlinghurst,Commercial,7.0,7.0,13.0,13.0,0.0
+11205468300,Darlinghurst,Residential,136.0,136.0,224.0,227.0,0.0
+11205468400,Darlinghurst,Residential,134.0,134.0,197.0,198.0,0.0
+11205468500,Darlinghurst,Residential,38.0,38.0,62.0,63.0,0.0
+11205572500,Sydney,Parkland,0.0,2.0,0.0,1.0,2.0
+11205573800,Sydney,Commercial,0.0,1.0,3.0,2.0,1.0
+11205574800,Sydney,Parkland,0.0,0.0,0.0,0.0,0.0
+11205575800,Sydney,Education,0.0,0.0,0.0,0.0,0.0
+11205641100,Zetland,Residential,221.0,224.0,431.0,465.0,3.0
+11205641500,Darlinghurst,Residential,193.0,196.0,320.0,324.0,3.0
+11205644100,Redfern,Residential,3.0,42.0,7.0,39.0,39.0
+11205644400,Waterloo (NSW),Residential,74.0,82.0,123.0,142.0,8.0
+11205692400,Chippendale,Residential,243.0,482.0,348.0,500.0,239.0
+11205698900,Alexandria,Residential,38.0,38.0,67.0,78.0,0.0
+11205724600,Elizabeth Bay,Residential,42.0,75.0,63.0,85.0,33.0
+11205725300,Surry Hills,Residential,48.0,54.0,106.0,122.0,6.0
+11205730100,Sydney,Residential,72.0,73.0,156.0,171.0,1.0
+11205730300,Newtown (NSW),Residential,110.0,110.0,150.0,157.0,0.0
+11205732600,Darlington (Sydney - NSW),Residential,13.0,16.0,60.0,69.0,3.0
+11205733100,Darlinghurst,Commercial,0.0,0.0,0.0,0.0,0.0
+11205738500,Waterloo (NSW),Residential,82.0,82.0,145.0,164.0,0.0
+11205739900,Newtown (NSW),Residential,30.0,31.0,57.0,59.0,1.0
+11205744900,Waterloo (NSW),Residential,116.0,125.0,160.0,191.0,9.0
+11205792000,Zetland,Residential,321.0,325.0,485.0,534.0,4.0
+11205794400,Ultimo,Commercial,0.0,0.0,0.0,0.0,0.0
+11205794500,Ultimo,Residential,226.0,334.0,444.0,754.0,108.0
+11205797300,Glebe (NSW),Residential,45.0,45.0,74.0,79.0,0.0
+11205797400,Forest Lodge,Residential,26.0,26.0,83.0,84.0,0.0
+11205797500,Glebe (NSW),Residential,33.0,33.0,71.0,72.0,0.0
+11205842400,Alexandria,Industrial,0.0,3.0,0.0,1.0,3.0
+11205850800,Waterloo (NSW),Residential,70.0,103.0,116.0,152.0,33.0
+11205577500,Sydney,Commercial,0.0,20.0,0.0,11.0,20.0
+11205586200,Erskineville,Residential,41.0,41.0,104.0,117.0,0.0
+11205614800,Zetland,Residential,157.0,159.0,302.0,340.0,2.0
+11205620600,Pyrmont,Commercial,0.0,0.0,0.0,0.0,0.0
+11205629700,Surry Hills,Residential,61.0,63.0,77.0,86.0,2.0
+11205626100,Rosebery (NSW),Residential,18.0,18.0,53.0,57.0,0.0
+11205629500,Erskineville,Residential,41.0,41.0,67.0,72.0,0.0
+11205630100,Waterloo (NSW),Residential,29.0,29.0,49.0,57.0,0.0
+11205659600,Elizabeth Bay,Residential,52.0,53.0,77.0,77.0,1.0
+11205664700,Surry Hills,Residential,29.0,29.0,57.0,64.0,0.0
+11205666500,Waterloo (NSW),Residential,128.0,128.0,185.0,197.0,0.0
+11205671900,Dawes Point,Commercial,0.0,1.0,0.0,0.0,1.0
+11205674200,Sydney,Residential,161.0,166.0,393.0,432.0,5.0
+11205707400,Rosebery (NSW),Residential,26.0,26.0,73.0,79.0,0.0
+11205708300,Ultimo,Residential,177.0,277.0,427.0,580.0,100.0
+11205709000,Surry Hills,Residential,86.0,88.0,168.0,171.0,2.0
+11205711800,Redfern,Residential,93.0,102.0,135.0,168.0,9.0
+11205714100,Erskineville,Residential,65.0,65.0,133.0,145.0,0.0
+11205750900,Elizabeth Bay,Residential,56.0,58.0,87.0,86.0,2.0
+11205755000,Camperdown (NSW),Residential,51.0,51.0,59.0,65.0,0.0
+11205758200,Erskineville,Residential,28.0,28.0,52.0,56.0,0.0
+11205761000,Alexandria,Residential,84.0,89.0,112.0,126.0,5.0
+11205762400,Surry Hills,Residential,44.0,44.0,70.0,84.0,0.0
+11205767900,Elizabeth Bay,Residential,8.0,8.0,16.0,18.0,0.0
+11205770600,Zetland,Residential,88.0,171.0,125.0,148.0,83.0
+11205773100,Darlinghurst,Residential,118.0,118.0,196.0,198.0,0.0
+11205773900,Newtown (NSW),Residential,31.0,31.0,36.0,37.0,0.0
+11205775200,Zetland,Residential,348.0,361.0,551.0,575.0,13.0
+11205775900,St Peters (NSW),Industrial,0.0,0.0,0.0,0.0,0.0
+11205778600,Waterloo (NSW),Residential,357.0,364.0,604.0,672.0,7.0
+11205779300,Alexandria,Residential,178.0,349.0,255.0,404.0,171.0
+11205779900,Waterloo (NSW),Residential,29.0,29.0,43.0,48.0,0.0
+11205786100,Potts Point,Residential,31.0,32.0,47.0,49.0,1.0
+11205786300,Waterloo (NSW),Residential,383.0,384.0,679.0,726.0,1.0
+11205788500,Eveleigh,Commercial,0.0,0.0,0.0,0.0,0.0
+11205851700,Alexandria,Residential,21.0,21.0,58.0,62.0,0.0
+11205855200,Darlinghurst,Residential,75.0,75.0,72.0,73.0,0.0
+11205859500,Rosebery (NSW),Residential,28.0,28.0,91.0,98.0,0.0
+11205859600,Alexandria,Residential,13.0,13.0,33.0,36.0,0.0
+11208740000,Surry Hills,Residential,39.0,39.0,51.0,57.0,0.0
+11208760000,Darlinghurst,Residential,59.0,61.0,105.0,107.0,2.0
+11208790000,Potts Point,Residential,164.0,168.0,229.0,220.0,4.0
+11210010000,Potts Point,Residential,61.0,74.0,96.0,100.0,13.0
+11210350000,Potts Point,Residential,68.0,68.0,73.0,72.0,0.0
+11210360000,Potts Point,Residential,50.0,58.0,53.0,55.0,8.0
+11210370000,Rushcutters Bay,Residential,44.0,161.0,82.0,155.0,117.0
+11210400000,Rushcutters Bay,Residential,77.0,77.0,107.0,104.0,0.0
+11210850000,Ultimo,Residential,176.0,415.0,438.0,643.0,239.0
+11210870000,Ultimo,Residential,61.0,63.0,109.0,170.0,2.0
+11210950000,Millers Point,Residential,207.0,209.0,241.0,257.0,2.0
+11210960000,Millers Point,Residential,101.0,103.0,144.0,154.0,2.0
+11213980000,Alexandria,Residential,41.0,41.0,68.0,75.0,0.0
+11214160000,Potts Point,Residential,73.0,74.0,71.0,71.0,1.0
+11214390000,Pyrmont,Residential,92.0,94.0,176.0,196.0,2.0
+11214670000,Pyrmont,Residential,117.0,119.0,212.0,236.0,2.0
+11220500000,Sydney,Commercial,0.0,146.0,0.0,88.0,146.0
+11221410000,Rosebery (NSW),Residential,227.0,319.0,417.0,419.0,92.0
+11221420000,Zetland,Commercial,125.0,682.0,166.0,490.0,557.0
+11228680000,Glebe (NSW),Residential,38.0,39.0,57.0,58.0,1.0
+11228740000,Glebe (NSW),Residential,56.0,57.0,86.0,90.0,1.0
+11228820000,Haymarket,Residential,424.0,426.0,1165.0,1383.0,2.0
+11228930000,Rosebery (NSW),Residential,49.0,49.0,116.0,124.0,0.0
+11229240000,Waterloo (NSW),Residential,139.0,142.0,216.0,241.0,3.0
+11229320000,Chippendale,Residential,70.0,70.0,83.0,104.0,0.0
+11229440000,Rosebery (NSW),Residential,391.0,426.0,480.0,578.0,35.0
+11205789300,Ultimo,Residential,0.0,0.0,0.0,0.0,0.0
+11205790300,Elizabeth Bay,Residential,86.0,86.0,117.0,115.0,0.0
+11205872400,Erskineville,Residential,102.0,120.0,114.0,150.0,18.0
+11206800000,Potts Point,Residential,55.0,55.0,51.0,76.0,0.0
+11207480000,Potts Point,Residential,71.0,78.0,85.0,101.0,7.0
+11207490000,Potts Point,Residential,50.0,53.0,93.0,94.0,3.0
+11207500000,Centennial Park (NSW),Residential,45.0,59.0,112.0,117.0,14.0
+11207530000,Forest Lodge,Residential,46.0,48.0,74.0,80.0,2.0
+11207730000,Potts Point,Residential,50.0,52.0,60.0,61.0,2.0
+11207741000,Darlinghurst,Residential,60.0,61.0,97.0,99.0,1.0
+11211320000,Rosebery (NSW),Residential,119.0,170.0,197.0,250.0,51.0
+11211330000,Zetland,Residential,53.0,108.0,105.0,120.0,55.0
+11211340000,Zetland,Residential,105.0,105.0,183.0,203.0,0.0
+11211350000,Zetland,Residential,217.0,217.0,326.0,361.0,0.0
+11211370000,Chippendale,Residential,18.0,18.0,46.0,58.0,0.0
+11211380000,Rosebery (NSW),Residential,104.0,210.0,204.0,277.0,106.0
+11211400000,Rosebery (NSW),Residential,47.0,104.0,78.0,155.0,57.0
+11211450000,Waterloo (NSW),Residential,34.0,34.0,62.0,68.0,0.0
+11211470000,Waterloo (NSW),Residential,50.0,51.0,92.0,104.0,1.0
+11211480000,Waterloo (NSW),Residential,73.0,73.0,105.0,109.0,0.0
+11211490000,Zetland,Residential,171.0,346.0,308.0,408.0,175.0
+11211500000,Rosebery (NSW),Residential,123.0,124.0,227.0,268.0,1.0
+11211510000,Rosebery (NSW),Residential,102.0,103.0,139.0,149.0,1.0
+11211520000,Rosebery (NSW),Commercial,0.0,0.0,0.0,0.0,0.0
+11211530000,Rosebery (NSW),Residential,42.0,43.0,73.0,79.0,1.0
+11211540000,Waterloo (NSW),Residential,146.0,291.0,249.0,356.0,145.0
+11212020000,Forest Lodge,Residential,348.0,693.0,581.0,562.0,345.0
+11212030000,Forest Lodge,Residential,48.0,97.0,94.0,121.0,49.0
+11225720000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+11226890000,Rosebery (NSW),Residential,281.0,347.0,479.0,589.0,66.0
+11226900000,Rosebery (NSW),Residential,189.0,189.0,335.0,394.0,0.0
+11227030000,Rosebery (NSW),Residential,195.0,201.0,355.0,369.0,6.0
+11227040000,Zetland,Residential,500.0,505.0,781.0,733.0,5.0
+11227050000,Zetland,Residential,66.0,66.0,79.0,112.0,0.0
+11227470000,Surry Hills,Residential,58.0,58.0,100.0,101.0,0.0
+11227530000,Alexandria,Residential,53.0,53.0,103.0,106.0,0.0
+11227540000,Alexandria,Residential,45.0,46.0,66.0,68.0,1.0
+11227550000,Alexandria,Residential,68.0,68.0,102.0,108.0,0.0
+11227560000,Alexandria,Residential,69.0,73.0,89.0,97.0,4.0
+11227660000,Alexandria,Industrial,0.0,1.0,0.0,1.0,1.0
+11227680000,Erskineville,Residential,260.0,260.0,457.0,470.0,0.0
+11229510000,Zetland,Residential,293.0,293.0,455.0,443.0,0.0
+11229530000,Haymarket,Residential,581.0,595.0,926.0,1182.0,14.0
+11229570000,Rosebery (NSW),Residential,154.0,399.0,280.0,674.0,245.0
+11229600000,Redfern,Residential,63.0,63.0,104.0,121.0,0.0
+11229640000,Waterloo (NSW),Residential,103.0,103.0,175.0,181.0,0.0
+11229650000,Zetland,Residential,112.0,182.0,202.0,221.0,70.0
+11229690000,Chippendale,Residential,71.0,88.0,73.0,99.0,17.0
+11229750000,Haymarket,Residential,3.0,4.0,109.0,177.0,1.0
+11229760000,Haymarket,Residential,394.0,414.0,644.0,817.0,20.0
+11229780000,Haymarket,Commercial,0.0,0.0,0.0,0.0,0.0
+11229890000,Redfern,Residential,36.0,36.0,50.0,54.0,0.0
+11229910000,Redfern,Residential,53.0,53.0,81.0,94.0,0.0
+11230000000,Waterloo (NSW),Residential,51.0,51.0,94.0,104.0,0.0
+11230150000,Waterloo (NSW),Residential,288.0,292.0,492.0,597.0,4.0
+11230200000,Glebe (NSW),Commercial,47.0,47.0,67.0,64.0,0.0
+11230220000,Chippendale,Residential,338.0,340.0,750.0,842.0,2.0
+11230400000,Zetland,Residential,128.0,133.0,206.0,230.0,5.0
+11230420000,Chippendale,Residential,61.0,64.0,103.0,131.0,3.0
+11230850000,Haymarket,Residential,541.0,545.0,808.0,981.0,4.0
+11231190000,Zetland,Residential,301.0,303.0,520.0,572.0,2.0
+11232100000,Forest Lodge,Residential,237.0,252.0,376.0,369.0,15.0
+11232110000,Forest Lodge,Residential,185.0,374.0,341.0,454.0,189.0
+11232430000,Redfern,Residential,36.0,36.0,66.0,74.0,0.0
+11232460000,Chippendale,Residential,209.0,393.0,274.0,396.0,184.0
+11232470000,Waterloo (NSW),Residential,79.0,83.0,125.0,139.0,4.0
+11232770000,Redfern,Residential,75.0,76.0,131.0,148.0,1.0
+11232790000,Camperdown (NSW),Residential,44.0,44.0,78.0,82.0,0.0
+11232810000,Redfern,Residential,0.0,0.0,109.0,118.0,0.0
+11236080000,Pyrmont,Residential,140.0,140.0,249.0,287.0,0.0
+11236210000,Surry Hills,Residential,57.0,61.0,75.0,91.0,4.0
+11236230000,Surry Hills,Residential,63.0,63.0,80.0,94.0,0.0
+11236620000,Pyrmont,Commercial,137.0,153.0,232.0,247.0,16.0
+11236630000,Pyrmont,Residential,65.0,65.0,130.0,145.0,0.0
+11236640000,Surry Hills,Residential,190.0,191.0,204.0,207.0,1.0
+11236650000,Pyrmont,Residential,80.0,159.0,124.0,170.0,79.0
+11236670000,Camperdown (NSW),Residential,0.0,8.0,0.0,0.0,8.0
+11236690000,Camperdown (NSW),Hospital/Medical,0.0,0.0,17.0,19.0,0.0
+11237000000,Alexandria,Residential,162.0,162.0,272.0,280.0,0.0
+11237730000,Pyrmont,Residential,25.0,25.0,32.0,35.0,0.0
+11237860000,Potts Point,Residential,38.0,38.0,49.0,49.0,0.0
+11237980000,Pyrmont,Residential,98.0,98.0,195.0,217.0,0.0
+11237990000,Pyrmont,Residential,287.0,291.0,382.0,433.0,4.0
+11238000000,Pyrmont,Residential,149.0,149.0,341.0,370.0,0.0
+11238010000,Pyrmont,Residential,84.0,84.0,131.0,144.0,0.0
+11238020000,Pyrmont,Residential,224.0,224.0,492.0,526.0,0.0
+11238030000,Pyrmont,Residential,118.0,122.0,215.0,232.0,4.0
+11238040000,Pyrmont,Residential,130.0,131.0,239.0,264.0,1.0
+11238060000,Alexandria,Residential,51.0,52.0,140.0,154.0,1.0
+11227840000,Camperdown (NSW),Residential,36.0,40.0,64.0,72.0,4.0
+11227870000,Camperdown (NSW),Residential,148.0,298.0,220.0,291.0,150.0
+11227880000,Erskineville,Residential,427.0,434.0,781.0,845.0,7.0
+11227940000,Alexandria,Residential,151.0,152.0,240.0,247.0,1.0
+11228060000,Pyrmont,Residential,60.0,62.0,100.0,117.0,2.0
+11228070000,Surry Hills,Residential,111.0,111.0,185.0,188.0,0.0
+11228080000,Surry Hills,Residential,74.0,74.0,105.0,106.0,0.0
+11228090000,Newtown (NSW),Residential,50.0,50.0,86.0,91.0,0.0
+11228220000,Erskineville,Residential,82.0,92.0,155.0,171.0,10.0
+11228230000,Erskineville,Residential,71.0,72.0,124.0,132.0,1.0
+11228250000,Erskineville,Residential,56.0,56.0,113.0,116.0,0.0
+11228260000,Erskineville,Residential,95.0,95.0,160.0,170.0,0.0
+11228470000,Newtown (NSW),Residential,41.0,42.0,77.0,82.0,1.0
+11232920000,Waterloo (NSW),Residential,56.0,59.0,87.0,99.0,3.0
+11232990000,Glebe (NSW),Residential,282.0,312.0,426.0,443.0,30.0
+11233050000,Camperdown (NSW),Residential,101.0,206.0,176.0,211.0,105.0
+11233480000,Camperdown (NSW),Residential,103.0,103.0,128.0,134.0,0.0
+11233500000,Glebe (NSW),Commercial,43.0,43.0,54.0,52.0,0.0
+11233600000,Glebe (NSW),Residential,243.0,243.0,322.0,327.0,0.0
+11233610000,Camperdown (NSW),Residential,151.0,151.0,149.0,157.0,0.0
+11233620000,Glebe (NSW),Residential,52.0,58.0,62.0,64.0,6.0
+11233630000,Glebe (NSW),Residential,30.0,31.0,90.0,95.0,1.0
+11233640000,Camperdown (NSW),Residential,40.0,84.0,59.0,73.0,44.0
+11233690000,Forest Lodge,Residential,111.0,223.0,186.0,248.0,112.0
+11233720000,Glebe (NSW),Commercial,45.0,45.0,64.0,61.0,0.0
+11233820000,Rushcutters Bay,Residential,39.0,39.0,46.0,47.0,0.0
+11233840000,Rushcutters Bay,Residential,21.0,21.0,16.0,16.0,0.0
+11233950000,Pyrmont,Residential,71.0,71.0,72.0,81.0,0.0
+11234340000,Pyrmont,Commercial,61.0,61.0,128.0,132.0,0.0
+10745261000,Woolloomooloo,Commercial,0.0,0.0,0.0,0.0,0.0
+10745262000,Woolloomooloo,Commercial,38.0,41.0,56.0,63.0,3.0
+10745271000,Darlinghurst,Residential,9.0,9.0,12.0,16.0,0.0
+10745272000,Darlinghurst,Residential,21.0,22.0,47.0,48.0,1.0
+10745282000,Elizabeth Bay,Residential,36.0,36.0,49.0,48.0,0.0
+10745290000,Potts Point,Residential,28.0,29.0,87.0,88.0,1.0
+10745301000,Surry Hills,Commercial,10.0,10.0,31.0,35.0,0.0
+10745302000,Surry Hills,Residential,61.0,66.0,76.0,89.0,5.0
+10745320000,Surry Hills,Residential,30.0,32.0,58.0,61.0,2.0
+10745330000,Surry Hills,Residential,49.0,55.0,107.0,130.0,6.0
+10745340000,Paddington (NSW),Residential,50.0,54.0,89.0,97.0,4.0
+10745350000,Surry Hills,Residential,36.0,41.0,78.0,90.0,5.0
+10745360000,Paddington (NSW),Residential,41.0,41.0,85.0,89.0,0.0
+10745370000,Surry Hills,Residential,61.0,63.0,120.0,134.0,2.0
+10745380000,Surry Hills,Residential,46.0,46.0,105.0,109.0,0.0
+10745390000,Surry Hills,Residential,33.0,33.0,57.0,62.0,0.0
+10745400000,Surry Hills,Residential,16.0,20.0,42.0,46.0,4.0
+10745420000,Potts Point,Residential,97.0,104.0,127.0,157.0,7.0
+10745430000,Darlinghurst,Residential,24.0,25.0,52.0,54.0,1.0
+10745440000,Centennial Park (NSW),Residential,63.0,67.0,69.0,78.0,4.0
+10745461000,Darlinghurst,Residential,84.0,84.0,123.0,124.0,0.0
+10745462000,Darlinghurst,Residential,0.0,0.0,12.0,12.0,0.0
+10745470000,Surry Hills,Residential,43.0,52.0,85.0,99.0,9.0
+10745490000,Surry Hills,Residential,46.0,47.0,86.0,91.0,1.0
+10745500000,Surry Hills,Residential,33.0,41.0,70.0,86.0,8.0
+10745510000,Surry Hills,Residential,57.0,60.0,92.0,100.0,3.0
+10745520000,Rushcutters Bay,Residential,24.0,24.0,42.0,42.0,0.0
+10745540000,Darlinghurst,Residential,24.0,24.0,49.0,50.0,0.0
+10745550000,Darlinghurst,Residential,36.0,36.0,66.0,69.0,0.0
+10745570000,Potts Point,Residential,26.0,40.0,41.0,67.0,14.0
+10745580000,Potts Point,Residential,44.0,45.0,41.0,42.0,1.0
+10745590000,Darlinghurst,Residential,69.0,69.0,119.0,120.0,0.0
+10745620000,Rushcutters Bay,Residential,49.0,49.0,58.0,58.0,0.0
+10745630000,Elizabeth Bay,Residential,19.0,19.0,32.0,36.0,0.0
+10745640000,Darlinghurst,Residential,38.0,38.0,48.0,50.0,0.0
+10745650000,Surry Hills,Residential,36.0,37.0,39.0,40.0,1.0
+10745660000,Potts Point,Residential,54.0,56.0,60.0,71.0,2.0
+10745670000,Woolloomooloo,Residential,45.0,50.0,55.0,62.0,5.0
+10745681000,Surry Hills,Commercial,23.0,23.0,55.0,60.0,0.0
+10745682000,Surry Hills,Commercial,0.0,0.0,59.0,64.0,0.0
+10745700000,Woolloomooloo,Residential,84.0,84.0,114.0,113.0,0.0
+10745710000,Elizabeth Bay,Residential,29.0,30.0,38.0,50.0,1.0
+10745721000,Darlinghurst,Commercial,27.0,29.0,37.0,37.0,2.0
+10745722000,Darlinghurst,Residential,14.0,17.0,25.0,27.0,3.0
+10745730000,Darlinghurst,Residential,23.0,23.0,58.0,76.0,0.0
+10745740000,Darlinghurst,Residential,29.0,32.0,50.0,52.0,3.0
+10745750000,Darlinghurst,Residential,26.0,26.0,58.0,58.0,0.0
+10745760000,Darlinghurst,Residential,28.0,28.0,63.0,66.0,0.0
+10745770000,Darlinghurst,Residential,38.0,39.0,56.0,62.0,1.0
+10745780000,Elizabeth Bay,Residential,14.0,31.0,25.0,48.0,17.0
+10745792000,Elizabeth Bay,Residential,161.0,168.0,198.0,194.0,7.0
+10745800000,Surry Hills,Residential,17.0,18.0,34.0,38.0,1.0
+10745810000,Surry Hills,Residential,31.0,31.0,40.0,44.0,0.0
+10745820000,Paddington (NSW),Residential,33.0,37.0,73.0,78.0,4.0
+10745850000,Elizabeth Bay,Residential,46.0,46.0,65.0,64.0,0.0
+10745860000,Elizabeth Bay,Residential,76.0,76.0,125.0,122.0,0.0
+10745870000,Rushcutters Bay,Residential,43.0,46.0,170.0,192.0,3.0
+10745880000,Potts Point,Residential,125.0,252.0,176.0,261.0,127.0
+10745890000,Darlinghurst,Residential,31.0,31.0,24.0,25.0,0.0
+10745900000,Darlinghurst,Residential,78.0,78.0,81.0,84.0,0.0
+10745910000,Potts Point,Residential,20.0,58.0,14.0,30.0,38.0
+10745920000,Elizabeth Bay,Residential,48.0,82.0,72.0,90.0,34.0
+10745930000,Elizabeth Bay,Residential,39.0,40.0,49.0,54.0,1.0
+10745940000,Darlinghurst,Residential,40.0,40.0,64.0,66.0,0.0
+10745951000,Darlinghurst,Residential,31.0,31.0,81.0,85.0,0.0
+10745952000,Darlinghurst,Commercial,0.0,0.0,0.0,0.0,0.0
+10745970000,Surry Hills,Residential,35.0,36.0,70.0,77.0,1.0
+10745980000,Surry Hills,Residential,45.0,47.0,95.0,111.0,2.0
+10746000000,Surry Hills,Residential,44.0,44.0,120.0,140.0,0.0
+10746010000,Surry Hills,Residential,42.0,43.0,60.0,70.0,1.0
+10746020000,Surry Hills,Residential,39.0,41.0,77.0,81.0,2.0
+10746030000,Centennial Park (NSW),Residential,28.0,28.0,66.0,68.0,0.0
+10746050000,Surry Hills,Residential,39.0,40.0,88.0,102.0,1.0
+10746060000,Surry Hills,Residential,68.0,69.0,128.0,131.0,1.0
+10746070000,Paddington (NSW),Residential,33.0,34.0,76.0,81.0,1.0
+10746080000,Paddington (NSW),Residential,33.0,34.0,90.0,95.0,1.0
+10746090000,Surry Hills,Residential,41.0,42.0,58.0,63.0,1.0
+10746100000,Surry Hills,Residential,27.0,27.0,63.0,67.0,0.0
+10746110000,Darlinghurst,Residential,51.0,51.0,65.0,64.0,0.0
+10746130000,Elizabeth Bay,Residential,35.0,60.0,49.0,70.0,25.0
+10746140000,Surry Hills,Residential,18.0,21.0,21.0,26.0,3.0
+10746150000,Paddington (NSW),Residential,61.0,62.0,136.0,145.0,1.0
+10746160000,Surry Hills,Residential,30.0,51.0,41.0,53.0,21.0
+10746170000,Surry Hills,Residential,36.0,36.0,49.0,55.0,0.0
+10746180000,Surry Hills,Residential,50.0,50.0,95.0,97.0,0.0
+10746190000,Centennial Park (NSW),Residential,59.0,59.0,77.0,80.0,0.0
+10746200000,Surry Hills,Residential,39.0,39.0,77.0,80.0,0.0
+10746210000,Paddington (NSW),Residential,62.0,62.0,152.0,165.0,0.0
+10746230000,Darlinghurst,Residential,20.0,22.0,40.0,41.0,2.0
+10746250000,Potts Point,Residential,25.0,25.0,33.0,33.0,0.0
+10746270000,Darlinghurst,Residential,43.0,45.0,73.0,74.0,2.0
+10746280000,Woolloomooloo,Residential,82.0,121.0,134.0,150.0,39.0
+10746290000,Potts Point,Residential,34.0,34.0,61.0,58.0,0.0
+10746300000,Woolloomooloo,Parkland,0.0,0.0,0.0,0.0,0.0
+10746310000,Darlinghurst,Residential,20.0,20.0,29.0,32.0,0.0
+10746320000,Potts Point,Residential,24.0,25.0,43.0,42.0,1.0
+10746341000,Woolloomooloo,Residential,9.0,9.0,26.0,28.0,0.0
+10746342000,Woolloomooloo,Residential,16.0,16.0,54.0,59.0,0.0
+10746350000,Darlinghurst,Residential,26.0,26.0,65.0,66.0,0.0
+10746360000,Darlinghurst,Residential,37.0,38.0,89.0,93.0,1.0
+10746370000,Potts Point,Commercial,45.0,47.0,65.0,66.0,2.0
+10746390000,Woolloomooloo,Residential,27.0,72.0,26.0,43.0,45.0
+10746400000,Potts Point,Residential,29.0,31.0,36.0,37.0,2.0
+10746410000,Elizabeth Bay,Residential,30.0,30.0,36.0,36.0,0.0
+10746420000,Darlinghurst,Residential,23.0,24.0,36.0,37.0,1.0
+10746430000,Elizabeth Bay,Residential,16.0,16.0,23.0,23.0,0.0
+10746440000,Darlinghurst,Residential,43.0,48.0,44.0,49.0,5.0
+10746450000,Darlinghurst,Residential,7.0,43.0,6.0,24.0,36.0
+10746470000,Darlinghurst,Commercial,0.0,0.0,0.0,0.0,0.0
+10746480000,Rushcutters Bay,Residential,51.0,94.0,68.0,92.0,43.0
+10746491000,Sydney,Commercial,0.0,0.0,0.0,0.0,0.0
+10746492000,Woolloomooloo,Commercial,7.0,8.0,10.0,11.0,1.0
+10746500000,Darlinghurst,Residential,16.0,16.0,44.0,44.0,0.0
+10746510000,Woolloomooloo,Residential,21.0,22.0,90.0,96.0,1.0
+10746520000,Woolloomooloo,Residential,37.0,39.0,74.0,73.0,2.0
+10746540000,Elizabeth Bay,Residential,86.0,87.0,133.0,146.0,1.0
+10746560000,Potts Point,Residential,78.0,165.0,80.0,105.0,87.0
+10746570000,Elizabeth Bay,Parkland,0.0,0.0,0.0,0.0,0.0
+10746580000,Rushcutters Bay,Residential,44.0,44.0,40.0,41.0,0.0
+10746590000,Potts Point,Residential,18.0,19.0,35.0,39.0,1.0
+10746600000,Potts Point,Residential,40.0,40.0,58.0,65.0,0.0
+10746610000,Rushcutters Bay,Residential,79.0,79.0,68.0,67.0,0.0
+10746630000,Rushcutters Bay,Residential,36.0,36.0,53.0,54.0,0.0
+10746640000,Darlinghurst,Residential,34.0,36.0,50.0,51.0,2.0
+10746650000,Darlinghurst,Residential,55.0,64.0,64.0,73.0,9.0
+10746660000,Darlinghurst,Residential,29.0,31.0,74.0,76.0,2.0
+10746670000,Surry Hills,Residential,31.0,33.0,45.0,47.0,2.0
+10746680000,Paddington (NSW),Residential,32.0,32.0,44.0,49.0,0.0
+10746690000,Centennial Park (NSW),Residential,28.0,28.0,65.0,67.0,0.0
+10746700000,Centennial Park (NSW),Residential,49.0,50.0,162.0,167.0,1.0
+10746710000,Darlinghurst,Commercial,0.0,1.0,0.0,1.0,1.0
+10746720000,Darlinghurst,Commercial,17.0,18.0,29.0,31.0,1.0
+10746730000,Surry Hills,Commercial,4.0,4.0,20.0,22.0,0.0
+10746740000,Darlinghurst,Education,0.0,0.0,0.0,0.0,0.0
+10746750000,Elizabeth Bay,Residential,36.0,36.0,33.0,34.0,0.0
+10746760000,Potts Point,Residential,155.0,158.0,203.0,196.0,3.0
+10746770000,Elizabeth Bay,Residential,59.0,59.0,75.0,74.0,0.0
+10746780000,Elizabeth Bay,Residential,40.0,40.0,35.0,35.0,0.0
+10746790000,Elizabeth Bay,Commercial,0.0,2.0,0.0,1.0,2.0
+10746800000,Surry Hills,Residential,64.0,72.0,116.0,124.0,8.0
+10746810000,Surry Hills,Residential,50.0,54.0,92.0,104.0,4.0
+10746840000,Paddington (NSW),Residential,59.0,62.0,112.0,126.0,3.0
+10746850000,Surry Hills,Residential,35.0,36.0,78.0,85.0,1.0
+10746860000,Paddington (NSW),Residential,34.0,36.0,98.0,105.0,2.0
+10746870000,Surry Hills,Residential,26.0,40.0,52.0,60.0,14.0
+10746880000,Surry Hills,Residential,37.0,38.0,65.0,68.0,1.0
+10746900000,Paddington (NSW),Residential,20.0,20.0,62.0,64.0,0.0
+10746910000,Centennial Park (NSW),Residential,25.0,25.0,40.0,42.0,0.0
+10746920000,Centennial Park (NSW),Residential,30.0,30.0,63.0,65.0,0.0
+10746930000,Paddington (NSW),Residential,21.0,24.0,58.0,63.0,3.0
+10746940000,Surry Hills,Residential,37.0,38.0,84.0,93.0,1.0
+10746950000,Surry Hills,Residential,32.0,50.0,46.0,58.0,18.0
+10746970000,Surry Hills,Residential,58.0,58.0,93.0,96.0,0.0
+10746980000,Surry Hills,Commercial,0.0,0.0,0.0,0.0,0.0
+10746990000,Surry Hills,Residential,70.0,70.0,82.0,84.0,0.0
+10747000000,Centennial Park (NSW),Residential,35.0,70.0,62.0,72.0,35.0
+10747010000,Centennial Park (NSW),Residential,42.0,56.0,58.0,70.0,14.0
+10747020000,Surry Hills,Residential,71.0,77.0,100.0,109.0,6.0
+10747030000,Surry Hills,Residential,27.0,27.0,35.0,36.0,0.0
+10747040000,Surry Hills,Residential,36.0,37.0,84.0,99.0,1.0
+10747050000,Surry Hills,Residential,27.0,28.0,40.0,45.0,1.0
+10747060000,Surry Hills,Residential,37.0,39.0,89.0,98.0,2.0
+10747071000,Surry Hills,Residential,59.0,60.0,93.0,99.0,1.0
+10747072000,Surry Hills,Commercial,3.0,4.0,4.0,5.0,1.0
+10747080000,Surry Hills,Residential,40.0,54.0,80.0,98.0,14.0
+10747090000,Surry Hills,Residential,35.0,36.0,79.0,85.0,1.0
+10747100000,Darlinghurst,Residential,27.0,27.0,61.0,62.0,0.0
+10747120000,Potts Point,Residential,78.0,78.0,94.0,102.0,0.0
+10747130000,Elizabeth Bay,Residential,52.0,52.0,83.0,81.0,0.0
+10747140000,Surry Hills,Commercial,47.0,74.0,76.0,94.0,27.0
+10747150000,Surry Hills,Residential,125.0,125.0,138.0,142.0,0.0
+10747160000,Surry Hills,Residential,26.0,26.0,52.0,58.0,0.0
+10747170000,Paddington (NSW),Residential,34.0,34.0,78.0,82.0,0.0
+10747180000,Moore Park,Parkland,0.0,0.0,0.0,0.0,0.0
+10747190000,Paddington (NSW),Education,0.0,0.0,6.0,6.0,0.0
+10747220000,Centennial Park (NSW),Residential,15.0,15.0,30.0,30.0,0.0
+10747230000,Surry Hills,Commercial,0.0,0.0,0.0,0.0,0.0
+10747240000,Darlinghurst,Commercial,0.0,33.0,0.0,22.0,33.0
+10747250000,Darlinghurst,Residential,12.0,14.0,53.0,55.0,2.0
+10747260000,Darlinghurst,Residential,26.0,30.0,59.0,61.0,4.0
+10747270000,Potts Point,Residential,41.0,41.0,44.0,44.0,0.0
+10747280000,Elizabeth Bay,Residential,74.0,74.0,77.0,87.0,0.0
+10747290000,Potts Point,Residential,43.0,45.0,55.0,56.0,2.0
+10747300000,Darlinghurst,Residential,21.0,21.0,22.0,22.0,0.0
+10747310000,Darlinghurst,Residential,38.0,41.0,55.0,56.0,3.0
+10747320000,Darlinghurst,Residential,41.0,73.0,64.0,80.0,32.0
+10747330000,Woolloomooloo,Residential,38.0,38.0,51.0,50.0,0.0
+10747340000,Woolloomooloo,Residential,29.0,29.0,57.0,57.0,0.0
+10747360000,Darlinghurst,Residential,21.0,22.0,65.0,68.0,1.0
+10747380000,Darlinghurst,Residential,54.0,55.0,54.0,54.0,1.0
+10747390000,Potts Point,Commercial,46.0,46.0,42.0,62.0,0.0
+10747400000,Elizabeth Bay,Residential,24.0,24.0,29.0,38.0,0.0
+10747410000,Rushcutters Bay,Residential,36.0,91.0,35.0,59.0,55.0
+10747420000,Rushcutters Bay,Residential,10.0,10.0,15.0,17.0,0.0
+10747430000,Darlinghurst,Residential,137.0,300.0,178.0,246.0,163.0
+10747440000,Potts Point,Residential,41.0,41.0,43.0,48.0,0.0
+10747450000,Rushcutters Bay,Residential,57.0,57.0,52.0,51.0,0.0
+10747460000,Rushcutters Bay,Residential,28.0,28.0,31.0,31.0,0.0
+10747470000,Rushcutters Bay,Residential,35.0,35.0,67.0,68.0,0.0
+10747480000,Darlinghurst,Residential,27.0,27.0,42.0,42.0,0.0
+10747490000,Darlinghurst,Residential,61.0,61.0,69.0,68.0,0.0
+10747510000,Darlinghurst,Residential,26.0,26.0,33.0,33.0,0.0
+10747520000,Potts Point,Residential,81.0,171.0,66.0,138.0,90.0
+10747530000,Potts Point,Parkland,0.0,1.0,0.0,1.0,1.0
+10747540000,Surry Hills,Residential,69.0,71.0,118.0,128.0,2.0
+10747550000,Elizabeth Bay,Residential,111.0,111.0,171.0,169.0,0.0
+10747560000,Elizabeth Bay,Residential,36.0,36.0,49.0,49.0,0.0
+10747580000,Elizabeth Bay,Residential,147.0,301.0,163.0,332.0,154.0
+10747600000,Elizabeth Bay,Residential,30.0,30.0,34.0,42.0,0.0
+10747611000,Elizabeth Bay,Residential,71.0,141.0,80.0,126.0,70.0
+10747612000,Elizabeth Bay,Residential,18.0,18.0,20.0,25.0,0.0
+10747620000,Potts Point,Residential,23.0,34.0,26.0,33.0,11.0
+10747630000,Potts Point,Residential,61.0,64.0,77.0,77.0,3.0
+10747640000,Potts Point,Residential,29.0,30.0,47.0,46.0,1.0
+10747660000,Elizabeth Bay,Residential,43.0,43.0,43.0,56.0,0.0
+10747670000,Potts Point,Commercial,140.0,282.0,162.0,189.0,142.0
+10747680000,Woolloomooloo,Residential,34.0,34.0,44.0,41.0,0.0
+10747690000,Woolloomooloo,Education,3.0,4.0,8.0,9.0,1.0
+10747700000,Darlinghurst,Transport,0.0,0.0,0.0,0.0,0.0
+10747710000,Surry Hills,Commercial,0.0,0.0,0.0,0.0,0.0
+10747720000,Surry Hills,Commercial,15.0,16.0,19.0,20.0,1.0
+10747731000,Darlinghurst,Commercial,0.0,0.0,0.0,0.0,0.0
+10747732000,Darlinghurst,Commercial,4.0,5.0,0.0,1.0,1.0
