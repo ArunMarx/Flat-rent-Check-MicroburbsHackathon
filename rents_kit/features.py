@@ -9,6 +9,7 @@ from scipy.spatial import cKDTree
 
 import config as C
 from io_files import bldg_key, clean_suburb
+from public_features import attach_public, public_cols
 
 LAT0, LON0 = -33.8731, 151.2065          # Sydney Town Hall
 
@@ -34,6 +35,7 @@ def prep_flats(df, blocks=None, cutoff=None):
     d["x"], d["y"] = to_xy(lat, lon)
     d["dist_cbd"] = np.hypot(d["x"], d["y"])
     d["floor"] = d["floor_level"]
+    d = attach_public(d)                   # G-NAF floor fill + public columns (config.USE_GNAF/USE_LIDAR)
     d["bed_group"] = bed_group(d["bedrooms"])
     d["is_studio"] = (d["bedrooms"] == 0).astype(float).where(d["bedrooms"].notna())      # T7.4
     d["max_floor_bldg"] = d.groupby("bkey")["floor"].transform("max")
@@ -81,7 +83,8 @@ CATEGORICAL = ["suburb_code", "anchor_src"]
 
 def feature_list(d=None, use_views=None):
     use_views = C.USE_VIEWS if use_views is None else use_views
-    return OWN + BLD + MB + KNN + SUB + DERIVED + STATIC + (VIEWS if use_views else []) + (block_cols(d) if d is not None else [])
+    return (OWN + BLD + MB + KNN + SUB + DERIVED + STATIC + (VIEWS if use_views else [])
+            + (block_cols(d) if d is not None else []) + public_cols(d))
 
 
 def _years(x):

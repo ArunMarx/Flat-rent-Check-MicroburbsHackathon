@@ -138,7 +138,9 @@ def make_report(d, A, info, ainfo, path=None):
         h.append(f"<li>Microburbs API rent history (to 31 July 2026): {ainfo['merge']}.</li>")
     api_used = "api" in ainfo.get("by_source", {})
     h.append(f"<li>Sources: Microburbs supplied files{' and Microburbs Hackathon API rent history (to 31 July 2026)' if api_used else ''}; "
-             "Open G-NAF © Geoscape Australia; ABS Census © Commonwealth of Australia, CC BY 4.0. Data © Microburbs; estimates are indicative.</li></ul>")
+             "Open G-NAF © Geoscape Australia; ABS Census © Commonwealth of Australia, CC BY 4.0"
+             + ("; LiDAR 2013/2020 © State of NSW (Spatial Services) via ELVIS, CC BY; building footprints, parks and water © OpenStreetMap contributors, ODbL" + ("; short-stay counts from Inside Airbnb, CC BY 4.0" if C.USE_AIRBNB else "") if (C.USE_GNAF or C.USE_LIDAR or C.USE_AIRBNB) and (C.PUBLIC_DIR / "flat_public_features.csv").exists() else "")
+             + ". Data © Microburbs; estimates are indicative.</li></ul>")
     if (out / "index.csv").exists():
         ix = pd.read_csv(out / "index.csv")
         fig, ax = plt.subplots(figsize=(7, 2.6))

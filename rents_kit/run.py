@@ -111,7 +111,9 @@ def cmd_eval(a):
     log(f"adverts: {info}")
     tr, te = (C.CONFIRM_TRAIN_END, C.CONFIRM_TEST) if a.confirm else (C.TUNE_TRAIN_END, C.TUNE_TEST)
     label = ("confirm" if a.confirm else "tune") + f"/{a.sources}" + ("" if a.views else "/noviews") + \
-            (f"/lateapi-{a.late_api or C.LATE_API}" if a.sources == "merged" else "") + f"/{C.INDEX_END_MODE}"
+            (f"/lateapi-{a.late_api or C.LATE_API}" if a.sources == "merged" else "") + f"/{C.INDEX_END_MODE}" + \
+            ("" if C.USE_GNAF else "/nognaf") + ("" if C.USE_LIDAR else "/nolidar") + \
+            ("/airbnb" + ("-sept" if C.AIRBNB_SEPT_VALUES else "") if C.USE_AIRBNB else "")
     res, te_df, fit, F = run_validation(d, A, tr, te, label, use_views=a.views)
     print_validation(res)
     C.OUT_DIR.mkdir(parents=True, exist_ok=True)

@@ -113,6 +113,7 @@ def t_api():
     tmp = Path(tempfile.mkdtemp())
     cl = Client(mock_dir=DATA / "mock_api", cache_dir=tmp, log=lambda m: None)
     old = C.CUTOFF
+    old_deadline, C.API_DEADLINE = C.API_DEADLINE, "23:59"   # the mock pull must not stop on the day's wall-clock deadline
     C.CUTOFF = "2026-12-31"                      # make the mock return late rows, then filter with the real cutoff
     subs = sorted(cl.t.covered)[:2] + sorted(cl.t.uncovered)[:1]
     C.CUTOFF = old
@@ -133,6 +134,7 @@ def t_api():
     check("429 honoured and 5xx retried", cl.stats["429"] >= 1 and cl.stats["retries"] >= 1, cl.stats)
     check("403 recorded for uncovered suburb", cl.stats["403"] >= 1)
     check("manifest written with to_date", all(v["to_date"] == C.CUTOFF for v in man["leases"].values()))
+    C.API_DEADLINE = old_deadline
     shutil.rmtree(tmp)
 
 

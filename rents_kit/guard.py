@@ -35,6 +35,23 @@ def strip(df):
     return df.drop(columns=[c for c in df.columns if c.lower() in C.LEASE_DROP], errors="ignore")
 
 
+_DATED = ("date", "created", "modified", "seen", "timestamp", "review", "scrape")
+
+
+def check_public(df, name="public"):
+    """Public feature tables must hold static facts only: no date-like column names, no datetime values,
+    and nothing but numbers besides the join keys (T2.x: nothing dated after the cutoff can hide in them)."""
+    bad = [c for c in df.columns if any(k in c.lower() for k in _DATED)]
+    if bad:
+        raise SystemExit(f"{name}: refusing date-like columns {bad}")
+    for c in df.columns:
+        if c in ("gnaf_id", "osm_id", "floor", "suburb"):
+            continue
+        if pd.api.types.is_datetime64_any_dtype(df[c]) or not pd.api.types.is_numeric_dtype(df[c]):
+            raise SystemExit(f"{name}: column {c!r} is not numeric (dtype {df[c].dtype}); only numeric facts are allowed")
+    return df
+
+
 def mask_flats(flats, cutoff):
     """T2.2: null input dates after the cutoff, and the advertised flag they imply."""
     f = flats.copy()
